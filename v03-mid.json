@@ -1,0 +1,142 @@
+{
+  "id": "v03",
+  "title": "Verbal Set 3",
+  "subject": "verbal",
+  "difficulty": "mid",
+  "questions": [
+    {
+      "id": "v03-q01",
+      "type": "text_completion",
+      "blanks": 1,
+      "prompt": "Although the artist's work was [[1]] in her native country for decades, only recently has it begun to receive serious critical attention abroad.",
+      "options": [["celebrated", "ignored", "produced", "translated", "criticized"]],
+      "answer": ["celebrated"],
+      "explanation": "'Although... only recently abroad' sets up contrast between home and abroad. If recently she's getting positive attention abroad, at home she was already getting it. 'Celebrated' completes the contrast."
+    },
+    {
+      "id": "v03-q02",
+      "type": "text_completion",
+      "blanks": 2,
+      "prompt": "The senator's reputation for [[1]] was undermined when investigative journalists revealed that several of her policy positions had been quietly [[2]] to align with major donors' interests.",
+      "options": [
+        ["compromise", "integrity", "vacillation"],
+        ["modified", "publicized", "abandoned"]
+      ],
+      "answer": ["integrity", "modified"],
+      "explanation": "'Reputation was undermined' implies the original reputation was positive — integrity. The revelation: positions had been quietly changed (modified) for donor interests, which undermines integrity."
+    },
+    {
+      "id": "v03-q03",
+      "type": "text_completion",
+      "blanks": 1,
+      "prompt": "Far from being [[1]], the new policy's effects were felt across every level of the organization within weeks of its implementation.",
+      "options": [["immediate", "negligible", "controversial", "predictable", "comprehensive"]],
+      "answer": ["negligible"],
+      "explanation": "'Far from being X' = opposite of X. Effects felt 'across every level... within weeks' = significant. Opposite is negligible (insignificant)."
+    },
+    {
+      "id": "v03-q04",
+      "type": "text_completion",
+      "blanks": 2,
+      "prompt": "The professor's lectures, though dense with detail, were never [[1]]; her gift for the [[2]] anecdote kept even the most abstruse material grounded in human experience.",
+      "options": [
+        ["redundant", "dry", "rigorous"],
+        ["scholarly", "tangential", "well-chosen"]
+      ],
+      "answer": ["dry", "well-chosen"],
+      "explanation": "Dense detail risks being dry; the lectures escaped that fate because of well-chosen anecdotes that grounded abstract material. 'Tangential' anecdotes would distract, not ground."
+    },
+    {
+      "id": "v03-q05",
+      "type": "sentence_equivalence",
+      "prompt": "The general's [[1]] response to the crisis prevented panic from spreading among the civilian population.",
+      "options": ["composed", "unflappable", "hesitant", "vacillating", "alarmed", "frantic"],
+      "answer": ["composed", "unflappable"],
+      "explanation": "Response prevented panic — meaning it was calm. Composed and unflappable both describe calmness under pressure."
+    },
+    {
+      "id": "v03-q06",
+      "type": "sentence_equivalence",
+      "prompt": "His arguments, though logically [[1]], failed to persuade the audience because they ignored the emotional weight of the issue.",
+      "options": ["sound", "valid", "flawed", "specious", "compelling", "moving"],
+      "answer": ["sound", "valid"],
+      "explanation": "'Though logically ___' followed by failure for emotional reasons — meaning logically the arguments were fine. Sound and valid both mean logically correct."
+    },
+    {
+      "id": "v03-q07",
+      "type": "sentence_equivalence",
+      "prompt": "Her writing was so [[1]] that even readers unfamiliar with the subject could grasp her main argument.",
+      "options": ["lucid", "perspicuous", "ponderous", "abstruse", "ornate", "florid"],
+      "answer": ["lucid", "perspicuous"],
+      "explanation": "Even unfamiliar readers could follow it — meaning the writing was clear. Lucid and perspicuous both mean clearly understandable."
+    },
+    {
+      "id": "v03-q08",
+      "type": "sentence_equivalence",
+      "prompt": "After months of acrimonious debate, the committee finally produced a recommendation [[1]] enough to satisfy no one — too cautious for reformers, too aggressive for traditionalists.",
+      "options": ["compromised", "diluted", "radical", "extreme", "principled", "bold"],
+      "answer": ["compromised", "diluted"],
+      "explanation": "Satisfied neither side because it was watered down between extremes. Compromised and diluted both convey weakening through middle-ground concessions."
+    },
+    {
+      "id": "v03-q09",
+      "type": "reading_comprehension",
+      "passage": "For most of the nineteenth century, the literary novel was understood by its English-language critics as a vehicle for moral instruction. Even writers whose work seemed to resist this framework — Thackeray's satires, the Brontës' passionate dramas — were typically defended in moral terms by their advocates and attacked in moral terms by their detractors. The ascendancy of an aesthetic conception of the novel, which prized formal achievement over ethical content, came late and incompletely.\n\nRecent literary historians have argued that the moral framework was less restrictive than it appears in retrospect. The ethical vocabulary of nineteenth-century criticism was capacious enough to accommodate complex psychological portraiture, ambiguous endings, and protagonists whose virtues were inseparable from their vices. To read these critics as imposing a narrow moralism, on this view, is to anachronistically project later aesthetic categories onto a discourse that did not yet operate by them.",
+      "prompt": "The primary purpose of the passage is to",
+      "options": [
+        "argue that nineteenth-century critics were less moralistic than later writers acknowledged",
+        "trace the development of aesthetic criticism in the late nineteenth century",
+        "defend the moral framework of nineteenth-century criticism against modern dismissals",
+        "describe a critical orthodoxy and a recent revisionist challenge to received understanding of it",
+        "demonstrate that the work of Thackeray and the Brontës resists moral interpretation"
+      ],
+      "answer": "describe a critical orthodoxy and a recent revisionist challenge to received understanding of it",
+      "explanation": "First paragraph sketches the standard view; second presents the recent revisionist argument. That two-part structure is choice D."
+    },
+    {
+      "id": "v03-q10",
+      "type": "reading_comprehension",
+      "passage": "For most of the nineteenth century, the literary novel was understood by its English-language critics as a vehicle for moral instruction. Even writers whose work seemed to resist this framework — Thackeray's satires, the Brontës' passionate dramas — were typically defended in moral terms by their advocates and attacked in moral terms by their detractors. The ascendancy of an aesthetic conception of the novel, which prized formal achievement over ethical content, came late and incompletely.\n\nRecent literary historians have argued that the moral framework was less restrictive than it appears in retrospect. The ethical vocabulary of nineteenth-century criticism was capacious enough to accommodate complex psychological portraiture, ambiguous endings, and protagonists whose virtues were inseparable from their vices. To read these critics as imposing a narrow moralism, on this view, is to anachronistically project later aesthetic categories onto a discourse that did not yet operate by them.",
+      "prompt": "The author would most likely agree that",
+      "options": [
+        "the moral framework was actually a narrow constraint on nineteenth-century novelists",
+        "modern readers have undervalued the formal achievements of Thackeray and the Brontës",
+        "nineteenth-century critics could engage with morally ambiguous works without abandoning ethical vocabulary",
+        "aesthetic criticism is more sophisticated than its moral predecessor",
+        "contemporary criticism should return to ethical evaluation as its primary mode"
+      ],
+      "answer": "nineteenth-century critics could engage with morally ambiguous works without abandoning ethical vocabulary",
+      "explanation": "The passage's revisionist position is that the moral vocabulary 'was capacious enough to accommodate' complex and ambiguous works — exactly choice C."
+    },
+    {
+      "id": "v03-q11",
+      "type": "reading_comprehension",
+      "passage": "The detection of biosignatures in the atmospheres of distant exoplanets has long been regarded as the most plausible near-term route to evidence of extraterrestrial life. Oxygen, in particular, has been treated as a strong indicator: on Earth, the abundance of atmospheric oxygen is overwhelmingly biological in origin. Yet recent modeling work has identified abiotic mechanisms — photolysis of water vapor in particular planetary configurations — that can produce oxygen-rich atmospheres in the absence of life. The implication is not that oxygen detection is uninformative, but that interpreting it requires careful contextualization within a planet's broader chemical and orbital characteristics.\n\nThis shift toward what researchers call 'context-dependent biosignatures' marks a maturation of the field. The earliest atmospheric studies treated certain molecules as nearly diagnostic; the current generation seeks combinations of features that, taken together, are difficult to explain without invoking biology.",
+      "prompt": "The primary purpose of the passage is to",
+      "options": [
+        "explain why oxygen detection is no longer considered useful in the search for extraterrestrial life",
+        "describe a methodological shift from single-molecule to multi-feature biosignature analysis",
+        "argue that abiotic oxygen production undermines the credibility of biosignature science",
+        "summarize recent modeling work on photolysis of water vapor",
+        "defend the early atmospheric studies against later refinements"
+      ],
+      "answer": "describe a methodological shift from single-molecule to multi-feature biosignature analysis",
+      "explanation": "The passage contrasts the earlier 'nearly diagnostic' single-molecule approach with the current 'combinations of features' approach — that's the methodological shift in choice B."
+    },
+    {
+      "id": "v03-q12",
+      "type": "reading_comprehension",
+      "passage": "The detection of biosignatures in the atmospheres of distant exoplanets has long been regarded as the most plausible near-term route to evidence of extraterrestrial life. Oxygen, in particular, has been treated as a strong indicator: on Earth, the abundance of atmospheric oxygen is overwhelmingly biological in origin. Yet recent modeling work has identified abiotic mechanisms — photolysis of water vapor in particular planetary configurations — that can produce oxygen-rich atmospheres in the absence of life. The implication is not that oxygen detection is uninformative, but that interpreting it requires careful contextualization within a planet's broader chemical and orbital characteristics.\n\nThis shift toward what researchers call 'context-dependent biosignatures' marks a maturation of the field. The earliest atmospheric studies treated certain molecules as nearly diagnostic; the current generation seeks combinations of features that, taken together, are difficult to explain without invoking biology.",
+      "prompt": "The passage suggests that the maturation of biosignature research has involved",
+      "options": [
+        "the abandonment of oxygen as a biosignature",
+        "a recognition that no single molecule is definitively diagnostic of life",
+        "improved telescopes capable of detecting multiple molecular species",
+        "the discovery that life is more common in the universe than previously suspected",
+        "consensus that abiotic mechanisms cannot account for Earth's atmosphere"
+      ],
+      "answer": "a recognition that no single molecule is definitively diagnostic of life",
+      "explanation": "The passage explicitly contrasts the early 'nearly diagnostic' single-molecule approach with the current combinations-based approach — implying single molecules are no longer treated as definitive."
+    }
+  ]
+}

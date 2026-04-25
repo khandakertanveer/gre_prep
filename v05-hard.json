@@ -1,0 +1,182 @@
+{
+  "id": "v05",
+  "title": "Verbal Set 5",
+  "subject": "verbal",
+  "difficulty": "hard",
+  "questions": [
+    {
+      "id": "v05-q01",
+      "type": "text_completion",
+      "blanks": 3,
+      "prompt": "Far from being the [[1]] document its early reception suggested, the manifesto now appears [[2]] to readers familiar with its principal sources: nearly every striking formulation, on close inspection, [[3]] an earlier writer's phrasing with only minor adjustment.",
+      "options": [
+        ["derivative", "original", "incoherent"],
+        ["unprecedented", "synthetic", "careless"],
+        ["repudiates", "echoes", "anticipates"]
+      ],
+      "answer": ["original", "synthetic", "echoes"],
+      "explanation": "'Far from being X, now appears Y' = reversal. If now we see it copies earlier writers, originally it was thought original. Synthetic = patched together from sources. Echoes = reproduces with adjustments."
+    },
+    {
+      "id": "v05-q02",
+      "type": "text_completion",
+      "blanks": 2,
+      "prompt": "The biography is at once [[1]] and frustrating: meticulous in its reconstruction of episodes long obscure to historians, but [[2]] in its refusal to draw any interpretive inference from a documentary record that practically demands one.",
+      "options": [
+        ["impressive", "exhausting", "amateurish"],
+        ["bold", "timorous", "speculative"]
+      ],
+      "answer": ["impressive", "timorous"],
+      "explanation": "'At once X and frustrating' — meticulous reconstruction is impressive (positive); the frustrating refusal to interpret despite demand is timorous (timid)."
+    },
+    {
+      "id": "v05-q03",
+      "type": "text_completion",
+      "blanks": 2,
+      "prompt": "The architect's late designs, often dismissed during her lifetime as [[1]] of her early style, are now widely seen as [[2]] of it: extending the original principles into contexts she could not have anticipated when she first articulated them.",
+      "options": [
+        ["culminations", "betrayals", "rehearsals"],
+        ["repudiations", "vindications", "imitations"]
+      ],
+      "answer": ["betrayals", "vindications"],
+      "explanation": "'Often dismissed... are now seen as ___' signals reversal. If the late work extends original principles (positive), the lifetime view dismissed them as betrayals; the reversal sees them as vindications."
+    },
+    {
+      "id": "v05-q04",
+      "type": "text_completion",
+      "blanks": 1,
+      "prompt": "For all its [[1]] presentation — the dim lighting, the conspiratorial tone, the suggestive but never explicit claims — the documentary advances no thesis that could not have been stated openly in a single paragraph.",
+      "options": [["lurid", "anodyne", "academic", "perfunctory", "transparent"]],
+      "answer": ["lurid"],
+      "explanation": "'Dim lighting, conspiratorial tone, suggestive' describes a sensational, dramatic style. Lurid (sensational, gaudy) captures this, contrasting with the dull substance."
+    },
+    {
+      "id": "v05-q05",
+      "type": "text_completion",
+      "blanks": 3,
+      "prompt": "That a regime so [[1]] in its rhetoric should prove so [[2]] in its actual conduct is, the author argues, no [[3]]: revolutionary movements that take power without first acquiring administrative competence routinely discover that maximalist principles must be tempered by the requirements of governance.",
+      "options": [
+        ["pragmatic", "uncompromising", "indecisive"],
+        ["accommodating", "draconian", "principled"],
+        ["mystery", "tragedy", "exception"]
+      ],
+      "answer": ["uncompromising", "accommodating", "mystery"],
+      "explanation": "Contrast structure: rhetoric vs. conduct. Rhetoric was uncompromising; conduct turned out accommodating. The author says this is 'no mystery' because the explanation follows."
+    },
+    {
+      "id": "v05-q06",
+      "type": "sentence_equivalence",
+      "prompt": "The diplomat's reputation rested less on her substantive accomplishments than on her [[1]] handling of difficult counterparts — her ability to extract concessions while leaving each interlocutor convinced of her sympathy.",
+      "options": ["adroit", "deft", "ham-fisted", "clumsy", "principled", "scrupulous"],
+      "answer": ["adroit", "deft"],
+      "explanation": "Extracting concessions while maintaining the other side's good will = skilled, subtle handling. Adroit and deft both mean skillfully handled."
+    },
+    {
+      "id": "v05-q07",
+      "type": "sentence_equivalence",
+      "prompt": "Although her early novels were celebrated for their [[1]], her recent fiction has tilted toward elaborate sentence structures and lavish description that some readers find taxing.",
+      "options": ["spareness", "economy", "ornament", "embellishment", "complexity", "density"],
+      "answer": ["spareness", "economy"],
+      "explanation": "'Although... has tilted toward elaborate... lavish' signals contrast. Earlier work was the opposite — minimal, restrained. Spareness and economy both name stylistic restraint."
+    },
+    {
+      "id": "v05-q08",
+      "type": "sentence_equivalence",
+      "prompt": "His apology was [[1]] — heartfelt enough to disarm critics yet vague enough to avoid committing him to any specific reform.",
+      "options": ["calculated", "shrewd", "guileless", "artless", "earnest", "ingenuous"],
+      "answer": ["calculated", "shrewd"],
+      "explanation": "Heartfelt veneer plus deliberate vagueness to avoid commitment = strategic. Calculated and shrewd both mean strategically planned. Guileless/artless are opposites."
+    },
+    {
+      "id": "v05-q09",
+      "type": "sentence_equivalence",
+      "prompt": "The senator's career was a study in [[1]]: every scandal that should have ended it instead seemed to leave her stronger, her support deepening among voters who admired her refusal to retreat.",
+      "options": ["resilience", "tenacity", "fragility", "vulnerability", "ambition", "rapacity"],
+      "answer": ["resilience", "tenacity"],
+      "explanation": "Surviving scandals and growing stronger = ability to endure. Resilience and tenacity both convey this enduring quality."
+    },
+    {
+      "id": "v05-q10",
+      "type": "sentence_equivalence",
+      "prompt": "By the end of his career, the painter had grown so [[1]] of formal innovation that even his most loyal patrons could not always distinguish his late works from his apprentice efforts.",
+      "options": ["weary", "disenchanted", "fond", "enamored", "incapable", "ignorant"],
+      "answer": ["weary", "disenchanted"],
+      "explanation": "Late works indistinguishable from apprentice work means he stopped innovating. Weary and disenchanted both mean having lost interest or enthusiasm."
+    },
+    {
+      "id": "v05-q11",
+      "type": "reading_comprehension",
+      "passage": "The standard account of Renaissance humanism portrays it as a recovery — a deliberate return to classical models after centuries of medieval distortion. This narrative, codified in the nineteenth century by Burckhardt and his successors, has proven remarkably durable, but it has also obscured continuities between the humanists and their immediate predecessors. Medieval scholastics, no less than Renaissance humanists, drew extensively on Aristotle, Cicero, and the Roman jurists; what differed was the use to which these sources were put.\n\nA more recent historiographical strand has argued that the rupture between scholasticism and humanism was less a substantive intellectual revolution than a shift in self-presentation. Humanists styled themselves as inheritors of antiquity, dismissing the work of their predecessors as 'gothic' and barbarous; this rhetorical positioning, sustained over generations, eventually produced the very rupture it had originally only claimed. To call humanism a recovery, on this view, is to credit its self-description rather than to describe what actually changed.",
+      "prompt": "The primary purpose of the passage is to",
+      "options": [
+        "argue that the Renaissance was not in fact a substantive break from the Middle Ages",
+        "describe a traditional historiographical view and a revisionist challenge to its central claim",
+        "defend Burckhardt's interpretation against modern revisionists",
+        "demonstrate that medieval scholastics were as engaged with classical sources as Renaissance humanists",
+        "show that Renaissance humanism was a self-fulfilling rhetorical project"
+      ],
+      "answer": "describe a traditional historiographical view and a revisionist challenge to its central claim",
+      "explanation": "Paragraph 1 sketches the standard view (with caveats); paragraph 2 lays out the revisionist alternative. That dual structure is choice B. Choice A overstates — the passage describes the dispute, doesn't endorse the revisionist conclusion."
+    },
+    {
+      "id": "v05-q12",
+      "type": "reading_comprehension",
+      "passage": "The standard account of Renaissance humanism portrays it as a recovery — a deliberate return to classical models after centuries of medieval distortion. This narrative, codified in the nineteenth century by Burckhardt and his successors, has proven remarkably durable, but it has also obscured continuities between the humanists and their immediate predecessors. Medieval scholastics, no less than Renaissance humanists, drew extensively on Aristotle, Cicero, and the Roman jurists; what differed was the use to which these sources were put.\n\nA more recent historiographical strand has argued that the rupture between scholasticism and humanism was less a substantive intellectual revolution than a shift in self-presentation. Humanists styled themselves as inheritors of antiquity, dismissing the work of their predecessors as 'gothic' and barbarous; this rhetorical positioning, sustained over generations, eventually produced the very rupture it had originally only claimed. To call humanism a recovery, on this view, is to credit its self-description rather than to describe what actually changed.",
+      "prompt": "The author's attitude toward the revisionist view is best described as",
+      "options": [
+        "enthusiastic endorsement",
+        "guarded sympathy",
+        "careful neutrality",
+        "pointed skepticism",
+        "outright rejection"
+      ],
+      "answer": "guarded sympathy",
+      "explanation": "The author frames the standard view as having 'obscured continuities' — the author's own characterization, sympathetic to revisionism. But there's no explicit endorsement; that's why it's guarded."
+    },
+    {
+      "id": "v05-q13",
+      "type": "reading_comprehension",
+      "passage": "The standard account of Renaissance humanism portrays it as a recovery — a deliberate return to classical models after centuries of medieval distortion. This narrative, codified in the nineteenth century by Burckhardt and his successors, has proven remarkably durable, but it has also obscured continuities between the humanists and their immediate predecessors. Medieval scholastics, no less than Renaissance humanists, drew extensively on Aristotle, Cicero, and the Roman jurists; what differed was the use to which these sources were put.\n\nA more recent historiographical strand has argued that the rupture between scholasticism and humanism was less a substantive intellectual revolution than a shift in self-presentation. Humanists styled themselves as inheritors of antiquity, dismissing the work of their predecessors as 'gothic' and barbarous; this rhetorical positioning, sustained over generations, eventually produced the very rupture it had originally only claimed. To call humanism a recovery, on this view, is to credit its self-description rather than to describe what actually changed.",
+      "prompt": "According to the passage, the difference between scholastics and humanists in their treatment of classical sources lay primarily in",
+      "options": [
+        "the breadth of the sources they consulted",
+        "the degree of distortion they introduced into those sources",
+        "the purposes for which they deployed those sources",
+        "the original languages in which they read them",
+        "the chronological accuracy of their interpretations"
+      ],
+      "answer": "the purposes for which they deployed those sources",
+      "explanation": "The passage states explicitly: 'what differed was the use to which these sources were put.' That's choice C."
+    },
+    {
+      "id": "v05-q14",
+      "type": "reading_comprehension",
+      "passage": "That economic activity tends, all else equal, toward greater specialization is among the most secure findings of the discipline; that specialization in turn produces gains in productivity is hardly more controversial. Less settled is the question of how, and how much, these gains diffuse to the workers whose specialized labor produces them. The classical answer, traceable to Smith and refined by his successors, holds that competitive markets ensure that productivity gains accrue, over time, to wages: workers may be temporarily disadvantaged by automation or trade, but the long-run trajectory is upward.\n\nRecent empirical work has complicated this expectation. Studies of regional labor markets exposed to import competition have documented persistent wage stagnation and employment losses lasting decades, with affected workers showing little of the geographic or sectoral mobility that classical theory presupposes. Whether these findings refute the classical account or merely call attention to frictions it had always acknowledged in principle remains a matter of vigorous dispute. What is clear is that the long run, in this domain, has proved considerably longer than its earlier proponents implied.",
+      "prompt": "The author would most likely agree with which of the following?",
+      "options": [
+        "Recent empirical work has decisively refuted the classical theory.",
+        "The classical theory's predictions are confirmed once frictions are properly modeled.",
+        "The classical theory's expectations operate, if at all, on timescales that may be too long to be policy-relevant.",
+        "Regional labor markets are too idiosyncratic to test general economic theory.",
+        "Specialization does not in fact produce productivity gains."
+      ],
+      "answer": "The classical theory's expectations operate, if at all, on timescales that may be too long to be policy-relevant.",
+      "explanation": "The closing line — 'the long run... has proved considerably longer than its earlier proponents implied' — is the author's own judgment, mapping directly onto choice C."
+    },
+    {
+      "id": "v05-q15",
+      "type": "reading_comprehension",
+      "passage": "That economic activity tends, all else equal, toward greater specialization is among the most secure findings of the discipline; that specialization in turn produces gains in productivity is hardly more controversial. Less settled is the question of how, and how much, these gains diffuse to the workers whose specialized labor produces them. The classical answer, traceable to Smith and refined by his successors, holds that competitive markets ensure that productivity gains accrue, over time, to wages: workers may be temporarily disadvantaged by automation or trade, but the long-run trajectory is upward.\n\nRecent empirical work has complicated this expectation. Studies of regional labor markets exposed to import competition have documented persistent wage stagnation and employment losses lasting decades, with affected workers showing little of the geographic or sectoral mobility that classical theory presupposes. Whether these findings refute the classical account or merely call attention to frictions it had always acknowledged in principle remains a matter of vigorous dispute. What is clear is that the long run, in this domain, has proved considerably longer than its earlier proponents implied.",
+      "prompt": "The author treats the question of whether recent findings refute the classical account as",
+      "options": [
+        "a settled matter on which the empirical evidence is decisive",
+        "an unresolved dispute about which the author declines to take a position",
+        "a confusion that careful analysis can quickly dispel",
+        "a question that depends entirely on definitional choices",
+        "a debate of merely academic interest"
+      ],
+      "answer": "an unresolved dispute about which the author declines to take a position",
+      "explanation": "'Remains a matter of vigorous dispute' — the author explicitly says it's unresolved and does not take a side. That's choice B."
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "id": "q02",
+  "title": "Quant Set 2",
+  "subject": "quant",
+  "difficulty": "mid",
+  "questions": [
+    {
+      "id": "q02-q01",
+      "type": "quantitative_comparison",
+      "prompt": "a > b > 0",
+      "quantityA": "1/a",
+      "quantityB": "1/b",
+      "answer": "Quantity B is greater.",
+      "explanation": "For positive a > b, taking reciprocals reverses the inequality: 1/b > 1/a."
+    },
+    {
+      "id": "q02-q02",
+      "type": "quantitative_comparison",
+      "prompt": "x is the average of 12, 15, and 18.",
+      "quantityA": "x",
+      "quantityB": "15",
+      "answer": "The two quantities are equal.",
+      "explanation": "Average = (12 + 15 + 18) / 3 = 45 / 3 = 15."
+    },
+    {
+      "id": "q02-q03",
+      "type": "quantitative_comparison",
+      "prompt": "In a rectangle, the length is twice the width. The perimeter is 24.",
+      "quantityA": "The area",
+      "quantityB": "36",
+      "answer": "Quantity B is greater.",
+      "explanation": "L = 2W and 2(L + W) = 24, so 3W = 12, W = 4, L = 8. Area = 32 < 36."
+    },
+    {
+      "id": "q02-q04",
+      "type": "quantitative_comparison",
+      "prompt": "x and y are positive integers, and 2x + 3y = 14.",
+      "quantityA": "x + y",
+      "quantityB": "6",
+      "answer": "The relationship cannot be determined from the information given.",
+      "explanation": "Solutions: (x, y) = (1, 4), (4, 2), (7, 0). But y must be positive, so (1, 4) → 5 and (4, 2) → 6. Sum is 5 or 6, so cannot be determined."
+    },
+    {
+      "id": "q02-q05",
+      "type": "quantitative_comparison",
+      "prompt": "A circle has radius 5. A square has side 5.",
+      "quantityA": "Area of the circle",
+      "quantityB": "Area of the square",
+      "answer": "Quantity A is greater.",
+      "explanation": "Circle area = πr² = 25π ≈ 78.5. Square area = 25. So A > B."
+    },
+    {
+      "id": "q02-q06",
+      "type": "quantitative_comparison",
+      "prompt": "In a class of 30 students, 20 like math and 18 like science. Every student likes at least one of the two subjects.",
+      "quantityA": "Number of students who like both",
+      "quantityB": "8",
+      "answer": "The two quantities are equal.",
+      "explanation": "By inclusion-exclusion: 30 = 20 + 18 − both. Both = 38 − 30 = 8."
+    },
+    {
+      "id": "q02-q07",
+      "type": "problem_solving",
+      "prompt": "A car travels 240 miles at 60 mph and then 180 miles at 45 mph. What is the average speed for the entire trip?",
+      "options": ["50 mph", "52.5 mph", "54 mph", "55 mph", "57.5 mph"],
+      "answer": "52.5 mph",
+      "explanation": "Total distance = 420 mi. Time = 240/60 + 180/45 = 4 + 4 = 8 hours. Average speed = 420 / 8 = 52.5 mph."
+    },
+    {
+      "id": "q02-q08",
+      "type": "problem_solving",
+      "prompt": "In how many different ways can 5 distinct people be seated in a row of 5 chairs?",
+      "options": ["25", "60", "120", "240", "720"],
+      "answer": "120",
+      "explanation": "5! = 5 × 4 × 3 × 2 × 1 = 120."
+    },
+    {
+      "id": "q02-q09",
+      "type": "problem_solving",
+      "prompt": "If 30% of a number is 45, what is 50% of the same number?",
+      "options": ["60", "75", "90", "150", "225"],
+      "answer": "75",
+      "explanation": "0.30N = 45 → N = 150. Then 0.50 × 150 = 75."
+    },
+    {
+      "id": "q02-q10",
+      "type": "problem_solving",
+      "prompt": "The sum of three consecutive even integers is 78. What is the largest of them?",
+      "options": ["24", "26", "28", "30", "32"],
+      "answer": "28",
+      "explanation": "Let the smallest be n. Then n + (n+2) + (n+4) = 78 → 3n + 6 = 78 → n = 24. Largest = 28."
+    },
+    {
+      "id": "q02-q11",
+      "type": "numeric_entry",
+      "prompt": "If 2x − 5 = 3x + 7, what is the value of x?",
+      "answer": "-12",
+      "unit": "",
+      "explanation": "2x − 5 = 3x + 7 → −12 = x."
+    },
+    {
+      "id": "q02-q12",
+      "type": "multiple_answer",
+      "prompt": "For which of the following values of x is x² > x? Indicate all such values.",
+      "options": ["-2", "0.5", "1", "2", "5"],
+      "answer": ["-2", "2", "5"],
+      "explanation": "x² > x means x(x − 1) > 0, which holds when x < 0 or x > 1. So −2, 2, and 5 qualify; 0.5 (between 0 and 1) gives 0.25 < 0.5; x = 1 gives equality, not strict inequality."
+    }
+  ]
+}

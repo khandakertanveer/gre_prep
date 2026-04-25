@@ -1,0 +1,142 @@
+{
+  "id": "v02",
+  "title": "Verbal Set 2",
+  "subject": "verbal",
+  "difficulty": "mid",
+  "questions": [
+    {
+      "id": "v02-q01",
+      "type": "text_completion",
+      "blanks": 1,
+      "prompt": "The candidate's [[1]] manner — neither too formal nor too casual — won over voters who had grown tired of polished political performances.",
+      "options": [["measured", "ostentatious", "ingratiating", "stilted", "bombastic"]],
+      "answer": ["measured"],
+      "explanation": "'Neither too formal nor too casual' defines a balanced middle. 'Measured' means controlled and balanced; the other options describe extremes."
+    },
+    {
+      "id": "v02-q02",
+      "type": "text_completion",
+      "blanks": 2,
+      "prompt": "Although the proposal was initially met with [[1]], the committee's eventual approval suggested that members had come to recognize its [[2]].",
+      "options": [
+        ["enthusiasm", "skepticism", "indifference"],
+        ["limitations", "merits", "ambiguities"]
+      ],
+      "answer": ["skepticism", "merits"],
+      "explanation": "'Although... eventual approval' signals reversal. Initial reaction must have been negative (skepticism), and the second blank explains why approval came: members saw merits."
+    },
+    {
+      "id": "v02-q03",
+      "type": "text_completion",
+      "blanks": 1,
+      "prompt": "The historian's account, drawing on previously [[1]] archives in three countries, has fundamentally reshaped scholarly understanding of the war's origins.",
+      "options": [["overlooked", "celebrated", "fabricated", "censored", "duplicated"]],
+      "answer": ["overlooked"],
+      "explanation": "If the account 'fundamentally reshaped' understanding, the archives must have offered something new — meaning they hadn't been used. 'Overlooked' fits. 'Celebrated' would imply the archives were already known."
+    },
+    {
+      "id": "v02-q04",
+      "type": "text_completion",
+      "blanks": 2,
+      "prompt": "The economist's prediction proved [[1]]; the recession she had warned about for years failed to [[2]], even after several apparent triggers.",
+      "options": [
+        ["prescient", "spurious", "vindicated"],
+        ["materialize", "intensify", "abate"]
+      ],
+      "answer": ["spurious", "materialize"],
+      "explanation": "The recession 'failed to ___' — failed to come into existence (materialize). Since it never happened, the prediction was wrong: 'spurious' (false). 'Prescient' would mean accurate, contradicting the failure."
+    },
+    {
+      "id": "v02-q05",
+      "type": "sentence_equivalence",
+      "prompt": "The poet's later work was widely regarded as [[1]], lacking the originality that had distinguished her early career.",
+      "options": ["derivative", "imitative", "innovative", "groundbreaking", "prolific", "obscure"],
+      "answer": ["derivative", "imitative"],
+      "explanation": "'Lacking originality' means copying others. Derivative and imitative both convey unoriginality."
+    },
+    {
+      "id": "v02-q06",
+      "type": "sentence_equivalence",
+      "prompt": "Critics found the actor's performance [[1]], full of mannered gestures that called attention to the artifice of his craft rather than concealing it.",
+      "options": ["affected", "theatrical", "understated", "natural", "earnest", "subtle"],
+      "answer": ["affected", "theatrical"],
+      "explanation": "'Mannered gestures' that 'call attention to artifice' = unnatural and overdone. Affected and theatrical both name this overdone quality."
+    },
+    {
+      "id": "v02-q07",
+      "type": "sentence_equivalence",
+      "prompt": "The mediator's success depended on her ability to remain [[1]] even when both parties resorted to personal attacks.",
+      "options": ["impartial", "neutral", "engaged", "outspoken", "decisive", "agitated"],
+      "answer": ["impartial", "neutral"],
+      "explanation": "A mediator's job is to not take sides, especially under pressure. Impartial and neutral are direct synonyms here."
+    },
+    {
+      "id": "v02-q08",
+      "type": "sentence_equivalence",
+      "prompt": "After decades of [[1]], the manuscript was finally translated and brought to light by a graduate student researching seventeenth-century medicine.",
+      "options": ["obscurity", "neglect", "celebrity", "renown", "scrutiny", "examination"],
+      "answer": ["obscurity", "neglect"],
+      "explanation": "'Finally brought to light' implies it had been hidden or ignored. Obscurity and neglect both fit this state."
+    },
+    {
+      "id": "v02-q09",
+      "type": "reading_comprehension",
+      "passage": "Until the mid-twentieth century, most economists treated the household as a black box: a unit that consumed goods, supplied labor, and reproduced itself, but whose internal dynamics lay outside the discipline's domain. Gary Becker's pioneering work in the 1960s and 1970s challenged this assumption by extending the apparatus of price theory to decisions about marriage, fertility, and time allocation. Rather than treating households as single decision-makers with unitary preferences, however, Becker continued to assume harmony of interests within the family.\n\nSubsequent feminist economists pushed the analysis further by arguing that intrahousehold bargaining, with its asymmetries of power and information, deserved direct study. Empirical work in this tradition has documented systematic divergences between predictions of unitary models and observed allocation patterns, particularly in contexts where transfer income is targeted to women rather than men. Whether this constitutes a fundamental refutation of the unitary approach or merely a refinement of its boundary conditions remains contested.",
+      "prompt": "The primary purpose of the passage is to",
+      "options": [
+        "argue that Becker's framework should be abandoned in favor of feminist alternatives",
+        "chronicle a progression from neglect of household dynamics to contested theoretical refinements",
+        "demonstrate that intrahousehold bargaining theory has decisive empirical support",
+        "contrast unitary and bargaining models in a specific policy domain",
+        "explain why economists initially treated households as black boxes"
+      ],
+      "answer": "chronicle a progression from neglect of household dynamics to contested theoretical refinements",
+      "explanation": "The passage moves from initial neglect → Becker's extension → feminist refinement, ending by noting the dispute 'remains contested.' Choice B captures this trajectory."
+    },
+    {
+      "id": "v02-q10",
+      "type": "reading_comprehension",
+      "passage": "Until the mid-twentieth century, most economists treated the household as a black box: a unit that consumed goods, supplied labor, and reproduced itself, but whose internal dynamics lay outside the discipline's domain. Gary Becker's pioneering work in the 1960s and 1970s challenged this assumption by extending the apparatus of price theory to decisions about marriage, fertility, and time allocation. Rather than treating households as single decision-makers with unitary preferences, however, Becker continued to assume harmony of interests within the family.\n\nSubsequent feminist economists pushed the analysis further by arguing that intrahousehold bargaining, with its asymmetries of power and information, deserved direct study. Empirical work in this tradition has documented systematic divergences between predictions of unitary models and observed allocation patterns, particularly in contexts where transfer income is targeted to women rather than men. Whether this constitutes a fundamental refutation of the unitary approach or merely a refinement of its boundary conditions remains contested.",
+      "prompt": "According to the passage, feminist economists differ from Becker primarily because they",
+      "options": [
+        "reject the application of price theory to household decisions",
+        "focus on transfer income rather than time allocation",
+        "treat the household as composed of agents with potentially conflicting interests",
+        "have produced more rigorous empirical evidence",
+        "argue that the unitary model has been definitively refuted"
+      ],
+      "answer": "treat the household as composed of agents with potentially conflicting interests",
+      "explanation": "The passage says Becker assumed 'harmony of interests' while feminist economists studied 'asymmetries of power and information.' The difference is whether household members have aligned or potentially conflicting interests."
+    },
+    {
+      "id": "v02-q11",
+      "type": "reading_comprehension",
+      "passage": "Coral bleaching events, in which heat-stressed corals expel the symbiotic algae that provide them with nutrients and color, were once regarded as essentially terminal: a bleached reef was a dying reef. Recent observations have complicated this picture. A subset of corals exposed to bleaching conditions in 2016 not only survived but appeared more resilient when subsequent heat stress arrived, even when their algal partners were genetically distinct from those of unaffected neighbors. This suggests a form of acclimatization that operates at the holobiont level — that is, through interactions between coral, algae, and microbiome — rather than through coral genetics alone.\n\nThe implications for conservation are double-edged. On one hand, the existence of acclimatized lineages suggests that some reefs may persist longer than worst-case projections imply. On the other, the rate of warming is accelerating, and acclimatization in surviving corals appears to operate within bounded thermal margins. Conservation strategies that depend on natural acclimatization may therefore underestimate the urgency of mitigation.",
+      "prompt": "The primary purpose of the passage is to",
+      "options": [
+        "describe a previously underappreciated mechanism of coral resilience",
+        "argue that conservation strategies should focus on protecting acclimatized lineages",
+        "complicate an established view about coral bleaching while drawing measured implications",
+        "show that holobiont-level interactions matter more than coral genetics",
+        "argue that worst-case warming projections are too pessimistic"
+      ],
+      "answer": "complicate an established view about coral bleaching while drawing measured implications",
+      "explanation": "The passage opens by complicating the 'terminal bleaching' view and closes with a balanced 'double-edged' assessment — exactly the structure choice C describes."
+    },
+    {
+      "id": "v02-q12",
+      "type": "reading_comprehension",
+      "passage": "Coral bleaching events, in which heat-stressed corals expel the symbiotic algae that provide them with nutrients and color, were once regarded as essentially terminal: a bleached reef was a dying reef. Recent observations have complicated this picture. A subset of corals exposed to bleaching conditions in 2016 not only survived but appeared more resilient when subsequent heat stress arrived, even when their algal partners were genetically distinct from those of unaffected neighbors. This suggests a form of acclimatization that operates at the holobiont level — that is, through interactions between coral, algae, and microbiome — rather than through coral genetics alone.\n\nThe implications for conservation are double-edged. On one hand, the existence of acclimatized lineages suggests that some reefs may persist longer than worst-case projections imply. On the other, the rate of warming is accelerating, and acclimatization in surviving corals appears to operate within bounded thermal margins. Conservation strategies that depend on natural acclimatization may therefore underestimate the urgency of mitigation.",
+      "prompt": "The passage suggests that holobiont-level acclimatization",
+      "options": [
+        "has been definitively shown to operate independently of coral genetics",
+        "offers unlimited potential for adaptation as ocean temperatures rise",
+        "works only when algal partners remain genetically identical",
+        "may reduce some bleaching impacts but cannot indefinitely keep pace with warming",
+        "has been observed only among corals exposed in 2016"
+      ],
+      "answer": "may reduce some bleaching impacts but cannot indefinitely keep pace with warming",
+      "explanation": "The passage states acclimatization 'operates within bounded thermal margins' while warming is 'accelerating' — meaning it offers some, but finite, protection."
+    }
+  ]
+}

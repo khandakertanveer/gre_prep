@@ -1,0 +1,110 @@
+{
+  "id": "q01",
+  "title": "Quant Set 1",
+  "subject": "quant",
+  "difficulty": "mid",
+  "questions": [
+    {
+      "id": "q01-q01",
+      "type": "quantitative_comparison",
+      "prompt": "x is a positive integer.",
+      "quantityA": "(x + 1)²",
+      "quantityB": "x² + 2x + 2",
+      "answer": "Quantity B is greater.",
+      "explanation": "(x + 1)² expands to x² + 2x + 1, which is exactly 1 less than Quantity B (x² + 2x + 2). So Quantity B is greater for every real x, not just positive integers."
+    },
+    {
+      "id": "q01-q02",
+      "type": "quantitative_comparison",
+      "prompt": "",
+      "quantityA": "The arithmetic mean of 20, 25, 30, and 35",
+      "quantityB": "The median of 20, 25, 30, and 35",
+      "answer": "The two quantities are equal.",
+      "explanation": "Mean = (20 + 25 + 30 + 35) / 4 = 110 / 4 = 27.5. Median of an even count of evenly-spaced values = average of the two middle values = (25 + 30) / 2 = 27.5. Equal."
+    },
+    {
+      "id": "q01-q03",
+      "type": "quantitative_comparison",
+      "prompt": "In triangle PQR, the measure of angle P is 50°.",
+      "quantityA": "The measure of angle Q",
+      "quantityB": "65°",
+      "answer": "The relationship cannot be determined from the information given.",
+      "explanation": "The angles of a triangle sum to 180°, so angle Q + angle R = 130°. But Q alone is not fixed — Q could be 10° or 100° and still produce a valid triangle. Cannot be determined."
+    },
+    {
+      "id": "q01-q04",
+      "type": "quantitative_comparison",
+      "prompt": "x² = 16",
+      "quantityA": "x",
+      "quantityB": "4",
+      "answer": "The relationship cannot be determined from the information given.",
+      "explanation": "x² = 16 has two solutions: x = 4 (equal) or x = −4 (less than B). Since both are possible, the relationship cannot be determined."
+    },
+    {
+      "id": "q01-q05",
+      "type": "quantitative_comparison",
+      "prompt": "The price of a stock rose 20% in January and fell 20% in February.",
+      "quantityA": "The stock's price at the end of February",
+      "quantityB": "The stock's price at the start of January",
+      "answer": "Quantity B is greater.",
+      "explanation": "Successive percentage changes are multiplicative, not additive. Let the starting price be 100. After +20%: 120. After −20%: 120 × 0.8 = 96. The final price is less than the initial, so Quantity B (start) is greater."
+    },
+    {
+      "id": "q01-q06",
+      "type": "quantitative_comparison",
+      "prompt": "a and b are positive integers with a + b = 10.",
+      "quantityA": "ab",
+      "quantityB": "24",
+      "answer": "The relationship cannot be determined from the information given.",
+      "explanation": "Integer pairs summing to 10: (1,9)→9, (2,8)→16, (3,7)→21, (4,6)→24, (5,5)→25. The product ab ranges from 9 to 25, so it could be less than, equal to, or greater than 24."
+    },
+    {
+      "id": "q01-q07",
+      "type": "problem_solving",
+      "prompt": "A store discounts a $120 jacket by 25%, then charges 8% sales tax on the discounted price. What is the final price?",
+      "options": ["$93.60", "$97.20", "$99.00", "$104.40", "$108.00"],
+      "answer": "$97.20",
+      "explanation": "Discounted price: 120 × (1 − 0.25) = 120 × 0.75 = $90. With tax: 90 × 1.08 = $97.20."
+    },
+    {
+      "id": "q01-q08",
+      "type": "problem_solving",
+      "prompt": "Events A and B are independent. The probability that A occurs is 1/3; the probability that B occurs is 1/4. What is the probability that both occur?",
+      "options": ["1/12", "1/7", "7/12", "3/4", "1/2"],
+      "answer": "1/12",
+      "explanation": "For independent events, P(A and B) = P(A) × P(B) = (1/3) × (1/4) = 1/12."
+    },
+    {
+      "id": "q01-q09",
+      "type": "problem_solving",
+      "prompt": "A rectangle has a perimeter of 36 and an area of 72. What is the length of its longer side?",
+      "options": ["6", "8", "9", "12", "18"],
+      "answer": "12",
+      "explanation": "Let sides L and W. 2(L + W) = 36 → L + W = 18. LW = 72. L and W are roots of x² − 18x + 72 = 0. Discriminant = 324 − 288 = 36, so x = (18 ± 6) / 2 = 12 or 6. Longer side = 12."
+    },
+    {
+      "id": "q01-q10",
+      "type": "problem_solving",
+      "prompt": "If 2^x = 8 and 3^y = 81, what is x + y?",
+      "options": ["3", "4", "5", "7", "12"],
+      "answer": "7",
+      "explanation": "2^x = 8 = 2³, so x = 3. 3^y = 81 = 3⁴, so y = 4. x + y = 7."
+    },
+    {
+      "id": "q01-q11",
+      "type": "numeric_entry",
+      "prompt": "If 5(x − 3) = 2x + 9, what is the value of x?",
+      "answer": "8",
+      "unit": "",
+      "explanation": "Expand: 5x − 15 = 2x + 9. Subtract 2x: 3x − 15 = 9. Add 15: 3x = 24. Divide by 3: x = 8."
+    },
+    {
+      "id": "q01-q12",
+      "type": "multiple_answer",
+      "prompt": "Which of the following integers are divisors of 60? Indicate all such integers.",
+      "options": ["3", "7", "12", "15", "18"],
+      "answer": ["3", "12", "15"],
+      "explanation": "60 = 2² × 3 × 5. 60/3 = 20 (divisor). 60/7 ≈ 8.57 (not). 60/12 = 5 (divisor). 60/15 = 4 (divisor). 60/18 ≈ 3.33 (not)."
+    }
+  ]
+}

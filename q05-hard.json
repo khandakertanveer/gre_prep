@@ -1,0 +1,135 @@
+{
+  "id": "q05",
+  "title": "Quant Set 5",
+  "subject": "quant",
+  "difficulty": "hard",
+  "questions": [
+    {
+      "id": "q05-q01",
+      "type": "quantitative_comparison",
+      "prompt": "x and y are positive integers with xy = 100.",
+      "quantityA": "x + y",
+      "quantityB": "25",
+      "answer": "The relationship cannot be determined from the information given.",
+      "explanation": "Possible (x, y): (1, 100) → sum 101; (2, 50) → 52; (4, 25) → 29; (5, 20) → 25; (10, 10) → 20. Sum can be greater than, equal to, or less than 25."
+    },
+    {
+      "id": "q05-q02",
+      "type": "quantitative_comparison",
+      "prompt": "In a sequence, each term after the first is twice the previous term. The first term is 3.",
+      "quantityA": "The 6th term",
+      "quantityB": "100",
+      "answer": "Quantity B is greater.",
+      "explanation": "Terms: 3, 6, 12, 24, 48, 96. Sixth term = 96 < 100."
+    },
+    {
+      "id": "q05-q03",
+      "type": "quantitative_comparison",
+      "prompt": "x = √(8 + 2√7) and y = 1 + √7",
+      "quantityA": "x",
+      "quantityB": "y",
+      "answer": "The two quantities are equal.",
+      "explanation": "Compute y² = (1 + √7)² = 1 + 2√7 + 7 = 8 + 2√7 = x². Both x and y are positive, so x = y."
+    },
+    {
+      "id": "q05-q04",
+      "type": "quantitative_comparison",
+      "prompt": "In the xy-plane, the line y = mx + b passes through (1, 4) and (3, 10).",
+      "quantityA": "m",
+      "quantityB": "b",
+      "answer": "Quantity A is greater.",
+      "explanation": "Slope m = (10 − 4)/(3 − 1) = 3. Use point (1, 4): 4 = 3(1) + b → b = 1. So m = 3, b = 1, A > B."
+    },
+    {
+      "id": "q05-q05",
+      "type": "quantitative_comparison",
+      "prompt": "a, b, c are integer side lengths of a triangle with a + b + c = 12.",
+      "quantityA": "The largest possible value of abc",
+      "quantityB": "64",
+      "answer": "The two quantities are equal.",
+      "explanation": "Triangle inequality requires each side < 6. Try (4, 4, 4): valid (4 < 8) and abc = 64. Other triples: (5, 4, 3) gives 60; (5, 5, 2) gives 50. So maximum is 64."
+    },
+    {
+      "id": "q05-q06",
+      "type": "quantitative_comparison",
+      "prompt": "f(x) = 2x − 3, g(x) = x² + 1",
+      "quantityA": "f(g(2))",
+      "quantityB": "g(f(2))",
+      "answer": "Quantity A is greater.",
+      "explanation": "g(2) = 5, so f(g(2)) = f(5) = 7. f(2) = 1, so g(f(2)) = g(1) = 2. So A = 7, B = 2."
+    },
+    {
+      "id": "q05-q07",
+      "type": "quantitative_comparison",
+      "prompt": "The probability that event A occurs is 0.4. The probability that event B occurs is 0.5. A and B are independent.",
+      "quantityA": "P(neither A nor B)",
+      "quantityB": "0.3",
+      "answer": "The two quantities are equal.",
+      "explanation": "For independent events, P(neither) = P(not A) × P(not B) = 0.6 × 0.5 = 0.30."
+    },
+    {
+      "id": "q05-q08",
+      "type": "problem_solving",
+      "prompt": "A standard deck has 52 cards, including 4 kings. If two cards are drawn without replacement, what is the probability that both are kings?",
+      "options": ["1/169", "1/221", "2/52", "4/52", "12/52"],
+      "answer": "1/221",
+      "explanation": "P = (4/52) × (3/51) = 12/2652 = 1/221."
+    },
+    {
+      "id": "q05-q09",
+      "type": "problem_solving",
+      "prompt": "A right triangle has legs of length 7 and 24. What is the length of the altitude drawn from the right angle to the hypotenuse?",
+      "options": ["6.72", "7.5", "8.4", "12", "16.8"],
+      "answer": "6.72",
+      "explanation": "Hypotenuse = √(49 + 576) = √625 = 25. Triangle area = (1/2)(7)(24) = 84. Also area = (1/2)(25)(h), so h = 168/25 = 6.72."
+    },
+    {
+      "id": "q05-q10",
+      "type": "problem_solving",
+      "prompt": "Three pipes can fill a tank: A in 6 hours, B in 8 hours, C in 12 hours. If all three are opened simultaneously, how many minutes will it take to fill the tank?",
+      "options": ["120", "160", "180", "200", "240"],
+      "answer": "160",
+      "explanation": "Combined rate = 1/6 + 1/8 + 1/12. Common denominator 24: 4/24 + 3/24 + 2/24 = 9/24 = 3/8 tank per hour. Time = 8/3 hours = 160 minutes."
+    },
+    {
+      "id": "q05-q11",
+      "type": "problem_solving",
+      "prompt": "How many positive integers less than 1000 are divisible by neither 5 nor 7?",
+      "options": ["680", "685", "686", "688", "700"],
+      "answer": "686",
+      "explanation": "Total: 999. Divisible by 5: floor(999/5) = 199. Divisible by 7: floor(999/7) = 142. Divisible by 35: floor(999/35) = 28. Divisible by 5 or 7: 199 + 142 − 28 = 313. Neither: 999 − 313 = 686."
+    },
+    {
+      "id": "q05-q12",
+      "type": "problem_solving",
+      "prompt": "A function f satisfies f(x + 1) = 2 · f(x) for all x, and f(0) = 5. What is f(4)?",
+      "options": ["20", "40", "60", "80", "160"],
+      "answer": "80",
+      "explanation": "f(1) = 10, f(2) = 20, f(3) = 40, f(4) = 80."
+    },
+    {
+      "id": "q05-q13",
+      "type": "numeric_entry",
+      "prompt": "If a, b, c are the roots of x³ − 6x² + 11x − 6 = 0, what is a² + b² + c²?",
+      "answer": "14",
+      "unit": "",
+      "explanation": "By Vieta: a + b + c = 6 and ab + ac + bc = 11. Then a² + b² + c² = (a + b + c)² − 2(ab + ac + bc) = 36 − 22 = 14."
+    },
+    {
+      "id": "q05-q14",
+      "type": "numeric_entry",
+      "prompt": "A circle has center (3, 4) and passes through the origin. What is its radius?",
+      "answer": "5",
+      "unit": "",
+      "explanation": "Radius = distance from (3, 4) to (0, 0) = √(9 + 16) = √25 = 5."
+    },
+    {
+      "id": "q05-q15",
+      "type": "multiple_answer",
+      "prompt": "For which of the following functions is f(2) + f(−2) = 0? Indicate all such functions.",
+      "options": ["f(x) = x³", "f(x) = x² + 3", "f(x) = x", "f(x) = x⁵ − x", "f(x) = |x|"],
+      "answer": ["f(x) = x³", "f(x) = x", "f(x) = x⁵ − x"],
+      "explanation": "Functions where f(2) + f(−2) = 0 are odd functions (f(−x) = −f(x)). x³: 8 + (−8) = 0 ✓. x² + 3: 7 + 7 = 14 ✗. x: 2 + (−2) = 0 ✓. x⁵ − x: 30 + (−30) = 0 ✓. |x|: 2 + 2 = 4 ✗."
+    }
+  ]
+}

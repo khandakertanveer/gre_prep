@@ -1,0 +1,145 @@
+{
+  "id": "v01",
+  "title": "Verbal Set 1",
+  "subject": "verbal",
+  "difficulty": "mid",
+  "questions": [
+    {
+      "id": "v01-q01",
+      "type": "text_completion",
+      "blanks": 1,
+      "prompt": "Although the senator's early speeches were widely praised for their [[1]], his later addresses grew increasingly bombastic and hollow.",
+      "options": [
+        ["eloquence", "brevity", "partisanship", "vehemence", "candor"]
+      ],
+      "answer": ["eloquence"],
+      "explanation": "The word 'Although' signals contrast with what follows. The later speeches are 'bombastic and hollow' — negative qualities — so the earlier speeches must have been positively regarded as rhetoric. 'Eloquence' names the positive rhetorical virtue. The other options don't fit the contrast pattern."
+    },
+    {
+      "id": "v01-q02",
+      "type": "text_completion",
+      "blanks": 2,
+      "prompt": "The novelist's prose, once celebrated for its [[1]], has in recent works become so [[2]] that even her most devoted readers struggle to follow the narrative thread.",
+      "options": [
+        ["limpidity", "opacity", "grandiloquence"],
+        ["accessible", "convoluted", "ornate"]
+      ],
+      "answer": ["limpidity", "convoluted"],
+      "explanation": "'Once celebrated for' sets up a positive first blank; 'has become so ___ that readers struggle' sets up a negative second blank that explains the struggle. 'Limpidity' (clarity) fits the positive earlier prose; 'convoluted' directly explains the reading difficulty."
+    },
+    {
+      "id": "v01-q03",
+      "type": "text_completion",
+      "blanks": 1,
+      "prompt": "The scientist's refusal to publish until her results had been triple-checked reflected not timidity but a [[1]] commitment to accuracy that her colleagues deeply respected.",
+      "options": [
+        ["scrupulous", "perfunctory", "nominal", "mercurial", "grudging"]
+      ],
+      "answer": ["scrupulous"],
+      "explanation": "'Not timidity but' redirects you to a positive trait that explains the triple-checking. 'Scrupulous' (meticulously careful) describes exactly that quality. The other options either contradict (perfunctory, nominal) or are unrelated (mercurial, grudging)."
+    },
+    {
+      "id": "v01-q04",
+      "type": "text_completion",
+      "blanks": 1,
+      "prompt": "Historians once treated the memoir as a [[1]] source, but recent scholarship has emphasized both its documentary value and its literary craft.",
+      "options": [
+        ["cherished", "suspect", "pivotal", "definitive", "exhaustive"]
+      ],
+      "answer": ["suspect"],
+      "explanation": "'Once treated... but recent scholarship has emphasized [value]' signals that the earlier view was dismissive. 'Suspect' captures that skeptical earlier stance; the other options all imply the earlier view was already favorable, which contradicts the 'but'."
+    },
+    {
+      "id": "v01-q05",
+      "type": "sentence_equivalence",
+      "prompt": "The manager's [[1]] approach to feedback—offering harsh criticism without any constructive suggestions—demoralized the team.",
+      "options": ["abrasive", "perfunctory", "conciliatory", "tactful", "caustic", "judicious"],
+      "answer": ["abrasive", "caustic"],
+      "explanation": "The dash-clause defines the blank: harsh criticism, no constructive content. 'Abrasive' and 'caustic' both mean harshly cutting. Conciliatory and tactful are opposites; perfunctory means half-hearted; judicious means sensible — none match 'harsh.'"
+    },
+    {
+      "id": "v01-q06",
+      "type": "sentence_equivalence",
+      "prompt": "Though the film's premise was [[1]], its execution was so clumsy that critics dismissed it outright.",
+      "options": ["promising", "auspicious", "banal", "derivative", "insipid", "unprecedented"],
+      "answer": ["promising", "auspicious"],
+      "explanation": "'Though... so clumsy that critics dismissed it' signals contrast: the premise was good, the execution was not. 'Promising' and 'auspicious' both indicate favorable early signs. 'Unprecedented' is neutral in valence and doesn't pair with another option here."
+    },
+    {
+      "id": "v01-q07",
+      "type": "sentence_equivalence",
+      "prompt": "Critics praised the director's willingness to [[1]] rather than follow conventional narrative structures.",
+      "options": ["innovate", "experiment", "capitulate", "conform", "vacillate", "equivocate"],
+      "answer": ["innovate", "experiment"],
+      "explanation": "'Rather than follow conventional' demands a word meaning to try new approaches. 'Innovate' and 'experiment' both fit. Conform and capitulate are opposites of trying new things; vacillate and equivocate describe indecision, not originality."
+    },
+    {
+      "id": "v01-q08",
+      "type": "sentence_equivalence",
+      "prompt": "His explanations were so [[1]] that even the most attentive students left the lecture uncertain of the basic thesis.",
+      "options": ["convoluted", "labyrinthine", "lucid", "trenchant", "cogent", "succinct"],
+      "answer": ["convoluted", "labyrinthine"],
+      "explanation": "Students left 'uncertain of the basic thesis' because the explanations were hard to follow. 'Convoluted' and 'labyrinthine' both mean confusingly complex. Lucid, trenchant, and cogent all describe clear thinking — the opposite."
+    },
+    {
+      "id": "v01-q09",
+      "type": "reading_comprehension",
+      "passage": "Recent analyses of elephant cognition have complicated the long-standing view that tool use reflects a sharp cognitive divide between humans and other animals. Captive elephants have been observed modifying branches to create fly-swatters, adjusting the length and flexibility of their tools to match specific tasks. More striking still are reports from field researchers in Thailand, who documented wild elephants using logs to short-circuit electric fences — a behavior that, unlike fly-swatting, appears to involve both insight into the mechanism of the barrier and the capacity to plan a sequence of actions to overcome it.\n\nSome researchers caution, however, that such observations remain rare and may reflect individual idiosyncrasy rather than species-wide ability. Still, even skeptics concede that the sophistication of these documented cases warrants revising earlier assumptions about the cognitive requirements for tool use.",
+      "prompt": "The primary purpose of the passage is to",
+      "options": [
+        "argue that elephants possess cognitive abilities equivalent to those of humans",
+        "reconcile conflicting reports from captive and field studies of elephant behavior",
+        "present evidence that unsettles earlier assumptions about nonhuman tool use",
+        "advocate for expanded field research into elephant cognition in Thailand",
+        "explain the mechanism by which elephants short-circuit electric fences"
+      ],
+      "answer": "present evidence that unsettles earlier assumptions about nonhuman tool use",
+      "explanation": "The passage opens by noting the findings have 'complicated the long-standing view' and closes with skeptics conceding that earlier assumptions warrant 'revising.' Choice C captures this reshaping. A overstates (equivalence is never claimed); B and D are not the focus; E is a single detail, not the main purpose."
+    },
+    {
+      "id": "v01-q10",
+      "type": "reading_comprehension",
+      "passage": "Recent analyses of elephant cognition have complicated the long-standing view that tool use reflects a sharp cognitive divide between humans and other animals. Captive elephants have been observed modifying branches to create fly-swatters, adjusting the length and flexibility of their tools to match specific tasks. More striking still are reports from field researchers in Thailand, who documented wild elephants using logs to short-circuit electric fences — a behavior that, unlike fly-swatting, appears to involve both insight into the mechanism of the barrier and the capacity to plan a sequence of actions to overcome it.\n\nSome researchers caution, however, that such observations remain rare and may reflect individual idiosyncrasy rather than species-wide ability. Still, even skeptics concede that the sophistication of these documented cases warrants revising earlier assumptions about the cognitive requirements for tool use.",
+      "prompt": "According to the passage, the electric-fence behavior is considered more cognitively demanding than fly-swatting because it",
+      "options": [
+        "requires cooperation between multiple elephants",
+        "has only been observed in wild rather than captive settings",
+        "involves understanding a mechanism and planning a multi-step response",
+        "reflects a species-wide rather than individual capability",
+        "has been documented by multiple independent research teams"
+      ],
+      "answer": "involves understanding a mechanism and planning a multi-step response",
+      "explanation": "The passage explicitly says the fence behavior 'appears to involve both insight into the mechanism of the barrier and the capacity to plan a sequence of actions.' Choice C restates this directly. The other choices introduce claims the passage does not make."
+    },
+    {
+      "id": "v01-q11",
+      "type": "reading_comprehension",
+      "passage": "In the decades following the publication of Darwin's Origin, Victorian naturalists debated fiercely whether evolutionary change proceeded by gradual accumulation or by abrupt leaps. The gradualist position, dominant by century's end, held that species transformed through the slow aggregation of minute variations over vast stretches of time. Against this consensus stood a smaller but persistent group of saltationists, who argued that major morphological innovations must arise suddenly — too suddenly, they contended, for natural selection alone to explain.\n\nModern genetics has not vindicated either camp unambiguously. Some changes, particularly in regulatory genes governing embryonic development, can indeed produce large phenotypic effects from small mutational causes. Yet the fossil record continues to show patterns of stasis punctuated by comparatively rapid transitions, suggesting that neither uniform gradualism nor the saltationist appeal to wholesale reorganization captures the full picture of evolutionary change.",
+      "prompt": "The author's main purpose in the passage is to",
+      "options": [
+        "defend the gradualist position against modern saltationist critiques",
+        "argue that punctuated transitions in the fossil record refute natural selection",
+        "trace how a nineteenth-century debate has been reshaped but not resolved by later evidence",
+        "demonstrate that regulatory-gene mutations are the primary engine of evolutionary change",
+        "reconcile Darwin's views with those of his early critics"
+      ],
+      "answer": "trace how a nineteenth-century debate has been reshaped but not resolved by later evidence",
+      "explanation": "The passage sketches the Victorian debate, then shows modern genetics 'has not vindicated either camp unambiguously,' concluding that neither side 'captures the full picture.' That is precisely the 'reshaped but not resolved' framing in C."
+    },
+    {
+      "id": "v01-q12",
+      "type": "reading_comprehension",
+      "passage": "In the decades following the publication of Darwin's Origin, Victorian naturalists debated fiercely whether evolutionary change proceeded by gradual accumulation or by abrupt leaps. The gradualist position, dominant by century's end, held that species transformed through the slow aggregation of minute variations over vast stretches of time. Against this consensus stood a smaller but persistent group of saltationists, who argued that major morphological innovations must arise suddenly — too suddenly, they contended, for natural selection alone to explain.\n\nModern genetics has not vindicated either camp unambiguously. Some changes, particularly in regulatory genes governing embryonic development, can indeed produce large phenotypic effects from small mutational causes. Yet the fossil record continues to show patterns of stasis punctuated by comparatively rapid transitions, suggesting that neither uniform gradualism nor the saltationist appeal to wholesale reorganization captures the full picture of evolutionary change.",
+      "prompt": "The passage suggests that regulatory-gene mutations are notable primarily because they",
+      "options": [
+        "disprove the classical saltationist hypothesis",
+        "occur at higher rates than other types of mutation",
+        "can generate significant morphological change without requiring large genetic alterations",
+        "have been documented only in vertebrate embryos",
+        "provide the chief mechanism by which stasis is maintained in the fossil record"
+      ],
+      "answer": "can generate significant morphological change without requiring large genetic alterations",
+      "explanation": "The passage says regulatory-gene mutations 'can indeed produce large phenotypic effects from small mutational causes.' Choice C restates this. The other options are either unsupported or contradict the passage."
+    }
+  ]
+}

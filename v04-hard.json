@@ -1,0 +1,181 @@
+{
+  "id": "v04",
+  "title": "Verbal Set 4",
+  "subject": "verbal",
+  "difficulty": "hard",
+  "questions": [
+    {
+      "id": "v04-q01",
+      "type": "text_completion",
+      "blanks": 3,
+      "prompt": "What is most [[1]] in the politician's rhetoric is not its substantive claims — many of which are unobjectionable — but its [[2]] insistence on framing every disagreement as a [[3]] motivated by personal animus.",
+      "options": [
+        ["troubling", "characteristic", "innocuous"],
+        ["principled", "reflexive", "ironic"],
+        ["mistake", "vendetta", "policy"]
+      ],
+      "answer": ["troubling", "reflexive", "vendetta"],
+      "explanation": "The structure says the issue is the framing pattern, not the content. Troubling captures concern; reflexive (automatic, without thought) describes the framing pattern; vendetta (personal grudge) matches 'motivated by personal animus.'"
+    },
+    {
+      "id": "v04-q02",
+      "type": "text_completion",
+      "blanks": 2,
+      "prompt": "The novelist resists the [[1]] that often attends literary celebrity, declining interviews and refusing to authorize biographies; this reticence has been variously interpreted as integrity, false modesty, and a particularly [[2]] form of self-promotion.",
+      "options": [
+        ["scrutiny", "obscurity", "lassitude"],
+        ["earnest", "sophisticated", "transparent"]
+      ],
+      "answer": ["scrutiny", "sophisticated"],
+      "explanation": "She resists what attends celebrity — scrutiny (unwanted public attention). The paradox: reticence as self-promotion requires a sophisticated (indirect, savvy) form, not a transparent one."
+    },
+    {
+      "id": "v04-q03",
+      "type": "text_completion",
+      "blanks": 2,
+      "prompt": "Although the treaty was widely hailed as a [[1]] of decades of patient negotiation, subsequent commentators have pointed out that its central provisions were [[2]] enough to permit signatories to claim victory regardless of their actual policy commitments.",
+      "options": [
+        ["repudiation", "culmination", "rehearsal"],
+        ["exacting", "ambiguous", "innovative"]
+      ],
+      "answer": ["culmination", "ambiguous"],
+      "explanation": "'Hailed as ___ of decades of negotiation' calls for a positive endpoint — culmination. Provisions that allow all signatories to claim victory must be vague — ambiguous."
+    },
+    {
+      "id": "v04-q04",
+      "type": "text_completion",
+      "blanks": 1,
+      "prompt": "The committee's recommendations, far from offering the bold reform many had anticipated, amounted to little more than a [[1]] of existing practice.",
+      "options": [["repudiation", "ratification", "circumvention", "transformation", "subversion"]],
+      "answer": ["ratification"],
+      "explanation": "'Far from bold reform' = no real change. The recommendations endorsed what already existed. Ratification (formal approval) fits."
+    },
+    {
+      "id": "v04-q05",
+      "type": "text_completion",
+      "blanks": 2,
+      "prompt": "Critics of the journalist's exposé argued not that her facts were [[1]], but that her selection and arrangement of them constituted a kind of [[2]] more dangerous than outright fabrication, because harder to refute.",
+      "options": [
+        ["fabricated", "verified", "controversial"],
+        ["distortion", "rigor", "ineptitude"]
+      ],
+      "answer": ["fabricated", "distortion"],
+      "explanation": "'Not that facts were ___ but that selection... constituted ___' — critics concede the facts aren't fabricated; the issue is something subtler. Selection and arrangement that's harder to refute than fabrication is a form of distortion."
+    },
+    {
+      "id": "v04-q06",
+      "type": "sentence_equivalence",
+      "prompt": "The director's vision was so [[1]] that even minor scenes were rehearsed dozens of times until every gesture matched her precise mental image.",
+      "options": ["exacting", "fastidious", "perfunctory", "cursory", "permissive", "lenient"],
+      "answer": ["exacting", "fastidious"],
+      "explanation": "Rehearsing minor scenes dozens of times for precision = extremely demanding. Exacting and fastidious both convey demanding precision."
+    },
+    {
+      "id": "v04-q07",
+      "type": "sentence_equivalence",
+      "prompt": "His apologies were too [[1]] to be convincing — delivered with such ostentatious self-flagellation that they seemed designed less to repair the wrong than to absolve him of the obligation to address it seriously.",
+      "options": ["histrionic", "theatrical", "muted", "restrained", "formal", "ceremonial"],
+      "answer": ["histrionic", "theatrical"],
+      "explanation": "'Ostentatious self-flagellation' = overdramatic. Histrionic and theatrical both name overdone, performed emotion."
+    },
+    {
+      "id": "v04-q08",
+      "type": "sentence_equivalence",
+      "prompt": "The candidate's positions were so [[1]] across the campaign that voters could only conclude she had no fixed convictions whatsoever.",
+      "options": ["protean", "mutable", "entrenched", "immutable", "doctrinaire", "categorical"],
+      "answer": ["protean", "mutable"],
+      "explanation": "'No fixed convictions whatsoever' = constantly changing positions. Protean and mutable both mean readily changing."
+    },
+    {
+      "id": "v04-q09",
+      "type": "sentence_equivalence",
+      "prompt": "Although the painter died young, the [[1]] output of her brief career — over three hundred canvases — challenges the romantic image of the struggling artist starved of productive time.",
+      "options": ["prodigious", "prolific", "scant", "meager", "uneven", "patchy"],
+      "answer": ["prodigious", "prolific"],
+      "explanation": "Over three hundred canvases in a brief career = enormous output. Prodigious and prolific both mean massively productive."
+    },
+    {
+      "id": "v04-q10",
+      "type": "sentence_equivalence",
+      "prompt": "The senator's [[1]] turn against her former allies surprised even her longest-serving aides, who had grown accustomed to ideological flexibility but not to betrayal of personal loyalties.",
+      "options": ["abrupt", "precipitous", "deliberated", "considered", "reluctant", "tentative"],
+      "answer": ["abrupt", "precipitous"],
+      "explanation": "'Surprised even her longest-serving aides' = sudden, unexpected. Abrupt and precipitous both mean sudden."
+    },
+    {
+      "id": "v04-q11",
+      "type": "reading_comprehension",
+      "passage": "The discipline of behavioral economics, having spent its first generation establishing systematic departures from the rational-actor model, now confronts a question its founders rarely posed: what, if anything, do these departures collectively imply for the design of public policy? An influential strain of thinking — sometimes labeled libertarian paternalism — answers that policymakers should structure choice architectures to harness predictable cognitive shortcuts in service of outcomes that individuals would, on reflection, endorse. The classic illustration is automatic enrollment in retirement savings programs, which leverages status-quo bias to raise participation rates without restricting opt-out.\n\nCritics of this approach, including some sympathetic to the empirical findings on which it draws, have raised two related objections. The first is that 'what individuals would endorse on reflection' is itself a contested normative claim that policymakers are poorly positioned to adjudicate. The second is that the very heuristics that nudges exploit may be artifacts of context — adaptive in some environments, exploitable in others — rather than stable expressions of underlying preferences. If so, designing policy around them risks entrenching responses that are themselves products of the policy environment, generating a kind of feedback loop that the rational-actor framework, for all its limitations, did not invite.",
+      "prompt": "The primary purpose of the passage is to",
+      "options": [
+        "argue that libertarian paternalism cannot be reconciled with behavioral economics",
+        "present a problem internal to a research program and the principal objections to one proposed solution",
+        "defend the rational-actor model against its behavioral economics critics",
+        "demonstrate that automatic enrollment programs have unintended consequences",
+        "chronicle the historical development of behavioral economics"
+      ],
+      "answer": "present a problem internal to a research program and the principal objections to one proposed solution",
+      "explanation": "First paragraph poses the policy question and presents libertarian paternalism as one answer; second paragraph lays out two objections. That structure is choice B."
+    },
+    {
+      "id": "v04-q12",
+      "type": "reading_comprehension",
+      "passage": "The discipline of behavioral economics, having spent its first generation establishing systematic departures from the rational-actor model, now confronts a question its founders rarely posed: what, if anything, do these departures collectively imply for the design of public policy? An influential strain of thinking — sometimes labeled libertarian paternalism — answers that policymakers should structure choice architectures to harness predictable cognitive shortcuts in service of outcomes that individuals would, on reflection, endorse. The classic illustration is automatic enrollment in retirement savings programs, which leverages status-quo bias to raise participation rates without restricting opt-out.\n\nCritics of this approach, including some sympathetic to the empirical findings on which it draws, have raised two related objections. The first is that 'what individuals would endorse on reflection' is itself a contested normative claim that policymakers are poorly positioned to adjudicate. The second is that the very heuristics that nudges exploit may be artifacts of context — adaptive in some environments, exploitable in others — rather than stable expressions of underlying preferences. If so, designing policy around them risks entrenching responses that are themselves products of the policy environment, generating a kind of feedback loop that the rational-actor framework, for all its limitations, did not invite.",
+      "prompt": "According to the passage, the second objection to libertarian paternalism is best understood as",
+      "options": [
+        "a normative concern about which preferences policymakers should privilege",
+        "a methodological complaint about the empirical evidence underlying nudges",
+        "a worry that policy interventions may shape the very heuristics they purport to address",
+        "a defense of the rational-actor model on epistemic grounds",
+        "a claim that automatic enrollment violates individual autonomy"
+      ],
+      "answer": "a worry that policy interventions may shape the very heuristics they purport to address",
+      "explanation": "The second objection says heuristics may be context-dependent and that policy designed around them creates a 'feedback loop' — i.e., policy shapes the very heuristics it's responding to. That's choice C."
+    },
+    {
+      "id": "v04-q13",
+      "type": "reading_comprehension",
+      "passage": "The discipline of behavioral economics, having spent its first generation establishing systematic departures from the rational-actor model, now confronts a question its founders rarely posed: what, if anything, do these departures collectively imply for the design of public policy? An influential strain of thinking — sometimes labeled libertarian paternalism — answers that policymakers should structure choice architectures to harness predictable cognitive shortcuts in service of outcomes that individuals would, on reflection, endorse. The classic illustration is automatic enrollment in retirement savings programs, which leverages status-quo bias to raise participation rates without restricting opt-out.\n\nCritics of this approach, including some sympathetic to the empirical findings on which it draws, have raised two related objections. The first is that 'what individuals would endorse on reflection' is itself a contested normative claim that policymakers are poorly positioned to adjudicate. The second is that the very heuristics that nudges exploit may be artifacts of context — adaptive in some environments, exploitable in others — rather than stable expressions of underlying preferences. If so, designing policy around them risks entrenching responses that are themselves products of the policy environment, generating a kind of feedback loop that the rational-actor framework, for all its limitations, did not invite.",
+      "prompt": "The author's attitude toward libertarian paternalism is best described as",
+      "options": [
+        "enthusiastic endorsement",
+        "detached cataloging of objections without explicit endorsement of either side",
+        "thoroughgoing rejection on normative grounds",
+        "reluctant acceptance despite substantial misgivings",
+        "impatience with critics who fail to grasp empirical findings"
+      ],
+      "answer": "detached cataloging of objections without explicit endorsement of either side",
+      "explanation": "The author lays out the position and the objections without taking a side. Note 'for all its limitations' is even-handed about the rational-actor model, signalling neutrality."
+    },
+    {
+      "id": "v04-q14",
+      "type": "reading_comprehension",
+      "passage": "Among the more counterintuitive findings of recent neuroscience is that the human brain's processing of music recruits regions traditionally associated with motor planning, even when the listener is sitting still. Functional imaging consistently reveals activation in premotor cortex during pure listening tasks, and lesions in these regions impair not only musical performance but also the perception of rhythmic structure. This convergence has prompted theorists to propose that musical experience is fundamentally embodied: that we hear rhythm, in some neurologically meaningful sense, by simulating the actions that would produce it.\n\nThe proposal remains contested. Skeptics note that premotor activation during music perception may reflect general predictive processing rather than anything specifically simulative, and that lesion data, while suggestive, often involve damage to multiple regions whose contributions cannot be cleanly separated. What is no longer in dispute is that the older view — of music perception as essentially auditory, with motor regions engaged only during overt performance — is too simple to accommodate available evidence.",
+      "prompt": "According to the passage, recent neuroscience has called into question",
+      "options": [
+        "the proposition that motor regions activate during musical performance",
+        "the methodological reliability of functional imaging studies",
+        "a strict separation between auditory perception and motor processing",
+        "the value of lesion data in understanding music perception",
+        "claims that musical experience is fundamentally embodied"
+      ],
+      "answer": "a strict separation between auditory perception and motor processing",
+      "explanation": "The 'older view' that music perception is 'essentially auditory, with motor regions engaged only during overt performance' is what's been complicated — i.e., the strict auditory/motor separation."
+    },
+    {
+      "id": "v04-q15",
+      "type": "reading_comprehension",
+      "passage": "Among the more counterintuitive findings of recent neuroscience is that the human brain's processing of music recruits regions traditionally associated with motor planning, even when the listener is sitting still. Functional imaging consistently reveals activation in premotor cortex during pure listening tasks, and lesions in these regions impair not only musical performance but also the perception of rhythmic structure. This convergence has prompted theorists to propose that musical experience is fundamentally embodied: that we hear rhythm, in some neurologically meaningful sense, by simulating the actions that would produce it.\n\nThe proposal remains contested. Skeptics note that premotor activation during music perception may reflect general predictive processing rather than anything specifically simulative, and that lesion data, while suggestive, often involve damage to multiple regions whose contributions cannot be cleanly separated. What is no longer in dispute is that the older view — of music perception as essentially auditory, with motor regions engaged only during overt performance — is too simple to accommodate available evidence.",
+      "prompt": "The skeptics mentioned in the second paragraph would most likely object to which of the following claims?",
+      "options": [
+        "premotor activation occurs during pure listening tasks",
+        "lesion data should be excluded from neuroscientific analysis",
+        "music perception necessarily involves the simulation of producing actions",
+        "functional imaging is an unreliable methodology",
+        "the older view of music perception is no longer tenable"
+      ],
+      "answer": "music perception necessarily involves the simulation of producing actions",
+      "explanation": "Skeptics question whether premotor activation reflects 'anything specifically simulative.' They accept the activation but doubt the simulation interpretation."
+    }
+  ]
+}

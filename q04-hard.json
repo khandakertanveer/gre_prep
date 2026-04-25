@@ -1,0 +1,135 @@
+{
+  "id": "q04",
+  "title": "Quant Set 4",
+  "subject": "quant",
+  "difficulty": "hard",
+  "questions": [
+    {
+      "id": "q04-q01",
+      "type": "quantitative_comparison",
+      "prompt": "x and y are positive integers, and (x + y)² = 36.",
+      "quantityA": "xy",
+      "quantityB": "9",
+      "answer": "The relationship cannot be determined from the information given.",
+      "explanation": "x + y = 6. Pairs of positive integers: (1, 5), (2, 4), (3, 3) give xy = 5, 8, 9. Could be less than or equal to 9, so cannot be determined."
+    },
+    {
+      "id": "q04-q02",
+      "type": "quantitative_comparison",
+      "prompt": "In a normal distribution with mean 50 and standard deviation 10:",
+      "quantityA": "Percentage of values between 40 and 60",
+      "quantityB": "70%",
+      "answer": "Quantity B is greater.",
+      "explanation": "About 68% of values lie within one standard deviation of the mean (40 to 60). 68% < 70%."
+    },
+    {
+      "id": "q04-q03",
+      "type": "quantitative_comparison",
+      "prompt": "A circle is inscribed in a square with side 10.",
+      "quantityA": "Area inside the square but outside the circle",
+      "quantityB": "25",
+      "answer": "Quantity B is greater.",
+      "explanation": "Square area = 100. Inscribed circle has radius 5, area = 25π ≈ 78.54. Difference ≈ 21.46 < 25."
+    },
+    {
+      "id": "q04-q04",
+      "type": "quantitative_comparison",
+      "prompt": "f(x) = x³ − 3x",
+      "quantityA": "f(2)",
+      "quantityB": "f(−2)",
+      "answer": "Quantity A is greater.",
+      "explanation": "f(2) = 8 − 6 = 2. f(−2) = −8 + 6 = −2. So A > B."
+    },
+    {
+      "id": "q04-q05",
+      "type": "quantitative_comparison",
+      "prompt": "A coin is flipped 4 times.",
+      "quantityA": "P(at least 3 heads)",
+      "quantityB": "P(exactly 2 heads)",
+      "answer": "Quantity B is greater.",
+      "explanation": "P(3H) = C(4,3)/16 = 4/16. P(4H) = 1/16. P(at least 3H) = 5/16. P(exactly 2H) = C(4,2)/16 = 6/16. So B > A."
+    },
+    {
+      "id": "q04-q06",
+      "type": "quantitative_comparison",
+      "prompt": "x > y > 0",
+      "quantityA": "(x − y)²",
+      "quantityB": "x² − y²",
+      "answer": "Quantity B is greater.",
+      "explanation": "B = (x + y)(x − y). A = (x − y)². Both positive. Divide both by (x − y) > 0: compare (x − y) and (x + y). Since y > 0, x + y > x − y. So B > A."
+    },
+    {
+      "id": "q04-q07",
+      "type": "quantitative_comparison",
+      "prompt": "P(A) = 0.4, P(B) = 0.3, P(A and B) = 0.1.",
+      "quantityA": "P(A or B)",
+      "quantityB": "0.7",
+      "answer": "Quantity B is greater.",
+      "explanation": "P(A or B) = P(A) + P(B) − P(A and B) = 0.4 + 0.3 − 0.1 = 0.6 < 0.7."
+    },
+    {
+      "id": "q04-q08",
+      "type": "problem_solving",
+      "prompt": "If x² − 5x + 6 = 0, what is the sum of the roots?",
+      "options": ["−6", "−5", "5", "6", "11"],
+      "answer": "5",
+      "explanation": "By Vieta's formulas, sum of roots = −b/a = −(−5)/1 = 5. (Or factor: (x − 2)(x − 3), roots 2 and 3, sum 5.)"
+    },
+    {
+      "id": "q04-q09",
+      "type": "problem_solving",
+      "prompt": "A committee of 4 is chosen from 6 men and 5 women. How many committees have exactly 2 men and 2 women?",
+      "options": ["30", "75", "150", "300", "330"],
+      "answer": "150",
+      "explanation": "C(6, 2) × C(5, 2) = 15 × 10 = 150."
+    },
+    {
+      "id": "q04-q10",
+      "type": "problem_solving",
+      "prompt": "What is the smallest positive integer n such that 2n is a perfect square and 3n is a perfect cube?",
+      "options": ["72", "108", "144", "288", "432"],
+      "answer": "72",
+      "explanation": "Write n = 2^a × 3^b × (other primes). For 2n a square, a + 1 and b must be even. For 3n a cube, a and b + 1 must be multiples of 3. Smallest a: odd and ≡ 0 (mod 3) → 3. Smallest b: even and b + 1 ≡ 0 (mod 3) → 2. n = 2³ × 3² = 72. Check: 2n = 144 = 12², 3n = 216 = 6³. ✓"
+    },
+    {
+      "id": "q04-q11",
+      "type": "problem_solving",
+      "prompt": "A test has 30 questions. Each correct answer earns 4 points; each wrong answer loses 1 point; blanks earn 0. A student attempts every question and scores 75. How many questions did the student answer correctly?",
+      "options": ["18", "19", "20", "21", "22"],
+      "answer": "21",
+      "explanation": "Let c = correct, w = wrong. c + w = 30 and 4c − w = 75. Adding: 5c = 105 → c = 21."
+    },
+    {
+      "id": "q04-q12",
+      "type": "problem_solving",
+      "prompt": "Two concentric circles have areas 9π and 25π. What is the area of the region between them (the annulus)?",
+      "options": ["4π", "9π", "16π", "25π", "34π"],
+      "answer": "16π",
+      "explanation": "Annulus area = larger − smaller = 25π − 9π = 16π."
+    },
+    {
+      "id": "q04-q13",
+      "type": "numeric_entry",
+      "prompt": "For how many integers n with 1 ≤ n ≤ 100 is n² + n divisible by 6?",
+      "answer": "66",
+      "unit": "",
+      "explanation": "n² + n = n(n + 1) is always divisible by 2 (consecutive integers). For divisibility by 3, need n ≡ 0 or n ≡ 2 (mod 3) — i.e., n ≢ 1 (mod 3). Out of 1..100, those ≡ 1 (mod 3) are 1, 4, 7, ..., 100 — count is (100 − 1)/3 + 1 = 34. Remaining: 100 − 34 = 66."
+    },
+    {
+      "id": "q04-q14",
+      "type": "numeric_entry",
+      "prompt": "A triangle has vertices at (0, 0), (a, 0), and (0, b). Its area is 24 and a + b = 14. What is a × b?",
+      "answer": "48",
+      "unit": "",
+      "explanation": "Area of right triangle with legs along the axes = (1/2) × a × b = 24, so ab = 48. (The constraint a + b = 14 just confirms a and b are 6 and 8.)"
+    },
+    {
+      "id": "q04-q15",
+      "type": "multiple_answer",
+      "prompt": "For which of the following values of n is n! divisible by 100? Indicate all such values.",
+      "options": ["8", "9", "10", "12", "15"],
+      "answer": ["10", "12", "15"],
+      "explanation": "100 = 2² × 5². Need at least two factors of 5 in n!. Number of 5s in n! = floor(n/5) + floor(n/25) + ... For n = 8 or 9: only one 5 (from 5). For n = 10: two 5s (from 5 and 10). For n = 12: still two. For n = 15: three (from 5, 10, 15)."
+    }
+  ]
+}
