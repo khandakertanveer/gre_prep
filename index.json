@@ -1,0 +1,20 @@
+{
+  "verbal": [
+    { "id": "v01", "title": "Verbal Set 1", "subject": "verbal", "difficulty": "mid",  "questionCount": 12, "path": "v01-mid.json" },
+    { "id": "v02", "title": "Verbal Set 2", "subject": "verbal", "difficulty": "mid",  "questionCount": 12, "path": "v02-mid.json" },
+    { "id": "v03", "title": "Verbal Set 3", "subject": "verbal", "difficulty": "mid",  "questionCount": 12, "path": "v03-mid.json" },
+    { "id": "v04", "title": "Verbal Set 4", "subject": "verbal", "difficulty": "hard", "questionCount": 15, "path": "v04-hard.json" },
+    { "id": "v05", "title": "Verbal Set 5", "subject": "verbal", "difficulty": "hard", "questionCount": 15, "path": "v05-hard.json" }
+  ],
+  "quant": [
+    { "id": "q01", "title": "Quant Set 1", "subject": "quant", "difficulty": "mid",  "questionCount": 12, "path": "q01-mid.json" },
+    { "id": "q02", "title": "Quant Set 2", "subject": "quant", "difficulty": "mid",  "questionCount": 12, "path": "q02-mid.json" },
+    { "id": "q03", "title": "Quant Set 3", "subject": "quant", "difficulty": "mid",  "questionCount": 12, "path": "q03-mid.json" },
+    { "id": "q04", "title": "Quant Set 4", "subject": "quant", "difficulty": "hard", "questionCount": 15, "path": "q04-hard.json" },
+    { "id": "q05", "title": "Quant Set 5", "subject": "quant", "difficulty": "hard", "questionCount": 15, "path": "q05-hard.json" }
+  ],
+  "awa": [
+    { "id": "awa01", "title": "AWA Prompt 1", "subject": "awa", "path": "awa01.json" },
+    { "id": "awa02", "title": "AWA Prompt 2", "subject": "awa", "path": "awa02.json" }
+  ]
+}
