@@ -1,0 +1,296 @@
+{
+  "id": "v06",
+  "title": "Verbal Set 6",
+  "subject": "verbal",
+  "difficulty": "hard",
+  "questions": [
+    {
+      "id": "v06-q01",
+      "type": "text_completion",
+      "blanks": 3,
+      "prompt": "The translation is [[1]] in its fidelity to the original's syntax but [[2]] in its rendering of the lexical choices that give the prose its particular [[3]], substituting standard English equivalents for words whose very foreignness was doing philosophical work.",
+      "options": [
+        [
+          "admirable",
+          "deficient",
+          "erratic"
+        ],
+        [
+          "successful",
+          "unsuccessful",
+          "admirable"
+        ],
+        [
+          "clarity",
+          "texture",
+          "obscurity"
+        ]
+      ],
+      "answer": [
+        "admirable",
+        "unsuccessful",
+        "texture"
+      ],
+      "explanation": "Admirable in syntax fidelity; unsuccessful in rendering lexical choices. The word 'texture' captures the feel/quality of prose that 'clarity' and 'obscurity' miss — the foreignness was doing work on the surface texture of the language."
+    },
+    {
+      "id": "v06-q02",
+      "type": "text_completion",
+      "blanks": 2,
+      "prompt": "The novel's strength lies in its refusal to [[1]] the moral landscape: characters are neither heroes nor villains but people whose virtues and vices are inextricably [[2]], making every ethical judgment the reader might venture feel inadequate.",
+      "options": [
+        [
+          "simplify",
+          "complicate",
+          "describe"
+        ],
+        [
+          "related",
+          "intertwined",
+          "opposed"
+        ]
+      ],
+      "answer": [
+        "simplify",
+        "intertwined"
+      ],
+      "explanation": "Refusing to simplify the moral landscape = maintaining complexity. Virtues and vices are intertwined (inseparable), not merely related (which is weaker)."
+    },
+    {
+      "id": "v06-q03",
+      "type": "text_completion",
+      "blanks": 1,
+      "prompt": "The senator's speech was remarkable less for what it said than for what it [[1]]: its silences were as carefully choreographed as its assertions, and the audience understood that the unsaid was the message.",
+      "options": [
+        [
+          "avoided",
+          "implied",
+          "conceded",
+          "contradicted",
+          "emphasized"
+        ]
+      ],
+      "answer": [
+        "avoided"
+      ],
+      "explanation": "Silences as a carefully choreographed message = what was deliberately avoided (not said). The unsaid = what was avoided. 'Implied' is too positive; 'avoided' captures the deliberate omission."
+    },
+    {
+      "id": "v06-q04",
+      "type": "text_completion",
+      "blanks": 3,
+      "prompt": "What makes the philosophical problem of personal identity so [[1]] is that our [[2]] intuitions about the matter — that we persist through time as the same person — coexist with serious theoretical difficulties in specifying what exactly that [[3]] consists in.",
+      "options": [
+        [
+          "tractable",
+          "intractable",
+          "interesting"
+        ],
+        [
+          "strong",
+          "weak",
+          "explicit"
+        ],
+        [
+          "persistence",
+          "identity",
+          "continuity"
+        ]
+      ],
+      "answer": [
+        "intractable",
+        "strong",
+        "persistence"
+      ],
+      "explanation": "Strong intuitions + serious theoretical difficulties in explaining them = intractable problem. The question of what persistence consists in is the philosophical puzzle about personal identity over time."
+    },
+    {
+      "id": "v06-q05",
+      "type": "text_completion",
+      "blanks": 2,
+      "prompt": "Her account of the negotiations is [[1]] to the extent that it represents only one side's perspective, but it is also more [[2]] about the process than any official document because it admits the role of contingency and misunderstanding that official records systematically exclude.",
+      "options": [
+        [
+          "partial",
+          "comprehensive",
+          "reliable"
+        ],
+        [
+          "revealing",
+          "misleading",
+          "accurate"
+        ]
+      ],
+      "answer": [
+        "partial",
+        "revealing"
+      ],
+      "explanation": "One-sided = partial (biased/incomplete). But admitting contingency and misunderstanding that official records hide = more revealing (disclosive of actual dynamics)."
+    },
+    {
+      "id": "v06-q06",
+      "type": "sentence_equivalence",
+      "prompt": "The theory's proponents have been accused of [[1]] — the practice of dismissing anomalous evidence as irrelevant or methodologically flawed whenever it conflicts with the core model.",
+      "options": [
+        "immunization",
+        "special pleading",
+        "rigor",
+        "parsimony",
+        "falsifiability",
+        "operationalization"
+      ],
+      "answer": [
+        "immunization",
+        "special pleading"
+      ],
+      "explanation": "Dismissing anomalous evidence to protect the core model = immunization (protecting a theory from disconfirmation) and special pleading (applying different standards selectively)."
+    },
+    {
+      "id": "v06-q07",
+      "type": "sentence_equivalence",
+      "prompt": "The scholar's intervention was [[1]], arriving just as the field had calcified around a set of assumptions that were beginning to produce diminishing returns.",
+      "options": [
+        "timely",
+        "opportune",
+        "premature",
+        "belated",
+        "superfluous",
+        "redundant"
+      ],
+      "answer": [
+        "timely",
+        "opportune"
+      ],
+      "explanation": "Arriving at the exact moment when the field needed disruption = well-timed. Timely and opportune both describe something that comes at the right moment."
+    },
+    {
+      "id": "v06-q08",
+      "type": "sentence_equivalence",
+      "prompt": "The committee's final text, negotiated over three years, was so [[1]] that each member state could claim it as a victory for their national position.",
+      "options": [
+        "malleable",
+        "capacious",
+        "rigid",
+        "prescriptive",
+        "categorical",
+        "unequivocal"
+      ],
+      "answer": [
+        "malleable",
+        "capacious"
+      ],
+      "explanation": "Text that can be claimed as a victory by all parties with contradictory positions = flexible enough to accommodate multiple readings. Malleable (easily shaped) and capacious (spacious enough to contain diverse meanings) both fit."
+    },
+    {
+      "id": "v06-q09",
+      "type": "sentence_equivalence",
+      "prompt": "The memoir's most [[1]] passages are those in which the author approaches a revelation and then retreats, leaving the reader with an outline of what cannot be said rather than the thing itself.",
+      "options": [
+        "arresting",
+        "haunting",
+        "tedious",
+        "prolix",
+        "predictable",
+        "formulaic"
+      ],
+      "answer": [
+        "arresting",
+        "haunting"
+      ],
+      "explanation": "Passages that outline what cannot be said — an evocative presence of absence — are striking and linger in the mind. Arresting (compelling attention) and haunting (lingering, preoccupying) both capture this quality."
+    },
+    {
+      "id": "v06-q10",
+      "type": "sentence_equivalence",
+      "prompt": "The company's pivot was less a response to market signals than a [[1]] move to align itself with a regulatory environment that it had spent years lobbying to create.",
+      "options": [
+        "calculated",
+        "strategic",
+        "reactive",
+        "improvised",
+        "reluctant",
+        "coerced"
+      ],
+      "answer": [
+        "calculated",
+        "strategic"
+      ],
+      "explanation": "A move to align with a regulatory environment the company had itself created = premeditated and deliberate. Calculated and strategic both describe this planned, purposeful action."
+    },
+    {
+      "id": "v06-q11",
+      "type": "reading_comprehension",
+      "passage": "The concept of epistemic injustice, developed by Miranda Fricker, identifies two forms of wrong that can be done to a person in their capacity as a knower. The first, testimonial injustice, occurs when a speaker receives a deflated level of credibility from a hearer owing to identity prejudice — when, for instance, a woman's report is discounted because she is a woman. The second, hermeneutical injustice, occurs when a gap in collective interpretive resources puts someone at an unfair disadvantage when trying to make sense of their own social experience. Someone who lacks the concept of 'sexual harassment' cannot make their experience intelligible in the terms available, and so cannot effectively communicate what has happened to them or seek redress.\n\nCritics have questioned whether hermeneutical injustice is properly understood as an epistemic wrong rather than a political or social one. If the harm is primarily the inability to seek legal or institutional redress, the critique concerns power structures rather than knowledge specifically. Fricker's response is that the inability to make one's experience intelligible is itself an epistemic harm — a cognitive deprivation that is distinct from, though often related to, the political consequences that follow from it.",
+      "prompt": "According to the passage, the two forms of epistemic injustice differ primarily in that",
+      "options": [
+        "testimonial injustice involves active prejudice while hermeneutical injustice involves passive neglect",
+        "testimonial injustice concerns credibility assigned by others while hermeneutical injustice concerns conceptual resources for self-understanding",
+        "testimonial injustice affects only women while hermeneutical injustice affects all marginalized groups",
+        "testimonial injustice can be remedied legally while hermeneutical injustice cannot",
+        "testimonial injustice is an individual wrong while hermeneutical injustice is a collective one"
+      ],
+      "answer": "testimonial injustice concerns credibility assigned by others while hermeneutical injustice concerns conceptual resources for self-understanding",
+      "explanation": "Testimonial: credibility deflated by hearer (others' assessment). Hermeneutical: gap in collective interpretive resources (concepts for self-understanding). The contrast is between others' assessment and one's own conceptual resources."
+    },
+    {
+      "id": "v06-q12",
+      "type": "reading_comprehension",
+      "passage": "The concept of epistemic injustice, developed by Miranda Fricker, identifies two forms of wrong that can be done to a person in their capacity as a knower. The first, testimonial injustice, occurs when a speaker receives a deflated level of credibility from a hearer owing to identity prejudice — when, for instance, a woman's report is discounted because she is a woman. The second, hermeneutical injustice, occurs when a gap in collective interpretive resources puts someone at an unfair disadvantage when trying to make sense of their own social experience. Someone who lacks the concept of 'sexual harassment' cannot make their experience intelligible in the terms available, and so cannot effectively communicate what has happened to them or seek redress.\n\nCritics have questioned whether hermeneutical injustice is properly understood as an epistemic wrong rather than a political or social one. If the harm is primarily the inability to seek legal or institutional redress, the critique concerns power structures rather than knowledge specifically. Fricker's response is that the inability to make one's experience intelligible is itself an epistemic harm — a cognitive deprivation that is distinct from, though often related to, the political consequences that follow from it.",
+      "prompt": "Fricker's response to her critics is best characterized as",
+      "options": [
+        "conceding that hermeneutical injustice is primarily a political wrong but arguing it is important nonetheless",
+        "distinguishing the cognitive harm of conceptual deprivation from its political consequences",
+        "arguing that epistemic and political wrongs are identical because one always produces the other",
+        "denying that the inability to seek redress constitutes any form of harm",
+        "claiming that hermeneutical injustice is more serious than testimonial injustice"
+      ],
+      "answer": "distinguishing the cognitive harm of conceptual deprivation from its political consequences",
+      "explanation": "Fricker argues: the inability to make experience intelligible is an epistemic harm distinct from (though related to) the political consequences. She separates the cognitive and political — she doesn't deny the political but insists on the epistemic harm as its own category."
+    },
+    {
+      "id": "v06-q13",
+      "type": "reading_comprehension",
+      "passage": "The concept of epistemic injustice, developed by Miranda Fricker, identifies two forms of wrong that can be done to a person in their capacity as a knower. The first, testimonial injustice, occurs when a speaker receives a deflated level of credibility from a hearer owing to identity prejudice — when, for instance, a woman's report is discounted because she is a woman. The second, hermeneutical injustice, occurs when a gap in collective interpretive resources puts someone at an unfair disadvantage when trying to make sense of their own social experience. Someone who lacks the concept of 'sexual harassment' cannot make their experience intelligible in the terms available, and so cannot effectively communicate what has happened to them or seek redress.\n\nCritics have questioned whether hermeneutical injustice is properly understood as an epistemic wrong rather than a political or social one. If the harm is primarily the inability to seek legal or institutional redress, the critique concerns power structures rather than knowledge specifically. Fricker's response is that the inability to make one's experience intelligible is itself an epistemic harm — a cognitive deprivation that is distinct from, though often related to, the political consequences that follow from it.",
+      "prompt": "The example of someone lacking the concept of 'sexual harassment' is introduced primarily to",
+      "options": [
+        "argue that harassment should be legally defined before it can be recognized",
+        "illustrate how an absence of concepts can prevent intelligible communication of experience",
+        "show that legal redress is impossible without adequate epistemic resources",
+        "contrast testimonial injustice with its more severe hermeneutical counterpart",
+        "demonstrate that collective interpretive gaps are created by those in power"
+      ],
+      "answer": "illustrate how an absence of concepts can prevent intelligible communication of experience",
+      "explanation": "The example shows what hermeneutical injustice looks like concretely: lacking 'sexual harassment' means one cannot make the experience intelligible — can't communicate it or seek redress. It's an illustration of the abstract concept."
+    },
+    {
+      "id": "v06-q14",
+      "type": "reading_comprehension",
+      "passage": "Economic models of voting behavior have long struggled with what Downs called the 'paradox of voting': since the probability that a single vote will determine an election is vanishingly small, and voting involves real costs of time and information-gathering, a rational self-interested actor should abstain. Yet turnout in major elections consistently exceeds fifty percent in most democracies, suggesting that most voters are either misinformed about their impact or motivated by something other than expected instrumental payoff.\n\nThree solutions have been proposed. Some economists argue that citizens derive 'expressive utility' from the act of voting itself — from the experience of affirming an identity or discharging a civic duty — independently of any expectation of influencing the outcome. Others propose that citizens systematically overestimate the probability that their vote will be decisive. A third camp argues that turnout reflects social pressure and internalized norms rather than individual utility calculations, making the paradox an artifact of applying an individualistic framework where it does not belong.",
+      "prompt": "The three proposed solutions to the voting paradox share which of the following features?",
+      "options": [
+        "They all accept the rational choice framework and show that voting is instrumentally rational",
+        "They all explain why turnout is higher than the rational choice model predicts without abandoning the assumption of self-interest",
+        "They all explain high turnout by reference to motivations other than expected electoral impact",
+        "They all assume that voters are systematically misinformed about the probability of decisiveness",
+        "They all suggest that turnout rates would decline if voters became better informed"
+      ],
+      "answer": "They all explain high turnout by reference to motivations other than expected electoral impact",
+      "explanation": "Expressive utility (not impact), systematic overestimation of decisiveness (though this is misinformation, not impact-seeking), and social pressure/norms — all three locate turnout in something other than expected influence on the outcome. That's what they share."
+    },
+    {
+      "id": "v06-q15",
+      "type": "reading_comprehension",
+      "passage": "Economic models of voting behavior have long struggled with what Downs called the 'paradox of voting': since the probability that a single vote will determine an election is vanishingly small, and voting involves real costs of time and information-gathering, a rational self-interested actor should abstain. Yet turnout in major elections consistently exceeds fifty percent in most democracies, suggesting that most voters are either misinformed about their impact or motivated by something other than expected instrumental payoff.\n\nThree solutions have been proposed. Some economists argue that citizens derive 'expressive utility' from the act of voting itself — from the experience of affirming an identity or discharging a civic duty — independently of any expectation of influencing the outcome. Others propose that citizens systematically overestimate the probability that their vote will be decisive. A third camp argues that turnout reflects social pressure and internalized norms rather than individual utility calculations, making the paradox an artifact of applying an individualistic framework where it does not belong.",
+      "prompt": "The phrase 'artifact of applying an individualistic framework' most nearly means that the paradox",
+      "options": [
+        "exists only because political scientists have misidentified the relevant data",
+        "is a product of using an inappropriate model rather than a genuine feature of voting behavior",
+        "reveals that individuals are more rational than economists have assumed",
+        "results from ignoring the expressive utility that voting provides",
+        "is less paradoxical than Downs originally suggested once turnout data is corrected"
+      ],
+      "answer": "is a product of using an inappropriate model rather than a genuine feature of voting behavior",
+      "explanation": "An 'artifact' of a framework = something produced by the way of looking, not by reality itself. Applying an individualistic framework creates the paradox; a different framework (social norms) dissolves it."
+    }
+  ]
+}

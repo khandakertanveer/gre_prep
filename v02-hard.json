@@ -1,0 +1,182 @@
+{
+  "id": "v02",
+  "title": "Verbal Set 2",
+  "subject": "verbal",
+  "difficulty": "hard",
+  "questions": [
+    {
+      "id": "v02-q01",
+      "type": "text_completion",
+      "blanks": 3,
+      "prompt": "Far from being [[1]], the historian's methodology is [[2]] in its assumptions: it treats all documentary silences as ideologically produced, a move that forecloses the possibility of [[3]] such silences as the result of archival accident.",
+      "options": [
+        ["neutral", "theoretically loaded", "inconsistent"],
+        ["transparent", "heterodox", "rigorous"],
+        ["explaining", "interpreting", "dismissing"]
+      ],
+      "answer": ["neutral", "theoretically loaded", "explaining"],
+      "explanation": "'Far from neutral' sets up the contrast. 'Theoretically loaded' = full of theoretical assumptions. Treating silences as ideologically produced forecloses explaining them as archival accident."
+    },
+    {
+      "id": "v02-q02",
+      "type": "text_completion",
+      "blanks": 2,
+      "prompt": "The scientist's career exemplifies the tension between [[1]] and recognition: her most important work was published without fanfare in specialist journals, reaching a wider audience only decades later when its [[2]] became apparent.",
+      "options": [
+        ["productivity", "obscurity", "ambition"],
+        ["redundancy", "prescience", "derivativeness"]
+      ],
+      "answer": ["obscurity", "prescience"],
+      "explanation": "Published without fanfare = obscurity (the tension is obscurity vs. recognition). Wider audience came later when its foresight of future developments (prescience) became clear."
+    },
+    {
+      "id": "v02-q03",
+      "type": "text_completion",
+      "blanks": 1,
+      "prompt": "The critic's most [[1]] judgment — that the author had 'nothing to say and three hundred pages in which to say it' — encapsulated in a single sentence what reviewers had spent thousands of words struggling to articulate.",
+      "options": [["lapidary", "intemperate", "generous", "hedged", "derivative"]],
+      "answer": ["lapidary"],
+      "explanation": "Lapidary = brief and precisely formulated — perfectly fits a single sentence that captured what thousands of words could not."
+    },
+    {
+      "id": "v02-q04",
+      "type": "text_completion",
+      "blanks": 3,
+      "prompt": "The policy's [[1]] effects — falling hardest on the populations it was ostensibly designed to protect — were not unforeseen; internal documents reveal that analysts predicted them with considerable [[2]] but that their concerns were [[3]] by officials anxious to deliver a visible early victory.",
+      "options": [
+        ["salutary", "adverse", "negligible"],
+        ["precision", "optimism", "alarm"],
+        ["amplified", "overridden", "validated"]
+      ],
+      "answer": ["adverse", "precision", "overridden"],
+      "explanation": "Effects that fell on those the policy should have protected = adverse. Analysts predicted them with precision (specificity). Concerns were overridden by officials seeking quick wins."
+    },
+    {
+      "id": "v02-q05",
+      "type": "text_completion",
+      "blanks": 2,
+      "prompt": "The playwright's decision to render the trial scene entirely in reported speech is not a [[1]] but a structural argument: it forces the audience to inhabit the position of those who know justice only as [[2]], never as participants.",
+      "options": [
+        ["technique", "contrivance", "convention"],
+        ["spectacle", "rumor", "principle"]
+      ],
+      "answer": ["contrivance", "rumor"],
+      "explanation": "'Not a contrivance but a structural argument' = the choice is deliberate and meaningful. Those outside the trial know it only as rumor — secondhand, never as direct experience."
+    },
+    {
+      "id": "v02-q06",
+      "type": "sentence_equivalence",
+      "prompt": "The governor's response to the report was [[1]] — an elaborate performance of outrage that everyone present recognized as designed to forestall, rather than initiate, genuine accountability.",
+      "options": ["histrionic", "theatrical", "sincere", "earnest", "measured", "restrained"],
+      "answer": ["histrionic", "theatrical"],
+      "explanation": "'Performance of outrage' designed to prevent accountability = overdramatic, insincere. Histrionic and theatrical both name this kind of performed emotion."
+    },
+    {
+      "id": "v02-q07",
+      "type": "sentence_equivalence",
+      "prompt": "The new editor's changes, though [[1]] in scope, fundamentally altered the journal's character by shifting its emphasis from theoretical to empirical work.",
+      "options": ["modest", "circumscribed", "sweeping", "comprehensive", "radical", "transformative"],
+      "answer": ["modest", "circumscribed"],
+      "explanation": "'Though X in scope' followed by 'fundamentally altered' = the changes were small in number but large in effect. Modest and circumscribed both mean limited in scope."
+    },
+    {
+      "id": "v02-q08",
+      "type": "sentence_equivalence",
+      "prompt": "Scholars have long disputed whether the manuscript's errors are [[1]] — introduced by scribes who misread their exemplars — or deliberate emendations by a later hand.",
+      "options": ["inadvertent", "adventitious", "intentional", "systematic", "corrective", "restorative"],
+      "answer": ["inadvertent", "adventitious"],
+      "explanation": "Contrasted with 'deliberate emendations,' the alternative must mean accidental. Inadvertent and adventitious both mean occurring by chance / unintentionally."
+    },
+    {
+      "id": "v02-q09",
+      "type": "sentence_equivalence",
+      "prompt": "The administration's [[1]] approach to foreign policy — making major commitments one week and reversing them the next — undermined its credibility with allies who required predictability above all.",
+      "options": ["mercurial", "erratic", "principled", "steadfast", "deliberate", "consistent"],
+      "answer": ["mercurial", "erratic"],
+      "explanation": "Reversing commitments week to week = unpredictable, inconsistent. Mercurial and erratic both describe rapid, unpredictable change."
+    },
+    {
+      "id": "v02-q10",
+      "type": "sentence_equivalence",
+      "prompt": "Her interpretation of the treaty, while [[1]], commands attention precisely because it accounts for anomalies that more conventional readings simply ignore.",
+      "options": ["heterodox", "unorthodox", "mainstream", "conventional", "standard", "orthodox"],
+      "answer": ["heterodox", "unorthodox"],
+      "explanation": "'More conventional readings' are contrasted with her view, which must be unconventional. Heterodox and unorthodox both mean departing from established opinion."
+    },
+    {
+      "id": "v02-q11",
+      "type": "reading_comprehension",
+      "passage": "It is a commonplace of cultural criticism that mass media homogenizes taste, flattening regional and subcultural differences into a single national or global mainstream. This claim has been subjected to sustained empirical critique. Studies of music consumption, television viewing, and reading habits consistently reveal that audiences use mass-produced cultural goods in locally specific ways, assigning them meanings that reflect the interests and concerns of their particular communities rather than simply absorbing the meanings encoded by producers.\n\nThe more interesting question — and one that the homogenization thesis cannot even pose — is how the relationship between globally distributed content and locally specific reception produces novel cultural formations. In many cases, audiences appropriate global cultural products in ways that amplify rather than erode distinctive local identities. The global/local dichotomy, on this account, is less a description of cultural power relations than a conceptual obstacle to understanding how culture actually works.",
+      "prompt": "The primary purpose of the passage is to",
+      "options": [
+        "argue that the homogenization thesis has no empirical support",
+        "demonstrate that regional cultural differences are increasing in the modern world",
+        "challenge a standard critical claim and reframe the productive question it forecloses",
+        "show that producers of mass media underestimate the intelligence of their audiences",
+        "defend a particular theory of how global and local cultures interact"
+      ],
+      "answer": "challenge a standard critical claim and reframe the productive question it forecloses",
+      "explanation": "Paragraph 1 criticizes the homogenization thesis empirically; paragraph 2 identifies the better question the thesis can't even pose. That's both challenge and reframe."
+    },
+    {
+      "id": "v02-q12",
+      "type": "reading_comprehension",
+      "passage": "It is a commonplace of cultural criticism that mass media homogenizes taste, flattening regional and subcultural differences into a single national or global mainstream. This claim has been subjected to sustained empirical critique. Studies of music consumption, television viewing, and reading habits consistently reveal that audiences use mass-produced cultural goods in locally specific ways, assigning them meanings that reflect the interests and concerns of their particular communities rather than simply absorbing the meanings encoded by producers.\n\nThe more interesting question — and one that the homogenization thesis cannot even pose — is how the relationship between globally distributed content and locally specific reception produces novel cultural formations. In many cases, audiences appropriate global cultural products in ways that amplify rather than erode distinctive local identities. The global/local dichotomy, on this account, is less a description of cultural power relations than a conceptual obstacle to understanding how culture actually works.",
+      "prompt": "The author's reference to the global/local dichotomy as a 'conceptual obstacle' suggests that",
+      "options": [
+        "researchers should focus exclusively on either global or local cultural phenomena",
+        "the distinction between global and local prevents understanding how they interact",
+        "global cultural forces are more powerful than local ones",
+        "audiences have little capacity to resist global media homogenization",
+        "the homogenization thesis is correct in its empirical predictions"
+      ],
+      "answer": "the distinction between global and local prevents understanding how they interact",
+      "explanation": "An 'obstacle to understanding how culture actually works' means the dichotomy blocks insight into the interaction — it frames things as opposites rather than as mutually constitutive."
+    },
+    {
+      "id": "v02-q13",
+      "type": "reading_comprehension",
+      "passage": "It is a commonplace of cultural criticism that mass media homogenizes taste, flattening regional and subcultural differences into a single national or global mainstream. This claim has been subjected to sustained empirical critique. Studies of music consumption, television viewing, and reading habits consistently reveal that audiences use mass-produced cultural goods in locally specific ways, assigning them meanings that reflect the interests and concerns of their particular communities rather than simply absorbing the meanings encoded by producers.\n\nThe more interesting question — and one that the homogenization thesis cannot even pose — is how the relationship between globally distributed content and locally specific reception produces novel cultural formations. In many cases, audiences appropriate global cultural products in ways that amplify rather than erode distinctive local identities. The global/local dichotomy, on this account, is less a description of cultural power relations than a conceptual obstacle to understanding how culture actually works.",
+      "prompt": "Which of the following, if true, would most strengthen the author's central argument?",
+      "options": [
+        "Ratings data show that the same television programs are equally popular in all markets",
+        "A study of K-pop fans finds that communities in different countries develop distinct local practices around shared global content",
+        "Record labels in smaller markets have reduced their output of locally produced music",
+        "Surveys reveal that young audiences prefer globally distributed content over regional programming",
+        "Media scholars have failed to reach consensus on a definition of cultural homogenization"
+      ],
+      "answer": "A study of K-pop fans finds that communities in different countries develop distinct local practices around shared global content",
+      "explanation": "The author's argument is that global content is appropriated in locally specific ways. A concrete example of distinct local practices emerging around shared global content directly supports this."
+    },
+    {
+      "id": "v02-q14",
+      "type": "reading_comprehension",
+      "passage": "The distinction between causal and constitutive explanation is underappreciated outside philosophy of science. A causal explanation specifies the events or conditions that brought about a state of affairs; a constitutive explanation specifies what that state of affairs consists in. To explain why water boils at 100°C at sea level is a causal task; to explain what it means for water to boil — what process at the molecular level constitutes boiling — is a constitutive task. The two questions are logically independent: one can have a complete causal story without a constitutive account, and vice versa.\n\nThis distinction matters in the social sciences, where causal and constitutive explanations are often conflated. Explaining why revolutions occur is a different project from explaining what revolutions are — what structural transformations constitute a revolution as opposed to a coup, a reform, or a civil war. Conflating the two leads researchers to ask causal questions of data that can only answer constitutive ones, and to treat constitutive analyses as if they were predictive causal models.",
+      "prompt": "According to the passage, the distinction between causal and constitutive explanation is significant in the social sciences primarily because",
+      "options": [
+        "social science data is ill-suited to answering either type of question",
+        "social scientists tend to prefer constitutive over causal explanations",
+        "conflating the two types leads researchers to misapply their methods",
+        "revolutions cannot be explained causally without a prior constitutive account",
+        "causal explanation is more scientifically rigorous than constitutive explanation"
+      ],
+      "answer": "conflating the two types leads researchers to misapply their methods",
+      "explanation": "'Conflating the two leads researchers to ask causal questions of data that can only answer constitutive ones, and to treat constitutive analyses as if they were predictive causal models' = methodological misapplication."
+    },
+    {
+      "id": "v02-q15",
+      "type": "reading_comprehension",
+      "passage": "The distinction between causal and constitutive explanation is underappreciated outside philosophy of science. A causal explanation specifies the events or conditions that brought about a state of affairs; a constitutive explanation specifies what that state of affairs consists in. To explain why water boils at 100°C at sea level is a causal task; to explain what it means for water to boil — what process at the molecular level constitutes boiling — is a constitutive task. The two questions are logically independent: one can have a complete causal story without a constitutive account, and vice versa.\n\nThe distinction matters in the social sciences, where causal and constitutive explanations are often conflated. Explaining why revolutions occur is a different project from explaining what revolutions are — what structural transformations constitute a revolution as opposed to a coup, a reform, or a civil war. Conflating the two leads researchers to ask causal questions of data that can only answer constitutive ones, and to treat constitutive analyses as if they were predictive causal models.",
+      "prompt": "The boiling water example in the first paragraph serves primarily to",
+      "options": [
+        "illustrate a scientific discovery that could not have been made without constitutive analysis",
+        "show that physical sciences are more advanced than social sciences",
+        "provide a concrete case in which the distinction between causal and constitutive explanation is clear",
+        "argue that molecular-level explanation is always preferable to macroscopic description",
+        "demonstrate that causal and constitutive explanations always yield the same results"
+      ],
+      "answer": "provide a concrete case in which the distinction between causal and constitutive explanation is clear",
+      "explanation": "The example is purely illustrative — showing what the two types of explanation look like before applying the distinction to the harder social science case."
+    }
+  ]
+}

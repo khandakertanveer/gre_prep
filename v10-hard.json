@@ -1,0 +1,296 @@
+{
+  "id": "v10",
+  "title": "Verbal Set 10",
+  "subject": "verbal",
+  "difficulty": "hard",
+  "questions": [
+    {
+      "id": "v10-q01",
+      "type": "text_completion",
+      "blanks": 3,
+      "prompt": "The autobiography's [[1]] is its greatest virtue and its greatest liability: by refusing to [[2]] the events of her life into a [[3]] that would make them legible to a general reader, the author achieves an authenticity that is inseparable from a certain impenetrability.",
+      "options": [
+        [
+          "candor",
+          "structure",
+          "ambiguity"
+        ],
+        [
+          "transform",
+          "organize",
+          "elevate"
+        ],
+        [
+          "narrative",
+          "career",
+          "philosophy"
+        ]
+      ],
+      "answer": [
+        "structure",
+        "organize",
+        "narrative"
+      ],
+      "explanation": "The virtue/liability is the lack of structure (organization). Refusing to organize events into a narrative (a story with shape and meaning) achieves authenticity but also impenetrability."
+    },
+    {
+      "id": "v10-q02",
+      "type": "text_completion",
+      "blanks": 2,
+      "prompt": "That the court construed the statute [[1]] — finding in its silence on the matter a license rather than a prohibition — reflects a judicial philosophy that treats ambiguity as an [[2]] for executive discretion rather than as a signal that legislative clarification is needed.",
+      "options": [
+        [
+          "broadly",
+          "narrowly",
+          "consistently"
+        ],
+        [
+          "invitation",
+          "obstacle",
+          "irrelevance"
+        ]
+      ],
+      "answer": [
+        "broadly",
+        "invitation"
+      ],
+      "explanation": "Finding a license in silence = reading broadly. Ambiguity as an invitation (welcome opening) for executive discretion = expansive judicial philosophy that defers to the executive in ambiguous cases."
+    },
+    {
+      "id": "v10-q03",
+      "type": "text_completion",
+      "blanks": 1,
+      "prompt": "The author's decision to write in the second person — 'you enter the village, you see the bodies' — forces a kind of [[1]] that more conventional narration allows the reader to resist, making the atrocity impossible to observe from a comfortable distance.",
+      "options": [
+        [
+          "complicity",
+          "distance",
+          "objectivity",
+          "detachment",
+          "reflection"
+        ]
+      ],
+      "answer": [
+        "complicity"
+      ],
+      "explanation": "Second-person 'you' = reader is made to inhabit the scene, unable to observe from distance = forced complicity (shared guilt/involvement, implication in events one would prefer to watch neutrally)."
+    },
+    {
+      "id": "v10-q04",
+      "type": "text_completion",
+      "blanks": 3,
+      "prompt": "The recent historiography of the scientific revolution has been marked by a reaction against [[1]] accounts that portrayed the period as a clean break with scholastic tradition; the current generation of historians emphasizes [[2]] between Renaissance natural philosophy and its medieval predecessors that earlier scholarship had either [[3]] or actively suppressed.",
+      "options": [
+        [
+          "triumphalist",
+          "revisionist",
+          "internalist"
+        ],
+        [
+          "ruptures",
+          "continuities",
+          "methodologies"
+        ],
+        [
+          "overlooked",
+          "exaggerated",
+          "invented"
+        ]
+      ],
+      "answer": [
+        "triumphalist",
+        "continuities",
+        "overlooked"
+      ],
+      "explanation": "Triumphalist accounts = those celebrating the revolution as a heroic break. The reaction emphasizes continuities (not ruptures). Earlier scholarship overlooked (failed to notice) rather than exaggerated or invented them."
+    },
+    {
+      "id": "v10-q05",
+      "type": "text_completion",
+      "blanks": 2,
+      "prompt": "The legal theory of [[1]] damages attempts to restore the plaintiff to the position they would have occupied had the wrong not occurred; it is contrasted with punitive damages, which are designed not to [[2]] the plaintiff but to deter and punish the defendant.",
+      "options": [
+        [
+          "compensatory",
+          "punitive",
+          "nominal"
+        ],
+        [
+          "compensate",
+          "benefit",
+          "harm"
+        ]
+      ],
+      "answer": [
+        "compensatory",
+        "compensate"
+      ],
+      "explanation": "Compensatory damages = designed to compensate (restore). Punitive damages are NOT designed to compensate the plaintiff — they serve deterrence and punishment."
+    },
+    {
+      "id": "v10-q06",
+      "type": "sentence_equivalence",
+      "prompt": "The department chair's response to the misconduct allegations was [[1]], covering all procedural requirements while doing nothing to address the underlying culture that had made the behavior possible.",
+      "options": [
+        "ritualistic",
+        "formulaic",
+        "thorough",
+        "comprehensive",
+        "substantive",
+        "decisive"
+      ],
+      "answer": [
+        "ritualistic",
+        "formulaic"
+      ],
+      "explanation": "Meeting procedural requirements without addressing the substance = going through the motions. Ritualistic (performed as a ritual, without genuine content) and formulaic (following a formula without real engagement) both capture this."
+    },
+    {
+      "id": "v10-q07",
+      "type": "sentence_equivalence",
+      "prompt": "What distinguished the regime's ideology from mere propaganda was its [[1]]: even its most loyal functionaries believed in it, and this sincerity made it far more dangerous than cynical manipulation could have been.",
+      "options": [
+        "sincerity",
+        "authenticity",
+        "cynicism",
+        "opportunism",
+        "coherence",
+        "systematicity"
+      ],
+      "answer": [
+        "sincerity",
+        "authenticity"
+      ],
+      "explanation": "Functionaries who genuinely believed = ideological sincerity and authenticity — not cynicism. Sincerity and authenticity both name this genuine belief that makes the ideology more dangerous."
+    },
+    {
+      "id": "v10-q08",
+      "type": "sentence_equivalence",
+      "prompt": "The new edition of the critical anthology is [[1]] rather than representative: the editor has selected works that advance her own theoretical agenda rather than those that most accurately reflect the diversity of approaches in the field.",
+      "options": [
+        "tendentious",
+        "partisan",
+        "catholic",
+        "eclectic",
+        "comprehensive",
+        "balanced"
+      ],
+      "answer": [
+        "tendentious",
+        "partisan"
+      ],
+      "explanation": "Selecting works to advance a theoretical agenda rather than represent diversity = biased selection. Tendentious and partisan both describe systematic bias toward a particular position or perspective."
+    },
+    {
+      "id": "v10-q09",
+      "type": "sentence_equivalence",
+      "prompt": "The investor's strategy depended on a [[1]] reading of the regulatory landscape — anticipating not merely what the rules currently said but how enforcement priorities were likely to shift over the next five years.",
+      "options": [
+        "prescient",
+        "far-sighted",
+        "reactive",
+        "short-sighted",
+        "myopic",
+        "conservative"
+      ],
+      "answer": [
+        "prescient",
+        "far-sighted"
+      ],
+      "explanation": "Anticipating how enforcement will shift over five years = forward-looking, able to foresee future conditions. Prescient (having foresight) and far-sighted (thinking long-term) both capture this."
+    },
+    {
+      "id": "v10-q10",
+      "type": "sentence_equivalence",
+      "prompt": "The committee's final recommendation was the product of genuine deliberation rather than [[1]] consensus: members had arrived at agreement through argument, not through exhaustion or the suppression of dissent.",
+      "options": [
+        "manufactured",
+        "contrived",
+        "organic",
+        "authentic",
+        "substantive",
+        "reasoned"
+      ],
+      "answer": [
+        "manufactured",
+        "contrived"
+      ],
+      "explanation": "Consensus by exhaustion or suppression of dissent = agreement that was manufactured (artificially produced) or contrived (forced into existence), not organic."
+    },
+    {
+      "id": "v10-q11",
+      "type": "reading_comprehension",
+      "passage": "The concept of legitimacy in political philosophy is distinct from both legality and effectiveness. A regime can be legally constituted but illegitimate — if, for instance, the constitutional procedures that brought it to power are themselves the product of coercion or fraud. And it can be effective — maintaining order, delivering services, suppressing rivals — without being regarded as legitimate by those subject to it. Legitimacy, in the most widely accepted formulation, concerns whether those subject to authority have sufficient reason to regard it as justified and to comply with its demands on grounds other than mere prudence.\n\nJurgen Habermas's account locates legitimacy in the procedures by which political decisions are made rather than in their content. A decision is legitimate, on this view, if it is the outcome of a process of inclusive rational discourse in which all affected parties could in principle participate and in which the force of the better argument, rather than the power of the speaker, is what prevails. Critics have observed that this procedural criterion is difficult to satisfy in practice — real political processes are always compromised by power differentials, time constraints, and the cognitive limitations of participants — and that Habermas's account may describe an ideal that functions as a critical standard rather than an achievable state.",
+      "prompt": "The passage distinguishes legitimacy from legality and effectiveness primarily to",
+      "options": [
+        "argue that legitimate regimes are always more stable than merely effective ones",
+        "show that procedures for making decisions matter more than outcomes",
+        "establish that legitimacy is an independent concept that is neither reducible to nor guaranteed by the other two",
+        "demonstrate that Habermas's account of legitimacy is more defensible than alternatives",
+        "suggest that legal constitutionality is a necessary but not sufficient condition for legitimacy"
+      ],
+      "answer": "establish that legitimacy is an independent concept that is neither reducible to nor guaranteed by the other two",
+      "explanation": "The passage shows a regime can be legal without being legitimate, and effective without being legitimate — establishing that legitimacy is conceptually independent of both."
+    },
+    {
+      "id": "v10-q12",
+      "type": "reading_comprehension",
+      "passage": "The concept of legitimacy in political philosophy is distinct from both legality and effectiveness. A regime can be legally constituted but illegitimate — if, for instance, the constitutional procedures that brought it to power are themselves the product of coercion or fraud. And it can be effective — maintaining order, delivering services, suppressing rivals — without being regarded as legitimate by those subject to it. Legitimacy, in the most widely accepted formulation, concerns whether those subject to authority have sufficient reason to regard it as justified and to comply with its demands on grounds other than mere prudence.\n\nJurgen Habermas's account locates legitimacy in the procedures by which political decisions are made rather than in their content. A decision is legitimate, on this view, if it is the outcome of a process of inclusive rational discourse in which all affected parties could in principle participate and in which the force of the better argument, rather than the power of the speaker, is what prevails. Critics have observed that this procedural criterion is difficult to satisfy in practice — real political processes are always compromised by power differentials, time constraints, and the cognitive limitations of participants — and that Habermas's account may describe an ideal that functions as a critical standard rather than an achievable state.",
+      "prompt": "The critics' response to Habermas, as described in the passage, suggests that his account",
+      "options": [
+        "has no practical value because it cannot be satisfied in any actual political context",
+        "is primarily useful as a normative standard by which actual processes can be evaluated",
+        "conflates procedural and substantive conceptions of legitimacy",
+        "requires that participants in political discourse have equal cognitive capacities",
+        "shows that legitimacy is impossible to achieve in modern democratic systems"
+      ],
+      "answer": "is primarily useful as a normative standard by which actual processes can be evaluated",
+      "explanation": "Critics say the account 'may describe an ideal that functions as a critical standard rather than an achievable state.' A critical standard = a normative benchmark for evaluation, not a description of what's achievable."
+    },
+    {
+      "id": "v10-q13",
+      "type": "reading_comprehension",
+      "passage": "The concept of legitimacy in political philosophy is distinct from both legality and effectiveness. A regime can be legally constituted but illegitimate — if, for instance, the constitutional procedures that brought it to power are themselves the product of coercion or fraud. And it can be effective — maintaining order, delivering services, suppressing rivals — without being regarded as legitimate by those subject to it. Legitimacy, in the most widely accepted formulation, concerns whether those subject to authority have sufficient reason to regard it as justified and to comply with its demands on grounds other than mere prudence.\n\nJurgen Habermas's account locates legitimacy in the procedures by which political decisions are made rather than in their content. A decision is legitimate, on this view, if it is the outcome of a process of inclusive rational discourse in which all affected parties could in principle participate and in which the force of the better argument, rather than the power of the speaker, is what prevails. Critics have observed that this procedural criterion is difficult to satisfy in practice — real political processes are always compromised by power differentials, time constraints, and the cognitive limitations of participants — and that Habermas's account may describe an ideal that functions as a critical standard rather than an achievable state.",
+      "prompt": "According to the passage, compliance based on 'mere prudence' is insufficient for legitimacy because",
+      "options": [
+        "it does not reflect any assessment of whether the authority's demands are morally justified",
+        "it requires that subjects calculate the benefits and costs of compliance in every instance",
+        "prudential compliance is unstable and will cease whenever the authority becomes less effective",
+        "it is only available to citizens who are aware of the authority's effectiveness",
+        "compliance for prudential reasons often leads to political instability"
+      ],
+      "answer": "it does not reflect any assessment of whether the authority's demands are morally justified",
+      "explanation": "Legitimacy concerns compliance 'on grounds other than mere prudence' — prudential compliance is insufficient because it's based on self-interest, not on a judgment that the authority's demands are justified."
+    },
+    {
+      "id": "v10-q14",
+      "type": "reading_comprehension",
+      "passage": "Cognitive load theory, developed by educational psychologist John Sweller, proposes that learning is constrained by the limited capacity of working memory. The theory distinguishes between intrinsic load (the inherent complexity of the material being learned, which cannot be reduced without changing the material itself), extraneous load (cognitive demands imposed by the manner of instruction that do not contribute to learning), and germane load (cognitive effort directed toward schema formation, which directly supports learning). Effective instructional design, on this account, aims to minimize extraneous load while optimizing germane load within the constraints of intrinsic load.\n\nCritics have questioned the coherence of the germane load construct. If working memory is limited, all cognitive effort competes for the same limited resource; the distinction between 'useful' and 'useless' load is not a distinction between different cognitive resources but rather a judgment about the value of the processing that consumes them. This renders the concept of germane load potentially circular: it identifies as germane whatever processing turns out to have produced learning, rather than providing an independent criterion by which to predict in advance which processing will be productive.",
+      "prompt": "The critics' concern about germane load is that it",
+      "options": [
+        "cannot be distinguished empirically from extraneous load in experimental settings",
+        "is a post-hoc label for productive processing rather than an independently specified kind",
+        "places an excessive demand on working memory that prevents effective schema formation",
+        "confuses the outcomes of learning with the processes that produce it",
+        "is not consistent with evidence from neuroscience about working memory capacity"
+      ],
+      "answer": "is a post-hoc label for productive processing rather than an independently specified kind",
+      "explanation": "'Identifies as germane whatever processing turns out to have produced learning, rather than providing an independent criterion' = germane load is identified after the fact (post-hoc), not predicted in advance."
+    },
+    {
+      "id": "v10-q15",
+      "type": "reading_comprehension",
+      "passage": "Cognitive load theory, developed by educational psychologist John Sweller, proposes that learning is constrained by the limited capacity of working memory. The theory distinguishes between intrinsic load (the inherent complexity of the material being learned, which cannot be reduced without changing the material itself), extraneous load (cognitive demands imposed by the manner of instruction that do not contribute to learning), and germane load (cognitive effort directed toward schema formation, which directly supports learning). Effective instructional design, on this account, aims to minimize extraneous load while optimizing germane load within the constraints of intrinsic load.\n\nCritics have questioned the coherence of the germane load construct. If working memory is limited, all cognitive effort competes for the same limited resource; the distinction between 'useful' and 'useless' load is not a distinction between different cognitive resources but rather a judgment about the value of the processing that consumes them. This renders the concept of germane load potentially circular: it identifies as germane whatever processing turns out to have produced learning, rather than providing an independent criterion by which to predict in advance which processing will be productive.",
+      "prompt": "Which of the following best describes the relationship between intrinsic and extraneous load in cognitive load theory?",
+      "options": [
+        "Both are forms of cognitive effort that directly support schema formation",
+        "Intrinsic load can be reduced by instructional design while extraneous load cannot",
+        "Intrinsic load is inherent to the material while extraneous load is a product of how it is taught",
+        "Both place equivalent demands on working memory and compete for the same limited resources",
+        "Extraneous load is always greater than intrinsic load in poorly designed instruction"
+      ],
+      "answer": "Intrinsic load is inherent to the material while extraneous load is a product of how it is taught",
+      "explanation": "The passage defines intrinsic load as 'inherent complexity of the material' that 'cannot be reduced without changing the material itself,' and extraneous load as 'cognitive demands imposed by the manner of instruction.' Those are the key contrasts."
+    }
+  ]
+}

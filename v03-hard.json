@@ -1,0 +1,182 @@
+{
+  "id": "v03",
+  "title": "Verbal Set 3",
+  "subject": "verbal",
+  "difficulty": "hard",
+  "questions": [
+    {
+      "id": "v03-q01",
+      "type": "text_completion",
+      "blanks": 3,
+      "prompt": "The memoirist's account is [[1]] in its candor about personal failings but [[2]] about the social context that produced them: the very circumstances that might have [[3]] some of her behavior are treated as too obvious to require examination.",
+      "options": [
+        ["unflinching", "reticent", "effusive"],
+        ["forthcoming", "evasive", "insightful"],
+        ["explained", "excused", "condemned"]
+      ],
+      "answer": ["unflinching", "evasive", "excused"],
+      "explanation": "Unflinching = direct and honest about personal failings. Evasive = avoiding the social context. Circumstances that might have excused her behavior = mitigated blame, which she avoids invoking."
+    },
+    {
+      "id": "v03-q02",
+      "type": "text_completion",
+      "blanks": 2,
+      "prompt": "The committee's mandate, as originally written, was [[1]]; its authors had deliberately avoided specificity so that the body's remit could be [[2]] as circumstances changed without requiring formal amendment.",
+      "options": [
+        ["capacious", "narrow", "redundant"],
+        ["expanded", "reinterpreted", "contested"]
+      ],
+      "answer": ["capacious", "reinterpreted"],
+      "explanation": "Deliberately avoiding specificity = deliberately broad/capacious. Without formal amendment = changing meaning through reinterpretation rather than expansion (which would require adding to scope)."
+    },
+    {
+      "id": "v03-q03",
+      "type": "text_completion",
+      "blanks": 1,
+      "prompt": "The ambassador's [[1]] in negotiation — her ability to occupy a position while leaving all parties convinced she had moved significantly toward their view — became a subject of study at foreign service training institutes.",
+      "options": [["duplicity", "dexterity", "probity", "rigidity", "candor"]],
+      "answer": ["dexterity"],
+      "explanation": "Ability to occupy a position while making everyone think she'd moved toward them = skilled maneuvering, dexterity (skillful handling). Not duplicity (deception for personal gain) — she's managing parties, not betraying them."
+    },
+    {
+      "id": "v03-q04",
+      "type": "text_completion",
+      "blanks": 3,
+      "prompt": "The novel's [[1]] structure — chapters that can be read in any order without altering the reader's final understanding — is not a formal [[2]] but a claim about the nature of its subject matter: that historical causation is [[3]] rather than linear.",
+      "options": [
+        ["recursive", "modular", "fragmented"],
+        ["innovation", "conceit", "defect"],
+        ["rhizomatic", "teleological", "irreversible"]
+      ],
+      "answer": ["modular", "conceit", "rhizomatic"],
+      "explanation": "Chapters readable in any order = modular (interchangeable units). Not a conceit (a clever but artificial device) but a genuine claim. Historical causation that isn't linear = rhizomatic (branching, non-hierarchical, a term from Deleuze)."
+    },
+    {
+      "id": "v03-q05",
+      "type": "text_completion",
+      "blanks": 2,
+      "prompt": "The biographer's failure to engage with her subject's unpublished letters is [[1]]; these documents not only contradict the published memoir but supply the [[2]] that makes the published account's silences legible as suppressions rather than omissions.",
+      "options": [
+        ["inexplicable", "forgivable", "characteristic"],
+        ["context", "corroboration", "pretext"]
+      ],
+      "answer": ["inexplicable", "context"],
+      "explanation": "Failing to use documents that contradict the memoir and explain its silences = inexplicable (unaccountable). The letters supply context that reveals suppression — not corroboration (which would agree with the memoir)."
+    },
+    {
+      "id": "v03-q06",
+      "type": "sentence_equivalence",
+      "prompt": "The commission's recommendation was so [[1]] that agencies could interpret it as requiring either sweeping reform or virtually no change at all, depending on which clauses they prioritized.",
+      "options": ["indeterminate", "plastic", "exacting", "prescriptive", "rigorous", "unequivocal"],
+      "answer": ["indeterminate", "plastic"],
+      "explanation": "Allowing contradictory interpretations = capable of being shaped in any direction (plastic) and without fixed meaning (indeterminate)."
+    },
+    {
+      "id": "v03-q07",
+      "type": "sentence_equivalence",
+      "prompt": "The political theorist argues that liberal institutions, far from being [[1]], are deeply indebted to a pre-political tradition of civic virtue they cannot themselves generate or sustain.",
+      "options": ["self-sufficient", "autarkic", "parasitic", "dependent", "fragile", "unstable"],
+      "answer": ["self-sufficient", "autarkic"],
+      "explanation": "The claim is that liberal institutions depend on an external tradition they can't sustain themselves — i.e., they are not self-sufficient or autarkic (economically/politically independent/self-contained)."
+    },
+    {
+      "id": "v03-q08",
+      "type": "sentence_equivalence",
+      "prompt": "Her prose style is [[1]]: every sentence carries multiple simultaneous meanings, and the effort to disentangle them is part of what the work demands of its readers.",
+      "options": ["polysemous", "overdetermined", "limpid", "pellucid", "ornate", "florid"],
+      "answer": ["polysemous", "overdetermined"],
+      "explanation": "Multiple simultaneous meanings = polysemous (having many meanings) and overdetermined (caused/constituted by more than one factor — here, meaningful in more than one way simultaneously)."
+    },
+    {
+      "id": "v03-q09",
+      "type": "sentence_equivalence",
+      "prompt": "Critics accused the historian of [[1]], selectively marshaling evidence for a conclusion he had evidently reached before conducting any research.",
+      "options": ["tendentiousness", "special pleading", "rigor", "scrupulousness", "insight", "acuity"],
+      "answer": ["tendentiousness", "special pleading"],
+      "explanation": "Selecting evidence for a predetermined conclusion = tendentious (biased toward a predetermined view) and special pleading (arguing selectively for a favored position)."
+    },
+    {
+      "id": "v03-q10",
+      "type": "sentence_equivalence",
+      "prompt": "The amendment's [[1]] language ensured that any litigation over its application would be not merely possible but virtually inevitable.",
+      "options": ["ambiguous", "equivocal", "precise", "unambiguous", "categorical", "definitive"],
+      "answer": ["ambiguous", "equivocal"],
+      "explanation": "Language that guarantees litigation over its application must be unclear — both ambiguous and equivocal describe language open to multiple interpretations."
+    },
+    {
+      "id": "v03-q11",
+      "type": "reading_comprehension",
+      "passage": "Theories of collective action generally begin with an apparent paradox: if the benefits of a public good are available to all regardless of contribution, a rational actor has no incentive to contribute and every incentive to free-ride on others' contributions. Olson's influential formulation suggested that only selective incentives — benefits restricted to contributors — or coercion could solve this problem.\n\nSubsequent work has complicated Olson's picture in two important respects. First, experimental economics and field studies have documented robust patterns of conditional cooperation: individuals contribute at high rates when they believe others are doing so, and withdraw when they believe they are being exploited. This is not reducible to selective incentives; it appears to reflect a disposition toward reciprocity that Olson's model simply lacks the resources to explain. Second, institutional analysis has shown that communities frequently develop enforcement mechanisms — norms, monitoring, and graduated sanctions — that sustain cooperation without either external coercion or selective incentives, provided that the community has sufficient capacity for self-governance.",
+      "prompt": "The passage presents Olson's theory as",
+      "options": [
+        "a definitive solution to the collective action problem that later work has confirmed",
+        "an influential but incomplete account that subsequent research has extended",
+        "a fundamentally mistaken analysis that field studies have comprehensively refuted",
+        "an empirically unsupported theory derived purely from rational choice assumptions",
+        "a theory that applies only in conditions of coercion or selective incentives"
+      ],
+      "answer": "an influential but incomplete account that subsequent research has extended",
+      "explanation": "'Influential formulation' acknowledges its importance; 'complicated Olson's picture in two important respects' signals incompleteness rather than refutation."
+    },
+    {
+      "id": "v03-q12",
+      "type": "reading_comprehension",
+      "passage": "Theories of collective action generally begin with an apparent paradox: if the benefits of a public good are available to all regardless of contribution, a rational actor has no incentive to contribute and every incentive to free-ride on others' contributions. Olson's influential formulation suggested that only selective incentives — benefits restricted to contributors — or coercion could solve this problem.\n\nSubsequent work has complicated Olson's picture in two important respects. First, experimental economics and field studies have documented robust patterns of conditional cooperation: individuals contribute at high rates when they believe others are doing so, and withdraw when they believe they are being exploited. This is not reducible to selective incentives; it appears to reflect a disposition toward reciprocity that Olson's model simply lacks the resources to explain. Second, institutional analysis has shown that communities frequently develop enforcement mechanisms — norms, monitoring, and graduated sanctions — that sustain cooperation without either external coercion or selective incentives, provided that the community has sufficient capacity for self-governance.",
+      "prompt": "The phrase 'lacks the resources to explain' most nearly means that Olson's model",
+      "options": [
+        "has been disproven by the experimental findings on conditional cooperation",
+        "does not include the conceptual tools needed to account for reciprocity-based behavior",
+        "predicts lower levels of cooperation than are actually observed in all settings",
+        "requires additional data before its predictions can be evaluated",
+        "underestimates the role of coercion in sustaining public goods provision"
+      ],
+      "answer": "does not include the conceptual tools needed to account for reciprocity-based behavior",
+      "explanation": "'Lacks the resources to explain' = the model's framework has no mechanism for reciprocity — it's a conceptual gap, not merely a data gap."
+    },
+    {
+      "id": "v03-q13",
+      "type": "reading_comprehension",
+      "passage": "Theories of collective action generally begin with an apparent paradox: if the benefits of a public good are available to all regardless of contribution, a rational actor has no incentive to contribute and every incentive to free-ride on others' contributions. Olson's influential formulation suggested that only selective incentives — benefits restricted to contributors — or coercion could solve this problem.\n\nSubsequent work has complicated Olson's picture in two important respects. First, experimental economics and field studies have documented robust patterns of conditional cooperation: individuals contribute at high rates when they believe others are doing so, and withdraw when they believe they are being exploited. This is not reducible to selective incentives; it appears to reflect a disposition toward reciprocity that Olson's model simply lacks the resources to explain. Second, institutional analysis has shown that communities frequently develop enforcement mechanisms — norms, monitoring, and graduated sanctions — that sustain cooperation without either external coercion or selective incentives, provided that the community has sufficient capacity for self-governance.",
+      "prompt": "The second complication the passage identifies differs from the first primarily in that it",
+      "options": [
+        "is based on experimental rather than field evidence",
+        "concerns how institutions rather than individual dispositions sustain cooperation",
+        "refutes Olson's account more decisively than the first complication does",
+        "applies only in communities with access to external coercive authority",
+        "focuses on the withdrawal of cooperation rather than its maintenance"
+      ],
+      "answer": "concerns how institutions rather than individual dispositions sustain cooperation",
+      "explanation": "First complication: individual reciprocity disposition. Second complication: institutional mechanisms (norms, monitoring, sanctions). The difference is the level of analysis — individual vs. institutional."
+    },
+    {
+      "id": "v03-q14",
+      "type": "reading_comprehension",
+      "passage": "There is a persistent tendency in the history of science to treat paradigm shifts as triumphs of rational evidence over entrenched dogma — moments when the sheer weight of anomalous data forced even resistant scientists to accept a new framework. Kuhn's own account complicated this picture by showing that anomalies accumulate for years without triggering crisis, and that the transition to a new paradigm involves social and psychological factors — generational change, rhetorical effectiveness, institutional position — that cannot be reduced to the logic of evidence alone.\n\nMore recent work in the sociology of science has pushed further, arguing that the very standards by which evidence is evaluated are themselves paradigm-dependent. If this is correct, there can be no neutral court of appeal between competing paradigms — each generates its own criteria of adequacy. The implication is not that scientific change is irrational but that the rationality operative in paradigm shifts is incommensurable across frameworks in ways that simple models of rational choice cannot capture.",
+      "prompt": "The author's use of the phrase 'no neutral court of appeal' is intended to convey that",
+      "options": [
+        "scientific disputes should be adjudicated by institutional bodies rather than individual researchers",
+        "the criteria for evaluating evidence cannot be applied independently of the paradigm in question",
+        "Kuhn's account of paradigm shifts was itself shaped by his own paradigmatic commitments",
+        "scientific change is ultimately driven by irrational factors such as personality and politics",
+        "neutral observation is achievable in principle even if difficult in practice"
+      ],
+      "answer": "the criteria for evaluating evidence cannot be applied independently of the paradigm in question",
+      "explanation": "The 'neutral court' metaphor refers to an external standard of evaluation. 'No neutral court' = no criterion that stands outside both paradigms. This follows directly from: 'standards for evaluating evidence are paradigm-dependent.'"
+    },
+    {
+      "id": "v03-q15",
+      "type": "reading_comprehension",
+      "passage": "There is a persistent tendency in the history of science to treat paradigm shifts as triumphs of rational evidence over entrenched dogma — moments when the sheer weight of anomalous data forced even resistant scientists to accept a new framework. Kuhn's own account complicated this picture by showing that anomalies accumulate for years without triggering crisis, and that the transition to a new paradigm involves social and psychological factors — generational change, rhetorical effectiveness, institutional position — that cannot be reduced to the logic of evidence alone.\n\nMore recent work in the sociology of science has pushed further, arguing that the very standards by which evidence is evaluated are themselves paradigm-dependent. If this is correct, there can be no neutral court of appeal between competing paradigms — each generates its own criteria of adequacy. The implication is not that scientific change is irrational but that the rationality operative in paradigm shifts is incommensurable across frameworks in ways that simple models of rational choice cannot capture.",
+      "prompt": "The author would most likely agree with which of the following?",
+      "options": [
+        "Kuhn's account of paradigm shifts is correct in all essential respects.",
+        "Scientific change is ultimately driven by social rather than evidential factors.",
+        "Characterizing paradigm shifts as simply irrational would be an overcorrection.",
+        "The sociology of science undermines the possibility of objective scientific knowledge.",
+        "Anomalies are sufficient to trigger paradigm shifts once they reach a critical mass."
+      ],
+      "answer": "Characterizing paradigm shifts as simply irrational would be an overcorrection.",
+      "explanation": "'The implication is not that scientific change is irrational' — the author explicitly resists the conclusion that shifts are simply irrational, even while denying that simple rational choice models work."
+    }
+  ]
+}

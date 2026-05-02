@@ -1,0 +1,296 @@
+{
+  "id": "v09",
+  "title": "Verbal Set 9",
+  "subject": "verbal",
+  "difficulty": "hard",
+  "questions": [
+    {
+      "id": "v09-q01",
+      "type": "text_completion",
+      "blanks": 3,
+      "prompt": "The sociologist's account of urban poverty is [[1]] in its marshaling of data but [[2]] in its causal story: the statistical associations she documents are consistent with at least three competing theoretical frameworks, and her choice among them appears to rest on [[3]] that she never makes explicit.",
+      "options": [
+        [
+          "impressive",
+          "weak",
+          "tendentious"
+        ],
+        [
+          "unpersuasive",
+          "rigorous",
+          "compelling"
+        ],
+        [
+          "assumptions",
+          "evidence",
+          "methodology"
+        ]
+      ],
+      "answer": [
+        "impressive",
+        "weak",
+        "assumptions"
+      ],
+      "explanation": "Strong on data = impressive. Weak on causal story = the causation isn't established. The choice among frameworks rests on unstated assumptions (not evidence — if she had evidence, she wouldn't need to just choose)."
+    },
+    {
+      "id": "v09-q02",
+      "type": "text_completion",
+      "blanks": 2,
+      "prompt": "The senator's willingness to [[1]] on policy questions she privately regarded as settled was not cynicism but tactical discipline: she had learned that positions staked out too early become [[2]] to the opposition before the conditions for a deal have been established.",
+      "options": [
+        [
+          "dissemble",
+          "equivocate",
+          "overstate"
+        ],
+        [
+          "vulnerabilities",
+          "signals",
+          "concessions"
+        ]
+      ],
+      "answer": [
+        "equivocate",
+        "vulnerabilities"
+      ],
+      "explanation": "Willing to equivocate (avoid commitment) on privately settled questions = tactical, not cynical. Positions staked out early become vulnerabilities (targets for attack) before the negotiating moment."
+    },
+    {
+      "id": "v09-q03",
+      "type": "text_completion",
+      "blanks": 1,
+      "prompt": "The study's most provocative finding — that the intervention increased well-being among participants who did not complete it — was treated by the authors as an [[1]] rather than as a result to be explained, a methodological choice that will strike readers as at least as interesting as any finding they chose to foreground.",
+      "options": [
+        [
+          "anomaly",
+          "artifact",
+          "outlier",
+          "validation",
+          "confirmation"
+        ]
+      ],
+      "answer": [
+        "anomaly"
+      ],
+      "explanation": "A finding treated as unworthy of explanation (set aside rather than explained) = an anomaly (deviation from expectation, treated as a nuisance rather than a discovery). Artifact implies it was caused by the method; anomaly is the right term for an unexpected, set-aside finding."
+    },
+    {
+      "id": "v09-q04",
+      "type": "text_completion",
+      "blanks": 3,
+      "prompt": "The legal doctrine of [[1]] consent requires that participants be given not merely accurate information but information presented in a manner that is genuinely [[2]] to them, a standard that has proven difficult to operationalize in contexts where the technical complexity of the intervention [[3]] the educational capacity of the disclosure document.",
+      "options": [
+        [
+          "implied",
+          "informed",
+          "tacit"
+        ],
+        [
+          "useful",
+          "comprehensible",
+          "available"
+        ],
+        [
+          "matches",
+          "exceeds",
+          "complements"
+        ]
+      ],
+      "answer": [
+        "informed",
+        "comprehensible",
+        "exceeds"
+      ],
+      "explanation": "Informed consent doctrine. Comprehensible = genuinely understandable to the participant. Technical complexity exceeds (surpasses) what a disclosure document can convey = the standard is hard to meet."
+    },
+    {
+      "id": "v09-q05",
+      "type": "text_completion",
+      "blanks": 2,
+      "prompt": "The regime's longevity was attributable less to popular support than to its [[1]] use of patronage networks that made defection costly for elites who might otherwise have [[2]] their discontent into organized opposition.",
+      "options": [
+        [
+          "clumsy",
+          "sophisticated",
+          "reluctant"
+        ],
+        [
+          "transformed",
+          "channeled",
+          "suppressed"
+        ]
+      ],
+      "answer": [
+        "sophisticated",
+        "channeled"
+      ],
+      "explanation": "Patronage networks making defection costly = sophisticated (complex, strategically designed) not clumsy. Without these networks, elites might have channeled (directed) discontent into organized opposition."
+    },
+    {
+      "id": "v09-q06",
+      "type": "sentence_equivalence",
+      "prompt": "The witness's account, while internally consistent, was [[1]] by the documentary record: letters, receipts, and photographs all told a story flatly incompatible with his testimony.",
+      "options": [
+        "contradicted",
+        "refuted",
+        "corroborated",
+        "confirmed",
+        "elaborated",
+        "supplemented"
+      ],
+      "answer": [
+        "contradicted",
+        "refuted"
+      ],
+      "explanation": "Documentary record telling a story incompatible with testimony = contradicted (directly at odds with) and refuted (shown to be wrong). Both capture the denial the documents provide."
+    },
+    {
+      "id": "v09-q07",
+      "type": "sentence_equivalence",
+      "prompt": "The prize committee's decision to honor a work of popular fiction was [[1]] by traditionalists who felt that commercial success should disqualify rather than recommend a candidate.",
+      "options": [
+        "deplored",
+        "decried",
+        "applauded",
+        "celebrated",
+        "anticipated",
+        "welcomed"
+      ],
+      "answer": [
+        "deplored",
+        "decried"
+      ],
+      "explanation": "Traditionalists opposed to recognizing popular fiction = responded negatively. Deplored and decried both mean strongly condemned or expressed disapproval of."
+    },
+    {
+      "id": "v09-q08",
+      "type": "sentence_equivalence",
+      "prompt": "The foundation's grant-making was [[1]] rather than strategic: funds were distributed in response to individual applications rather than directed toward any coherent theory of how philanthropic investment could shift systemic conditions.",
+      "options": [
+        "reactive",
+        "responsive",
+        "deliberate",
+        "systematic",
+        "coordinated",
+        "targeted"
+      ],
+      "answer": [
+        "reactive",
+        "responsive"
+      ],
+      "explanation": "Responding to individual applications without a theory of change = reactive (responding to what comes in) and responsive (answering to applicants rather than pursuing a strategy)."
+    },
+    {
+      "id": "v09-q09",
+      "type": "sentence_equivalence",
+      "prompt": "Her prose style has been praised for its [[1]] — the refusal to supply transitions, explanations, or other scaffolding that would make the reader's path through the argument easier but would also reduce the text to something it is not.",
+      "options": [
+        "austerity",
+        "rigor",
+        "opacity",
+        "obscurity",
+        "lushness",
+        "embellishment"
+      ],
+      "answer": [
+        "austerity",
+        "rigor"
+      ],
+      "explanation": "Refusing to supply transitions/scaffolding = stripped-down, demanding style. Austerity (severe economy) and rigor (strict, uncompromising precision) both name this demanding economy. Opacity/obscurity would mean it's hard to understand due to lack of clarity — different from principled refusal of scaffolding."
+    },
+    {
+      "id": "v09-q10",
+      "type": "sentence_equivalence",
+      "prompt": "The administration's response to the audit was [[1]], acknowledging the findings while proposing remedies so modest that even the auditors who had identified the problems regarded them as insufficient.",
+      "options": [
+        "perfunctory",
+        "pro forma",
+        "comprehensive",
+        "thorough",
+        "decisive",
+        "substantive"
+      ],
+      "answer": [
+        "perfunctory",
+        "pro forma"
+      ],
+      "explanation": "Acknowledging findings with remedies even auditors found insufficient = going through the motions without genuine engagement. Perfunctory (done as a matter of form without care) and pro forma (done as a formality) both capture this."
+    },
+    {
+      "id": "v09-q11",
+      "type": "reading_comprehension",
+      "passage": "Mathematical Platonism — the view that mathematical objects exist independently of human minds and mathematical practice — faces a well-known epistemological challenge. If mathematical objects are abstract, causally inert entities, it is unclear how we could have knowledge of them, since our cognitive access to concrete things is typically mediated by causal interaction. This is the Benacerraf dilemma: a satisfying semantics for mathematical statements (treating them as literally true of abstract objects) conflicts with a plausible epistemology (one that ties knowledge to causal contact).\n\nRealists have proposed several responses. Some argue that causal constraint on knowledge is too restrictive: we have knowledge of abstract logical truths without causal contact, and mathematical knowledge is similar in kind. Others invoke the 'indispensability argument': since mathematical objects are indispensable to our best scientific theories, and those theories are confirmed by empirical evidence, we have the same reasons to believe in mathematical objects as we do to believe in the unobservable entities that science posits. Critics of indispensability have responded that mathematical structures might play an expressive rather than a representational role in science — formulating but not describing the world — leaving no inference from scientific success to mathematical ontology.",
+      "prompt": "The Benacerraf dilemma, as described in the passage, consists of a conflict between",
+      "options": [
+        "the claim that mathematical objects are abstract and the claim that they are causally inert",
+        "a literal semantic treatment of mathematical statements and a causally constrained epistemology",
+        "mathematical Platonism and the indispensability argument for mathematical objects",
+        "the view that mathematics describes abstract objects and the view that it is empirically confirmed",
+        "a plausible ontology of mathematical objects and their role in scientific theories"
+      ],
+      "answer": "a literal semantic treatment of mathematical statements and a causally constrained epistemology",
+      "explanation": "The dilemma is that literal semantics (math statements are true of abstract objects) conflicts with causal epistemology (knowledge requires causal contact). Those are its two horns."
+    },
+    {
+      "id": "v09-q12",
+      "type": "reading_comprehension",
+      "passage": "Mathematical Platonism — the view that mathematical objects exist independently of human minds and mathematical practice — faces a well-known epistemological challenge. If mathematical objects are abstract, causally inert entities, it is unclear how we could have knowledge of them, since our cognitive access to concrete things is typically mediated by causal interaction. This is the Benacerraf dilemma: a satisfying semantics for mathematical statements (treating them as literally true of abstract objects) conflicts with a plausible epistemology (one that ties knowledge to causal contact).\n\nRealists have proposed several responses. Some argue that causal constraint on knowledge is too restrictive: we have knowledge of abstract logical truths without causal contact, and mathematical knowledge is similar in kind. Others invoke the 'indispensability argument': since mathematical objects are indispensable to our best scientific theories, and those theories are confirmed by empirical evidence, we have the same reasons to believe in mathematical objects as we do to believe in the unobservable entities that science posits. Critics of indispensability have responded that mathematical structures might play an expressive rather than a representational role in science — formulating but not describing the world — leaving no inference from scientific success to mathematical ontology.",
+      "prompt": "Critics of the indispensability argument respond by claiming that",
+      "options": [
+        "mathematical objects are not in fact indispensable to scientific theories",
+        "scientific theories are not confirmed by empirical evidence",
+        "mathematical success in science shows that mathematical objects are concrete rather than abstract",
+        "the role of mathematics in science does not require that mathematical objects exist",
+        "the indispensability argument proves too much by committing us to all theoretical posits of science"
+      ],
+      "answer": "the role of mathematics in science does not require that mathematical objects exist",
+      "explanation": "Critics argue mathematics plays an 'expressive rather than representational role' — formulating not describing. If it's only expressive, scientific success gives no reason to believe mathematical objects exist."
+    },
+    {
+      "id": "v09-q13",
+      "type": "reading_comprehension",
+      "passage": "Mathematical Platonism — the view that mathematical objects exist independently of human minds and mathematical practice — faces a well-known epistemological challenge. If mathematical objects are abstract, causally inert entities, it is unclear how we could have knowledge of them, since our cognitive access to concrete things is typically mediated by causal interaction. This is the Benacerraf dilemma: a satisfying semantics for mathematical statements (treating them as literally true of abstract objects) conflicts with a plausible epistemology (one that ties knowledge to causal contact).\n\nRealists have proposed several responses. Some argue that causal constraint on knowledge is too restrictive: we have knowledge of abstract logical truths without causal contact, and mathematical knowledge is similar in kind. Others invoke the 'indispensability argument': since mathematical objects are indispensable to our best scientific theories, and those theories are confirmed by empirical evidence, we have the same reasons to believe in mathematical objects as we do to believe in the unobservable entities that science posits. Critics of indispensability have responded that mathematical structures might play an expressive rather than a representational role in science — formulating but not describing the world — leaving no inference from scientific success to mathematical ontology.",
+      "prompt": "The first response to the Benacerraf dilemma described in the passage questions the",
+      "options": [
+        "claim that mathematical objects are abstract rather than concrete",
+        "assumption that scientific theories are our best source of knowledge",
+        "requirement that knowledge-generating processes involve causal contact",
+        "view that indispensability in scientific theories confers ontological commitment",
+        "premise that logic and mathematics are similar in their epistemological status"
+      ],
+      "answer": "requirement that knowledge-generating processes involve causal contact",
+      "explanation": "The first response argues 'causal constraint on knowledge is too restrictive.' It targets the causal requirement in the epistemological horn of the dilemma."
+    },
+    {
+      "id": "v09-q14",
+      "type": "reading_comprehension",
+      "passage": "The sociology of scientific knowledge (SSK) movement, originating at Edinburgh in the 1970s, proposed that the content of scientific beliefs — not just their social organization — should be explained by social factors. The 'strong programme' formulated by David Bloor called for explanations that are causal (identifying social causes of belief), impartial (applying the same type of explanation to true and false beliefs alike), and reflexive (the programme itself should be explicable by its own principles).\n\nPhilosophers of science have objected that the strong programme conflates explanation and justification. We can explain why someone believes a false proposition by reference to social factors without implying that those same factors explain the propositional content of true beliefs. Scientific truth, on this view, is precisely what distinguishes successful from unsuccessful science; explaining success requires reference to the truth-tracking properties of the methods used, not only to the social conditions under which they were deployed. The SSK response has been to deny that 'truth-tracking' is a coherent notion outside of specific epistemic communities and their standards — a move that critics regard as question-begging.",
+      "prompt": "The philosophers' objection to the strong programme amounts to the claim that",
+      "options": [
+        "social factors play no role in explaining the content of scientific beliefs",
+        "symmetric explanation of true and false beliefs ignores what distinguishes them",
+        "the strong programme cannot be applied reflexively without self-contradiction",
+        "scientific methods are immune from sociological analysis",
+        "causal explanation of belief is incompatible with justificatory analysis"
+      ],
+      "answer": "symmetric explanation of true and false beliefs ignores what distinguishes them",
+      "explanation": "Philosophers object that scientific truth distinguishes successful from unsuccessful science — so explaining success requires reference to truth-tracking, not just social conditions. Symmetrical treatment ignores this crucial distinction."
+    },
+    {
+      "id": "v09-q15",
+      "type": "reading_comprehension",
+      "passage": "The sociology of scientific knowledge (SSK) movement, originating at Edinburgh in the 1970s, proposed that the content of scientific beliefs — not just their social organization — should be explained by social factors. The 'strong programme' formulated by David Bloor called for explanations that are causal (identifying social causes of belief), impartial (applying the same type of explanation to true and false beliefs alike), and reflexive (the programme itself should be explicable by its own principles).\n\nPhilosophers of science have objected that the strong programme conflates explanation and justification. We can explain why someone believes a false proposition by reference to social factors without implying that those same factors explain the propositional content of true beliefs. Scientific truth, on this view, is precisely what distinguishes successful from unsuccessful science; explaining success requires reference to the truth-tracking properties of the methods used, not only to the social conditions under which they were deployed. The SSK response has been to deny that 'truth-tracking' is a coherent notion outside of specific epistemic communities and their standards — a move that critics regard as question-begging.",
+      "prompt": "The philosophers' claim that the SSK response is 'question-begging' means that it",
+      "options": [
+        "raises more questions than it resolves without providing a satisfying account of scientific knowledge",
+        "assumes as a premise the conclusion that truth is community-relative in order to reject truth-tracking",
+        "provides an account of truth-tracking that is too restrictive to apply to most scientific practice",
+        "fails to explain why different epistemic communities converge on similar scientific findings",
+        "concedes the philosophers' point about explanation and justification while disputing its implications"
+      ],
+      "answer": "assumes as a premise the conclusion that truth is community-relative in order to reject truth-tracking",
+      "explanation": "Question-begging = assuming the conclusion in the premise. SSK denies truth-tracking is coherent outside epistemic communities (assuming truth is community-relative) to avoid the charge that it ignores truth — but the assumption is exactly what's at issue."
+    }
+  ]
+}

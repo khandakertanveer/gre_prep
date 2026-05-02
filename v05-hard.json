@@ -8,175 +8,289 @@
       "id": "v05-q01",
       "type": "text_completion",
       "blanks": 3,
-      "prompt": "Far from being the [[1]] document its early reception suggested, the manifesto now appears [[2]] to readers familiar with its principal sources: nearly every striking formulation, on close inspection, [[3]] an earlier writer's phrasing with only minor adjustment.",
+      "prompt": "The critic's [[1]] of the novel's reputation is not mere [[2]]; she marshals textual evidence so precisely that even the author's most ardent defenders have found her central claims difficult to [[3]].",
       "options": [
-        ["derivative", "original", "incoherent"],
-        ["unprecedented", "synthetic", "careless"],
-        ["repudiates", "echoes", "anticipates"]
+        [
+          "celebration",
+          "dismantling",
+          "survey"
+        ],
+        [
+          "contrarianism",
+          "scholarship",
+          "admiration"
+        ],
+        [
+          "contest",
+          "ignore",
+          "accept"
+        ]
       ],
-      "answer": ["original", "synthetic", "echoes"],
-      "explanation": "'Far from being X, now appears Y' = reversal. If now we see it copies earlier writers, originally it was thought original. Synthetic = patched together from sources. Echoes = reproduces with adjustments."
+      "answer": [
+        "dismantling",
+        "contrarianism",
+        "contest"
+      ],
+      "explanation": "Dismantling a reputation = taking it apart. The critic's contrarianism (going against received opinion) is distinguished from mere contrarianism (empty opposition) by the marshaling of evidence. The claims are difficult to contest = hard to argue against."
     },
     {
       "id": "v05-q02",
       "type": "text_completion",
       "blanks": 2,
-      "prompt": "The biography is at once [[1]] and frustrating: meticulous in its reconstruction of episodes long obscure to historians, but [[2]] in its refusal to draw any interpretive inference from a documentary record that practically demands one.",
+      "prompt": "Despite the organization's [[1]] rhetoric about transparency, its actual disclosure practices were notable primarily for what they [[2]]: key decisions were announced long after the relevant window for public input had closed.",
       "options": [
-        ["impressive", "exhausting", "amateurish"],
-        ["bold", "timorous", "speculative"]
+        [
+          "earnest",
+          "performative",
+          "tepid"
+        ],
+        [
+          "concealed",
+          "revealed",
+          "expedited"
+        ]
       ],
-      "answer": ["impressive", "timorous"],
-      "explanation": "'At once X and frustrating' — meticulous reconstruction is impressive (positive); the frustrating refusal to interpret despite demand is timorous (timid)."
+      "answer": [
+        "performative",
+        "concealed"
+      ],
+      "explanation": "Rhetoric vs. practice = performative (theatrical, for show). Announcements came too late for input = key decisions were concealed until the window closed."
     },
     {
       "id": "v05-q03",
       "type": "text_completion",
-      "blanks": 2,
-      "prompt": "The architect's late designs, often dismissed during her lifetime as [[1]] of her early style, are now widely seen as [[2]] of it: extending the original principles into contexts she could not have anticipated when she first articulated them.",
+      "blanks": 1,
+      "prompt": "The novelist's refusal to provide stable points of narrative orientation is not a failure of craft but a deliberate [[1]]: it reproduces in the reader the disorientation that is the novel's actual subject.",
       "options": [
-        ["culminations", "betrayals", "rehearsals"],
-        ["repudiations", "vindications", "imitations"]
+        [
+          "technique",
+          "omission",
+          "contrivance",
+          "eccentricity",
+          "affectation"
+        ]
       ],
-      "answer": ["betrayals", "vindications"],
-      "explanation": "'Often dismissed... are now seen as ___' signals reversal. If the late work extends original principles (positive), the lifetime view dismissed them as betrayals; the reversal sees them as vindications."
+      "answer": [
+        "technique"
+      ],
+      "explanation": "Deliberate and purposeful = a technique (a crafted method). Not an affectation (pretentious mannerism) or contrivance (an artificial device) — it serves a specific mimetic purpose."
     },
     {
       "id": "v05-q04",
       "type": "text_completion",
-      "blanks": 1,
-      "prompt": "For all its [[1]] presentation — the dim lighting, the conspiratorial tone, the suggestive but never explicit claims — the documentary advances no thesis that could not have been stated openly in a single paragraph.",
-      "options": [["lurid", "anodyne", "academic", "perfunctory", "transparent"]],
-      "answer": ["lurid"],
-      "explanation": "'Dim lighting, conspiratorial tone, suggestive' describes a sensational, dramatic style. Lurid (sensational, gaudy) captures this, contrasting with the dull substance."
+      "blanks": 3,
+      "prompt": "The court's ruling was [[1]] in its practical effect even if technically [[2]]: by refusing to decide the constitutional question, the justices left in place a lower court decision whose [[3]] reach extended to every state in the circuit.",
+      "options": [
+        [
+          "narrow",
+          "sweeping",
+          "ambiguous"
+        ],
+        [
+          "sound",
+          "deficient",
+          "overreaching"
+        ],
+        [
+          "limited",
+          "expansive",
+          "uncertain"
+        ]
+      ],
+      "answer": [
+        "sweeping",
+        "sound",
+        "expansive"
+      ],
+      "explanation": "Refusing to decide the constitutional question is technically sound (procedurally correct), but its effect is sweeping: leaving the lower court's expansive decision in place affected every state in the circuit."
     },
     {
       "id": "v05-q05",
       "type": "text_completion",
-      "blanks": 3,
-      "prompt": "That a regime so [[1]] in its rhetoric should prove so [[2]] in its actual conduct is, the author argues, no [[3]]: revolutionary movements that take power without first acquiring administrative competence routinely discover that maximalist principles must be tempered by the requirements of governance.",
+      "blanks": 2,
+      "prompt": "The general's memoirs are a [[1]] document: they illuminate certain operational decisions with remarkable clarity while remaining resolutely [[2]] about the political pressures that shaped those decisions from above.",
       "options": [
-        ["pragmatic", "uncompromising", "indecisive"],
-        ["accommodating", "draconian", "principled"],
-        ["mystery", "tragedy", "exception"]
+        [
+          "tendentious",
+          "revealing",
+          "unreliable"
+        ],
+        [
+          "forthcoming",
+          "opaque",
+          "precise"
+        ]
       ],
-      "answer": ["uncompromising", "accommodating", "mystery"],
-      "explanation": "Contrast structure: rhetoric vs. conduct. Rhetoric was uncompromising; conduct turned out accommodating. The author says this is 'no mystery' because the explanation follows."
+      "answer": [
+        "revealing",
+        "opaque"
+      ],
+      "explanation": "Revealing about some things, opaque (deliberately unclear) about others — the memoirist chooses what to illuminate and what to hide. Tendentious would mean biased, which the contrast doesn't set up."
     },
     {
       "id": "v05-q06",
       "type": "sentence_equivalence",
-      "prompt": "The diplomat's reputation rested less on her substantive accomplishments than on her [[1]] handling of difficult counterparts — her ability to extract concessions while leaving each interlocutor convinced of her sympathy.",
-      "options": ["adroit", "deft", "ham-fisted", "clumsy", "principled", "scrupulous"],
-      "answer": ["adroit", "deft"],
-      "explanation": "Extracting concessions while maintaining the other side's good will = skilled, subtle handling. Adroit and deft both mean skillfully handled."
+      "prompt": "The administration's energy policy was criticized for being [[1]] — addressing short-term electoral pressures at the expense of the structural reforms that the crisis actually demanded.",
+      "options": [
+        "expedient",
+        "opportunistic",
+        "principled",
+        "strategic",
+        "farsighted",
+        "coherent"
+      ],
+      "answer": [
+        "expedient",
+        "opportunistic"
+      ],
+      "explanation": "Addressing short-term electoral pressures at the expense of structural reform = sacrificing principle for convenience. Expedient and opportunistic both describe this self-interested short-termism."
     },
     {
       "id": "v05-q07",
       "type": "sentence_equivalence",
-      "prompt": "Although her early novels were celebrated for their [[1]], her recent fiction has tilted toward elaborate sentence structures and lavish description that some readers find taxing.",
-      "options": ["spareness", "economy", "ornament", "embellishment", "complexity", "density"],
-      "answer": ["spareness", "economy"],
-      "explanation": "'Although... has tilted toward elaborate... lavish' signals contrast. Earlier work was the opposite — minimal, restrained. Spareness and economy both name stylistic restraint."
+      "prompt": "The documentary's framing of its subject was so [[1]] that viewers with no prior knowledge of the controversy left with a clear sense of who the heroes and villains were.",
+      "options": [
+        "tendentious",
+        "slanted",
+        "balanced",
+        "impartial",
+        "neutral",
+        "judicious"
+      ],
+      "answer": [
+        "tendentious",
+        "slanted"
+      ],
+      "explanation": "Framing that leaves viewers with predetermined moral judgments = tendentious (biased toward a conclusion) and slanted (angled toward one side)."
     },
     {
       "id": "v05-q08",
       "type": "sentence_equivalence",
-      "prompt": "His apology was [[1]] — heartfelt enough to disarm critics yet vague enough to avoid committing him to any specific reform.",
-      "options": ["calculated", "shrewd", "guileless", "artless", "earnest", "ingenuous"],
-      "answer": ["calculated", "shrewd"],
-      "explanation": "Heartfelt veneer plus deliberate vagueness to avoid commitment = strategic. Calculated and shrewd both mean strategically planned. Guileless/artless are opposites."
+      "prompt": "The composer's late works achieve their effects through [[1]] rather than elaboration: a single melodic phrase, repeated with minute variations, accrues an emotional weight that conventionally structured music rarely attains.",
+      "options": [
+        "accretion",
+        "accumulation",
+        "reduction",
+        "simplification",
+        "fragmentation",
+        "dissolution"
+      ],
+      "answer": [
+        "accretion",
+        "accumulation"
+      ],
+      "explanation": "A single phrase repeated with variations that builds emotional weight over time = accretion and accumulation, both meaning gradual growth by addition."
     },
     {
       "id": "v05-q09",
       "type": "sentence_equivalence",
-      "prompt": "The senator's career was a study in [[1]]: every scandal that should have ended it instead seemed to leave her stronger, her support deepening among voters who admired her refusal to retreat.",
-      "options": ["resilience", "tenacity", "fragility", "vulnerability", "ambition", "rapacity"],
-      "answer": ["resilience", "tenacity"],
-      "explanation": "Surviving scandals and growing stronger = ability to endure. Resilience and tenacity both convey this enduring quality."
+      "prompt": "The delegation's decision to walk out rather than negotiate was [[1]] — it foreclosed the possibility of any agreement at a moment when a deal was more achievable than it had been in years.",
+      "options": [
+        "shortsighted",
+        "counterproductive",
+        "strategic",
+        "calculated",
+        "prescient",
+        "judicious"
+      ],
+      "answer": [
+        "shortsighted",
+        "counterproductive"
+      ],
+      "explanation": "Foreclosing agreement at the most promising moment = failing to see consequences (shortsighted) and producing the opposite of the intended result (counterproductive)."
     },
     {
       "id": "v05-q10",
       "type": "sentence_equivalence",
-      "prompt": "By the end of his career, the painter had grown so [[1]] of formal innovation that even his most loyal patrons could not always distinguish his late works from his apprentice efforts.",
-      "options": ["weary", "disenchanted", "fond", "enamored", "incapable", "ignorant"],
-      "answer": ["weary", "disenchanted"],
-      "explanation": "Late works indistinguishable from apprentice work means he stopped innovating. Weary and disenchanted both mean having lost interest or enthusiasm."
+      "prompt": "The political scientist's model is [[1]] in its assumptions, requiring that voters process information and weigh alternatives in ways that decades of behavioral research have shown to be rare even among highly engaged citizens.",
+      "options": [
+        "idealized",
+        "heroic",
+        "realistic",
+        "descriptive",
+        "parsimonious",
+        "empirical"
+      ],
+      "answer": [
+        "idealized",
+        "heroic"
+      ],
+      "explanation": "Requiring behaviors that are behaviorally unrealistic = assuming an ideal (idealized) or exceptional (heroic) voter that doesn't exist in practice."
     },
     {
       "id": "v05-q11",
       "type": "reading_comprehension",
-      "passage": "The standard account of Renaissance humanism portrays it as a recovery — a deliberate return to classical models after centuries of medieval distortion. This narrative, codified in the nineteenth century by Burckhardt and his successors, has proven remarkably durable, but it has also obscured continuities between the humanists and their immediate predecessors. Medieval scholastics, no less than Renaissance humanists, drew extensively on Aristotle, Cicero, and the Roman jurists; what differed was the use to which these sources were put.\n\nA more recent historiographical strand has argued that the rupture between scholasticism and humanism was less a substantive intellectual revolution than a shift in self-presentation. Humanists styled themselves as inheritors of antiquity, dismissing the work of their predecessors as 'gothic' and barbarous; this rhetorical positioning, sustained over generations, eventually produced the very rupture it had originally only claimed. To call humanism a recovery, on this view, is to credit its self-description rather than to describe what actually changed.",
+      "passage": "Legal positivism holds that the existence and content of law depends on social facts — specifically, on the enactments and practices of legal institutions — rather than on its merits. On this view, a law can be valid even if it is unjust, and what the law is can always be determined independently of what the law ought to be. H.L.A. Hart's version of positivism refined this claim by distinguishing between primary rules (rules of obligation that govern conduct) and secondary rules (rules about rules — those that specify how primary rules are created, changed, and adjudicated). The union of primary and secondary rules, Hart argued, is the key to understanding a legal system as a system rather than as a mere collection of disconnected obligations.\n\nRonald Dworkin's attack on positivism focused on what he called the 'model of rules' — the positivist assumption that law consists entirely of rules. Legal practice, Dworkin argued, also includes principles, which differ from rules in that they do not apply in an all-or-nothing fashion but instead have weight that judges must balance against competing considerations. Because principles cannot be identified by any master rule (Hart's 'rule of recognition'), they undermine the positivist claim that all law derives its validity from social facts alone.",
       "prompt": "The primary purpose of the passage is to",
       "options": [
-        "argue that the Renaissance was not in fact a substantive break from the Middle Ages",
-        "describe a traditional historiographical view and a revisionist challenge to its central claim",
-        "defend Burckhardt's interpretation against modern revisionists",
-        "demonstrate that medieval scholastics were as engaged with classical sources as Renaissance humanists",
-        "show that Renaissance humanism was a self-fulfilling rhetorical project"
+        "argue that Dworkin's account of legal principles is more accurate than Hart's positivism",
+        "present a theoretical position in legal philosophy and an influential critique of it",
+        "demonstrate that legal positivism cannot account for judicial practice in any legal system",
+        "defend Hart's distinction between primary and secondary rules against Dworkin's objections",
+        "show that law and morality are necessarily connected through the role of principles"
       ],
-      "answer": "describe a traditional historiographical view and a revisionist challenge to its central claim",
-      "explanation": "Paragraph 1 sketches the standard view (with caveats); paragraph 2 lays out the revisionist alternative. That dual structure is choice B. Choice A overstates — the passage describes the dispute, doesn't endorse the revisionist conclusion."
+      "answer": "present a theoretical position in legal philosophy and an influential critique of it",
+      "explanation": "Paragraph 1 presents Hart's legal positivism; paragraph 2 presents Dworkin's critique. The author presents both without endorsing either."
     },
     {
       "id": "v05-q12",
       "type": "reading_comprehension",
-      "passage": "The standard account of Renaissance humanism portrays it as a recovery — a deliberate return to classical models after centuries of medieval distortion. This narrative, codified in the nineteenth century by Burckhardt and his successors, has proven remarkably durable, but it has also obscured continuities between the humanists and their immediate predecessors. Medieval scholastics, no less than Renaissance humanists, drew extensively on Aristotle, Cicero, and the Roman jurists; what differed was the use to which these sources were put.\n\nA more recent historiographical strand has argued that the rupture between scholasticism and humanism was less a substantive intellectual revolution than a shift in self-presentation. Humanists styled themselves as inheritors of antiquity, dismissing the work of their predecessors as 'gothic' and barbarous; this rhetorical positioning, sustained over generations, eventually produced the very rupture it had originally only claimed. To call humanism a recovery, on this view, is to credit its self-description rather than to describe what actually changed.",
-      "prompt": "The author's attitude toward the revisionist view is best described as",
+      "passage": "Legal positivism holds that the existence and content of law depends on social facts — specifically, on the enactments and practices of legal institutions — rather than on its merits. On this view, a law can be valid even if it is unjust, and what the law is can always be determined independently of what the law ought to be. H.L.A. Hart's version of positivism refined this claim by distinguishing between primary rules (rules of obligation that govern conduct) and secondary rules (rules about rules — those that specify how primary rules are created, changed, and adjudicated). The union of primary and secondary rules, Hart argued, is the key to understanding a legal system as a system rather than as a mere collection of disconnected obligations.\n\nRonald Dworkin's attack on positivism focused on what he called the 'model of rules' — the positivist assumption that law consists entirely of rules. Legal practice, Dworkin argued, also includes principles, which differ from rules in that they do not apply in an all-or-nothing fashion but instead have weight that judges must balance against competing considerations. Because principles cannot be identified by any master rule (Hart's 'rule of recognition'), they undermine the positivist claim that all law derives its validity from social facts alone.",
+      "prompt": "According to the passage, Dworkin's critique targets the positivist claim that",
       "options": [
-        "enthusiastic endorsement",
-        "guarded sympathy",
-        "careful neutrality",
-        "pointed skepticism",
-        "outright rejection"
+        "judges should apply rules rather than exercise discretion",
+        "legal systems can be distinguished from collections of disconnected obligations",
+        "law is valid only when it is consistent with moral principles",
+        "all legally valid norms can be identified through social facts",
+        "primary and secondary rules together constitute the foundation of law"
       ],
-      "answer": "guarded sympathy",
-      "explanation": "The author frames the standard view as having 'obscured continuities' — the author's own characterization, sympathetic to revisionism. But there's no explicit endorsement; that's why it's guarded."
+      "answer": "all legally valid norms can be identified through social facts",
+      "explanation": "Dworkin argues that principles cannot be identified by any master rule (a social fact), so not all legally operative norms are grounded in social facts — directly targeting the positivist claim."
     },
     {
       "id": "v05-q13",
       "type": "reading_comprehension",
-      "passage": "The standard account of Renaissance humanism portrays it as a recovery — a deliberate return to classical models after centuries of medieval distortion. This narrative, codified in the nineteenth century by Burckhardt and his successors, has proven remarkably durable, but it has also obscured continuities between the humanists and their immediate predecessors. Medieval scholastics, no less than Renaissance humanists, drew extensively on Aristotle, Cicero, and the Roman jurists; what differed was the use to which these sources were put.\n\nA more recent historiographical strand has argued that the rupture between scholasticism and humanism was less a substantive intellectual revolution than a shift in self-presentation. Humanists styled themselves as inheritors of antiquity, dismissing the work of their predecessors as 'gothic' and barbarous; this rhetorical positioning, sustained over generations, eventually produced the very rupture it had originally only claimed. To call humanism a recovery, on this view, is to credit its self-description rather than to describe what actually changed.",
-      "prompt": "According to the passage, the difference between scholastics and humanists in their treatment of classical sources lay primarily in",
+      "passage": "Legal positivism holds that the existence and content of law depends on social facts — specifically, on the enactments and practices of legal institutions — rather than on its merits. On this view, a law can be valid even if it is unjust, and what the law is can always be determined independently of what the law ought to be. H.L.A. Hart's version of positivism refined this claim by distinguishing between primary rules (rules of obligation that govern conduct) and secondary rules (rules about rules — those that specify how primary rules are created, changed, and adjudicated). The union of primary and secondary rules, Hart argued, is the key to understanding a legal system as a system rather than as a mere collection of disconnected obligations.\n\nRonald Dworkin's attack on positivism focused on what he called the 'model of rules' — the positivist assumption that law consists entirely of rules. Legal practice, Dworkin argued, also includes principles, which differ from rules in that they do not apply in an all-or-nothing fashion but instead have weight that judges must balance against competing considerations. Because principles cannot be identified by any master rule (Hart's 'rule of recognition'), they undermine the positivist claim that all law derives its validity from social facts alone.",
+      "prompt": "According to the passage, legal principles differ from legal rules in that principles",
       "options": [
-        "the breadth of the sources they consulted",
-        "the degree of distortion they introduced into those sources",
-        "the purposes for which they deployed those sources",
-        "the original languages in which they read them",
-        "the chronological accuracy of their interpretations"
+        "are created by legislation rather than by judicial precedent",
+        "apply only to cases involving constitutional questions",
+        "do not apply mechanically but must be weighed against other considerations",
+        "are not subject to the secondary rules that govern rule change",
+        "cannot be used to resolve conflicts between competing primary rules"
       ],
-      "answer": "the purposes for which they deployed those sources",
-      "explanation": "The passage states explicitly: 'what differed was the use to which these sources were put.' That's choice C."
+      "answer": "do not apply mechanically but must be weighed against other considerations",
+      "explanation": "The passage states explicitly: principles 'do not apply in an all-or-nothing fashion but instead have weight that judges must balance against competing considerations.'"
     },
     {
       "id": "v05-q14",
       "type": "reading_comprehension",
-      "passage": "That economic activity tends, all else equal, toward greater specialization is among the most secure findings of the discipline; that specialization in turn produces gains in productivity is hardly more controversial. Less settled is the question of how, and how much, these gains diffuse to the workers whose specialized labor produces them. The classical answer, traceable to Smith and refined by his successors, holds that competitive markets ensure that productivity gains accrue, over time, to wages: workers may be temporarily disadvantaged by automation or trade, but the long-run trajectory is upward.\n\nRecent empirical work has complicated this expectation. Studies of regional labor markets exposed to import competition have documented persistent wage stagnation and employment losses lasting decades, with affected workers showing little of the geographic or sectoral mobility that classical theory presupposes. Whether these findings refute the classical account or merely call attention to frictions it had always acknowledged in principle remains a matter of vigorous dispute. What is clear is that the long run, in this domain, has proved considerably longer than its earlier proponents implied.",
-      "prompt": "The author would most likely agree with which of the following?",
+      "passage": "The debate over whether consciousness can be explained in purely physical terms — the 'hard problem' of consciousness as David Chalmers named it — has generated more philosophical heat than scientific light. Critics of physicalism point to the 'explanatory gap': even a complete physical description of the brain would leave open the question of why any of that processing is accompanied by subjective experience at all. Physicalists have responded in two main ways. Eliminativists argue that phenomenal consciousness, as ordinarily conceived, is a theoretical posit that will eventually be replaced by a better neuroscientific vocabulary, much as 'heat' was replaced by mean molecular kinetic energy. Illusionists take the more deflationary view that conscious experience seems to have properties it does not actually have, and that explaining why it seems that way is all that remains to be explained.\n\nNeither response has satisfied critics who regard the existence of subjective experience as too obvious to deny and too fundamental to dissolve into neuroscience. The impasse suggests that the debate may be partly terminological — turning on what exactly is meant by 'explanation' and whether the standards applicable to other domains of inquiry are applicable here.",
+      "prompt": "The author suggests that the impasse in the debate over consciousness may result from",
       "options": [
-        "Recent empirical work has decisively refuted the classical theory.",
-        "The classical theory's predictions are confirmed once frictions are properly modeled.",
-        "The classical theory's expectations operate, if at all, on timescales that may be too long to be policy-relevant.",
-        "Regional labor markets are too idiosyncratic to test general economic theory.",
-        "Specialization does not in fact produce productivity gains."
+        "the failure of physicalists to conduct adequate empirical research",
+        "unresolved disagreement about what would count as an explanation",
+        "the technical limitations of current neuroscientific methods",
+        "the personal and emotional investment of participants in the debate",
+        "eliminativism's inability to account for well-established neuroscientific findings"
       ],
-      "answer": "The classical theory's expectations operate, if at all, on timescales that may be too long to be policy-relevant.",
-      "explanation": "The closing line — 'the long run... has proved considerably longer than its earlier proponents implied' — is the author's own judgment, mapping directly onto choice C."
+      "answer": "unresolved disagreement about what would count as an explanation",
+      "explanation": "'The impasse suggests the debate may be partly terminological — turning on what exactly is meant by explanation.' That is unresolved disagreement about the standard of explanation."
     },
     {
       "id": "v05-q15",
       "type": "reading_comprehension",
-      "passage": "That economic activity tends, all else equal, toward greater specialization is among the most secure findings of the discipline; that specialization in turn produces gains in productivity is hardly more controversial. Less settled is the question of how, and how much, these gains diffuse to the workers whose specialized labor produces them. The classical answer, traceable to Smith and refined by his successors, holds that competitive markets ensure that productivity gains accrue, over time, to wages: workers may be temporarily disadvantaged by automation or trade, but the long-run trajectory is upward.\n\nRecent empirical work has complicated this expectation. Studies of regional labor markets exposed to import competition have documented persistent wage stagnation and employment losses lasting decades, with affected workers showing little of the geographic or sectoral mobility that classical theory presupposes. Whether these findings refute the classical account or merely call attention to frictions it had always acknowledged in principle remains a matter of vigorous dispute. What is clear is that the long run, in this domain, has proved considerably longer than its earlier proponents implied.",
-      "prompt": "The author treats the question of whether recent findings refute the classical account as",
+      "passage": "The debate over whether consciousness can be explained in purely physical terms — the 'hard problem' of consciousness as David Chalmers named it — has generated more philosophical heat than scientific light. Critics of physicalism point to the 'explanatory gap': even a complete physical description of the brain would leave open the question of why any of that processing is accompanied by subjective experience at all. Physicalists have responded in two main ways. Eliminativists argue that phenomenal consciousness, as ordinarily conceived, is a theoretical posit that will eventually be replaced by a better neuroscientific vocabulary, much as 'heat' was replaced by mean molecular kinetic energy. Illusionists take the more deflationary view that conscious experience seems to have properties it does not actually have, and that explaining why it seems that way is all that remains to be explained.\n\nNeither response has satisfied critics who regard the existence of subjective experience as too obvious to deny and too fundamental to dissolve into neuroscience. The impasse suggests that the debate may be partly terminological — turning on what exactly is meant by 'explanation' and whether the standards applicable to other domains of inquiry are applicable here.",
+      "prompt": "The analogy between 'heat' and phenomenal consciousness is invoked by eliminativists to suggest that",
       "options": [
-        "a settled matter on which the empirical evidence is decisive",
-        "an unresolved dispute about which the author declines to take a position",
-        "a confusion that careful analysis can quickly dispel",
-        "a question that depends entirely on definitional choices",
-        "a debate of merely academic interest"
+        "heat and consciousness are both manifestations of the same underlying physical process",
+        "phenomenal consciousness is a pre-scientific concept that science will eventually supersede",
+        "the hard problem of consciousness has already been solved in principle by physicalism",
+        "ordinary language is an unreliable guide to the nature of subjective experience",
+        "the neuroscientific vocabulary needed to replace phenomenal concepts has already been developed"
       ],
-      "answer": "an unresolved dispute about which the author declines to take a position",
-      "explanation": "'Remains a matter of vigorous dispute' — the author explicitly says it's unresolved and does not take a side. That's choice B."
+      "answer": "phenomenal consciousness is a pre-scientific concept that science will eventually supersede",
+      "explanation": "'Heat' was eventually replaced by mean molecular kinetic energy — a pre-scientific folk concept superseded by science. Eliminativists invoke this to argue the same will happen to 'phenomenal consciousness.'"
     }
   ]
 }

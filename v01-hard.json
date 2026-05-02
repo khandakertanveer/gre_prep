@@ -1,0 +1,182 @@
+{
+  "id": "v01",
+  "title": "Verbal Set 1",
+  "subject": "verbal",
+  "difficulty": "hard",
+  "questions": [
+    {
+      "id": "v01-q01",
+      "type": "text_completion",
+      "blanks": 3,
+      "prompt": "The philosopher's account of justice is at once [[1]] and [[2]]; it demands rigorous application of a small set of principles yet must remain [[3]] enough to accommodate the particular circumstances of each case.",
+      "options": [
+        ["parsimonious", "expansive", "incoherent"],
+        ["searching", "superficial", "dogmatic"],
+        ["flexible", "rigid", "prescriptive"]
+      ],
+      "answer": ["parsimonious", "searching", "flexible"],
+      "explanation": "Parsimonious = economical, minimal (small set of principles). Searching = rigorous. Flexible = accommodates particular circumstances — the opposite of rigid, which the theory explicitly avoids."
+    },
+    {
+      "id": "v01-q02",
+      "type": "text_completion",
+      "blanks": 2,
+      "prompt": "What strikes readers most about the novelist's prose is its studied [[1]]; she never allows an emotion to be named, relying instead on [[2]] accumulation of objects and gestures to do the work that more confessional writers accomplish through direct statement.",
+      "options": [
+        ["reticence", "effusiveness", "prolixity"],
+        ["deliberate", "haphazard", "ironic"]
+      ],
+      "answer": ["reticence", "deliberate"],
+      "explanation": "She never names emotions = reticence (deliberate restraint). The accumulation must be deliberate (purposeful), not haphazard, since she relies on it as a crafted technique."
+    },
+    {
+      "id": "v01-q03",
+      "type": "text_completion",
+      "blanks": 1,
+      "prompt": "The theory's subsequent influence was inversely proportional to its [[1]]; widely cited but rarely scrutinized, it became one of those ideas that scholars invoke without engaging.",
+      "options": [["celebrity", "rigor", "novelty", "coherence", "obscurity"]],
+      "answer": ["rigor"],
+      "explanation": "Widely cited but rarely scrutinized = high visibility (celebrity) but low rigor. The inverse relationship holds: as influence grew, rigor was ignored."
+    },
+    {
+      "id": "v01-q04",
+      "type": "text_completion",
+      "blanks": 3,
+      "prompt": "The film's reception was [[1]] by the director's public persona: audiences accustomed to her [[2]] earlier work were unprepared for a film whose central gesture was one of deliberate, almost aggressive [[3]].",
+      "options": [
+        ["clarified", "complicated", "transformed"],
+        ["austere", "accessible", "confrontational"],
+        ["accessibility", "opacity", "lyricism"]
+      ],
+      "answer": ["complicated", "accessible", "opacity"],
+      "explanation": "Public persona complicated reception. Earlier work was accessible (setting up the contrast). The new film's gesture was opacity — its difficulty and deliberate obscurity surprised audiences used to something easier."
+    },
+    {
+      "id": "v01-q05",
+      "type": "text_completion",
+      "blanks": 2,
+      "prompt": "The economist's central [[1]] — that markets self-correct through price signals alone — survived decades of critique not because it was empirically vindicated but because its simplicity made it [[2]] to formal mathematical treatment.",
+      "options": [
+        ["axiom", "prediction", "uncertainty"],
+        ["resistant", "amenable", "irrelevant"]
+      ],
+      "answer": ["axiom", "amenable"],
+      "explanation": "Axiom = a foundational assumption taken as given. Amenable = open and responsive to — the simplicity made the assumption easy to incorporate into models."
+    },
+    {
+      "id": "v01-q06",
+      "type": "sentence_equivalence",
+      "prompt": "Her testimony was so [[1]] that the prosecutor abandoned his line of questioning entirely, unable to find purchase on any particular claim.",
+      "options": ["equivocal", "noncommittal", "direct", "forthright", "categorical", "decisive"],
+      "answer": ["equivocal", "noncommittal"],
+      "explanation": "Unable to find purchase = couldn't pin down any concrete assertion. Equivocal and noncommittal both describe evasive, uncommitted testimony."
+    },
+    {
+      "id": "v01-q07",
+      "type": "sentence_equivalence",
+      "prompt": "The committee's final report was [[1]] where precision was essential, burying its most consequential findings in subclauses and qualifications that obscured rather than clarified.",
+      "options": ["evasive", "circumlocutory", "pellucid", "incisive", "definitive", "trenchant"],
+      "answer": ["evasive", "circumlocutory"],
+      "explanation": "Burying findings in qualifications = evasive (avoiding directness) and circumlocutory (roundabout, indirect). Both capture the failure to state findings plainly."
+    },
+    {
+      "id": "v01-q08",
+      "type": "sentence_equivalence",
+      "prompt": "The sociologist's methodology, though innovative, was not without its [[1]]; critics noted that reliance on self-reported data introduced systematic measurement error.",
+      "options": ["vulnerabilities", "shortcomings", "merits", "virtues", "defenders", "proponents"],
+      "answer": ["vulnerabilities", "shortcomings"],
+      "explanation": "The critics identified a concrete methodological flaw — measurement error. Vulnerabilities and shortcomings both describe weaknesses in a method."
+    },
+    {
+      "id": "v01-q09",
+      "type": "sentence_equivalence",
+      "prompt": "The philosophical tradition the author examines was not, as its adherents claimed, [[1]] of external influence, but deeply shaped by the very intellectual currents its practitioners affected to despise.",
+      "options": ["innocent", "free", "worthy", "deserving", "emblematic", "representative"],
+      "answer": ["innocent", "free"],
+      "explanation": "'Innocent of' and 'free of' both mean unaffected by / without. The tradition claimed independence from external influence, but the author shows this is false."
+    },
+    {
+      "id": "v01-q10",
+      "type": "sentence_equivalence",
+      "prompt": "The critic's reviews, however [[1]] in their individual judgments, collectively revealed a consistent aesthetic program rooted in a set of values he never made fully explicit.",
+      "options": ["idiosyncratic", "capricious", "principled", "systematic", "rigorous", "coherent"],
+      "answer": ["idiosyncratic", "capricious"],
+      "explanation": "Reviews that seem inconsistent individually but reveal a hidden program = reviews that appear idiosyncratic (individual, unusual) or capricious (seemingly random), though they're not."
+    },
+    {
+      "id": "v01-q11",
+      "type": "reading_comprehension",
+      "passage": "The debate between semantic externalists and internalists concerns whether the content of our mental states is determined wholly by what occurs in the head or partly by factors external to the thinker. Putnam's Twin Earth thought experiment argues that 'water' means H₂O even for speakers who know nothing of chemistry, because meaning is fixed by causal connection to the substance in the world rather than by internal representations.\n\nInternalists have countered by distinguishing 'narrow' content, which supervenes on internal states, from 'wide' content, which includes environmental factors. The Earth speaker and Twin Earth speaker share narrow content for 'water' even if their wide contents differ. The practical upshot, on this view, is that communication is possible because it depends on narrow, not wide, content.\n\nNeither side has fully accommodated the other's strongest cases, and the debate has generated a sprawling literature of thought experiments designed to pump competing intuitions. What remains uncontested is that the naive picture — meaning as transparent inner content available to introspection — is no longer defensible.",
+      "prompt": "The passage implies that the debate between externalists and internalists has",
+      "options": [
+        "been resolved in favor of externalism by Putnam's thought experiment",
+        "demonstrated that meaning cannot be studied without empirical data",
+        "produced extensive analysis without achieving definitive settlement",
+        "established that communication between Twin Earth and Earth speakers is impossible",
+        "confirmed that meaning is fully transparent to introspection"
+      ],
+      "answer": "produced extensive analysis without achieving definitive settlement",
+      "explanation": "'Sprawling literature... without reaching decisive resolution' and 'Neither side has fully accommodated' map directly onto choice C."
+    },
+    {
+      "id": "v01-q12",
+      "type": "reading_comprehension",
+      "passage": "The debate between semantic externalists and internalists concerns whether the content of our mental states is determined wholly by what occurs in the head or partly by factors external to the thinker. Putnam's Twin Earth thought experiment argues that 'water' means H₂O even for speakers who know nothing of chemistry, because meaning is fixed by causal connection to the substance in the world rather than by internal representations.\n\nInternalists have countered by distinguishing 'narrow' content, which supervenes on internal states, from 'wide' content, which includes environmental factors. The Earth speaker and Twin Earth speaker share narrow content for 'water' even if their wide contents differ. The practical upshot, on this view, is that communication is possible because it depends on narrow, not wide, content.\n\nNeither side has fully accommodated the other's strongest cases, and the debate has generated a sprawling literature of thought experiments designed to pump competing intuitions. What remains uncontested is that the naive picture — meaning as transparent inner content available to introspection — is no longer defensible.",
+      "prompt": "According to the passage, internalists distinguish between narrow and wide content primarily to",
+      "options": [
+        "deny that causal connections to the world play any role in fixing meaning",
+        "show that communication remains possible despite environmental differences in meaning",
+        "defend the view that brain states alone fully determine all aspects of meaning",
+        "argue that Twin Earth speakers lack the same intentional states as Earth speakers",
+        "concede the externalists' position while preserving a role for phenomenology"
+      ],
+      "answer": "show that communication remains possible despite environmental differences in meaning",
+      "explanation": "The passage states explicitly: 'communication is possible because it depends on narrow, not wide, content.' The distinction is made to preserve communicative success."
+    },
+    {
+      "id": "v01-q13",
+      "type": "reading_comprehension",
+      "passage": "The debate between semantic externalists and internalists concerns whether the content of our mental states is determined wholly by what occurs in the head or partly by factors external to the thinker. Putnam's Twin Earth thought experiment argues that 'water' means H₂O even for speakers who know nothing of chemistry, because meaning is fixed by causal connection to the substance in the world rather than by internal representations.\n\nInternalists have countered by distinguishing 'narrow' content, which supervenes on internal states, from 'wide' content, which includes environmental factors. The Earth speaker and Twin Earth speaker share narrow content for 'water' even if their wide contents differ. The practical upshot, on this view, is that communication is possible because it depends on narrow, not wide, content.\n\nNeither side has fully accommodated the other's strongest cases, and the debate has generated a sprawling literature of thought experiments designed to pump competing intuitions. What remains uncontested is that the naive picture — meaning as transparent inner content available to introspection — is no longer defensible.",
+      "prompt": "The author's attitude toward the current state of the debate is best described as",
+      "options": [
+        "optimistic that a synthesis between the two positions will soon emerge",
+        "dismissive of internalism as a position that cannot be maintained",
+        "even-handed, reporting the state of play without endorsing either side",
+        "sympathetic to externalism but acknowledging the force of internalist objections",
+        "frustrated by the failure to reach resolution after extensive analysis"
+      ],
+      "answer": "even-handed, reporting the state of play without endorsing either side",
+      "explanation": "The author presents both positions and their objections neutrally. The final sentence critiques only the 'naive picture,' not either position in the debate."
+    },
+    {
+      "id": "v01-q14",
+      "type": "reading_comprehension",
+      "passage": "The concept of 'pure' form in aesthetic theory — the idea that visual art can be appreciated independently of representational content — reached its fullest articulation in Clive Bell's claim that 'significant form' is the one quality shared by all objects that provoke aesthetic emotion. Bell's argument was polemical rather than analytical; he offered no account of what makes a form significant beyond the emotional response it produces, leaving the theory open to the charge of circularity.\n\nDespite this vulnerability, the idea had lasting influence on art criticism. It provided critics with a vocabulary for discussing abstract work that seemed to require no appeal to subject matter, and it lent intellectual respectability to a sensibility that valued formal arrangement above storytelling. Whether it accurately describes what happens when viewers engage with art remains disputed, but its effect on how critics learned to talk about art is difficult to overstate.",
+      "prompt": "The passage suggests that Bell's concept of significant form was influential despite its theoretical weakness primarily because",
+      "options": [
+        "it was subsequently validated by empirical research in psychology",
+        "it resolved the longstanding tension between representation and abstraction",
+        "it gave critics a usable framework for discussing abstract work",
+        "it was endorsed by the most important abstract painters of the period",
+        "it accurately captured the phenomenology of aesthetic experience"
+      ],
+      "answer": "it gave critics a usable framework for discussing abstract work",
+      "explanation": "'Provided critics with a vocabulary for discussing abstract work that seemed to require no appeal to subject matter' = gave critics a usable framework despite the theory's circularity."
+    },
+    {
+      "id": "v01-q15",
+      "type": "reading_comprehension",
+      "passage": "The concept of 'pure' form in aesthetic theory — the idea that visual art can be appreciated independently of representational content — reached its fullest articulation in Clive Bell's claim that 'significant form' is the one quality shared by all objects that provoke aesthetic emotion. Bell's argument was polemical rather than analytical; he offered no account of what makes a form significant beyond the emotional response it produces, leaving the theory open to the charge of circularity.\n\nDespite this vulnerability, the idea had lasting influence on art criticism. It provided critics with a vocabulary for discussing abstract work that seemed to require no appeal to subject matter, and it lent intellectual respectability to a sensibility that valued formal arrangement above storytelling. Whether it accurately describes what happens when viewers engage with art remains disputed, but its effect on how critics learned to talk about art is difficult to overstate.",
+      "prompt": "The word 'polemical' in the second sentence is used primarily to indicate that Bell's argument",
+      "options": [
+        "was controversial within the broader aesthetic community",
+        "prioritized rhetorical persuasion over rigorous analysis",
+        "showed awareness of the circularity objection it would face",
+        "was directed at a specific rival theory of aesthetic experience",
+        "relied on empirical examples rather than logical demonstration"
+      ],
+      "answer": "prioritized rhetorical persuasion over rigorous analysis",
+      "explanation": "Polemical = argumentative, designed to persuade. The sentence contrasts it with 'analytical,' making clear it was advocacy rather than rigorous argument."
+    }
+  ]
+}

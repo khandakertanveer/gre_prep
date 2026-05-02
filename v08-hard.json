@@ -1,0 +1,296 @@
+{
+  "id": "v08",
+  "title": "Verbal Set 8",
+  "subject": "verbal",
+  "difficulty": "hard",
+  "questions": [
+    {
+      "id": "v08-q01",
+      "type": "text_completion",
+      "blanks": 3,
+      "prompt": "The novel's [[1]] ending — withholding resolution just at the moment when the narrative logic seemed to demand it — enacts the author's [[2]] conviction that closure is a kind of lie, a [[3]] imposed on experience by art that experience itself never provides.",
+      "options": [
+        [
+          "ambiguous",
+          "decisive",
+          "conventional"
+        ],
+        [
+          "stated",
+          "deepest",
+          "occasional"
+        ],
+        [
+          "coherence",
+          "form",
+          "violence"
+        ]
+      ],
+      "answer": [
+        "ambiguous",
+        "deepest",
+        "violence"
+      ],
+      "explanation": "Withholding resolution = ambiguous ending. The conviction is the author's deepest (most fundamental, not stated — implicit in the structure). Closure as a violence imposed on experience = a term used in poststructuralist theory for forcing form onto the messiness of lived experience."
+    },
+    {
+      "id": "v08-q02",
+      "type": "text_completion",
+      "blanks": 2,
+      "prompt": "To describe the minister's position as a [[1]] is to flatter it; it is better understood as an accumulation of tactical adjustments, each made in response to immediate pressure, that have never cohered into anything one could call a [[2]].",
+      "options": [
+        [
+          "policy",
+          "posture",
+          "compromise"
+        ],
+        [
+          "stance",
+          "principle",
+          "argument"
+        ]
+      ],
+      "answer": [
+        "policy",
+        "stance"
+      ],
+      "explanation": "Not really a policy (which implies coherence and deliberation) = flattered by that term. What he has is not even a stance (a clear position) — just reactive adjustments. 'Principle' and 'argument' are possible but 'stance' is most precisely what a coherent policy-position would have."
+    },
+    {
+      "id": "v08-q03",
+      "type": "text_completion",
+      "blanks": 1,
+      "prompt": "The agency's press releases are exercises in [[1]]: written in the passive voice, with agency deleted at every turn, they manage to convey activity without attributing it to any identifiable actor.",
+      "options": [
+        [
+          "obfuscation",
+          "precision",
+          "transparency",
+          "advocacy",
+          "equivocation"
+        ]
+      ],
+      "answer": [
+        "obfuscation"
+      ],
+      "explanation": "Passive voice + deleted agency + conveying activity without identifying actors = deliberate obscuring of who did what. Obfuscation = making things obscure. Equivocation is about ambiguity of meaning, not of agency."
+    },
+    {
+      "id": "v08-q04",
+      "type": "text_completion",
+      "blanks": 3,
+      "prompt": "The philosopher argues that the distinction between descriptive and normative claims is [[1]] in practice: any description of a social phenomenon that is detailed enough to be informative already embeds [[2]] decisions about what is worth noticing, and those decisions are never [[3]].",
+      "options": [
+        [
+          "clear",
+          "untenable",
+          "defensible"
+        ],
+        [
+          "implicit",
+          "explicit",
+          "theoretical"
+        ],
+        [
+          "neutral",
+          "contested",
+          "obvious"
+        ]
+      ],
+      "answer": [
+        "untenable",
+        "implicit",
+        "neutral"
+      ],
+      "explanation": "Distinction is untenable (cannot be maintained) because descriptions embed implicit (unstated) decisions about relevance that are never neutral (always embed values)."
+    },
+    {
+      "id": "v08-q05",
+      "type": "text_completion",
+      "blanks": 2,
+      "prompt": "The committee's mandate has expanded so gradually and [[1]] that its current scope would be unrecognizable to its founders, none of whom anticipated that a body created to advise on technical standards would eventually [[2]] questions of national economic strategy.",
+      "options": [
+        [
+          "deliberately",
+          "imperceptibly",
+          "controversially"
+        ],
+        [
+          "adjudicate",
+          "advise",
+          "avoid"
+        ]
+      ],
+      "answer": [
+        "imperceptibly",
+        "adjudicate"
+      ],
+      "explanation": "Gradual and imperceptible expansion = scope creep without anyone noticing. The body now adjudicates (decides/rules on) rather than merely advises, which is a qualitative change in authority."
+    },
+    {
+      "id": "v08-q06",
+      "type": "sentence_equivalence",
+      "prompt": "The court's opinion was [[1]] in a way that frustrated both parties: its central holding applied only to the specific facts before it and provided no guidance for future cases.",
+      "options": [
+        "narrow",
+        "cramped",
+        "sweeping",
+        "comprehensive",
+        "expansive",
+        "far-reaching"
+      ],
+      "answer": [
+        "narrow",
+        "cramped"
+      ],
+      "explanation": "Applying only to specific facts before it with no guidance for future cases = limited in scope. Narrow and cramped both describe this constricted, limited reach."
+    },
+    {
+      "id": "v08-q07",
+      "type": "sentence_equivalence",
+      "prompt": "The urban planner's proposals were [[1]] — addressing every demographic group, land use category, and infrastructure system simultaneously — but for that very reason impossible to implement as a coherent whole.",
+      "options": [
+        "comprehensive",
+        "all-encompassing",
+        "focused",
+        "targeted",
+        "selective",
+        "incremental"
+      ],
+      "answer": [
+        "comprehensive",
+        "all-encompassing"
+      ],
+      "explanation": "Addressing every category simultaneously = covering everything. Comprehensive and all-encompassing both describe total, exhaustive coverage."
+    },
+    {
+      "id": "v08-q08",
+      "type": "sentence_equivalence",
+      "prompt": "His public persona was [[1]]: warm in manner but consistently vague about his actual positions, he left acquaintances with a vivid impression of his character and almost no information about his views.",
+      "options": [
+        "disarming",
+        "ingratiating",
+        "alienating",
+        "off-putting",
+        "candid",
+        "forthright"
+      ],
+      "answer": [
+        "disarming",
+        "ingratiating"
+      ],
+      "explanation": "Warm manner that creates impression without revealing views = designed to put people at ease and win favor (disarming and ingratiating), while giving nothing substantive away."
+    },
+    {
+      "id": "v08-q09",
+      "type": "sentence_equivalence",
+      "prompt": "The study's findings were [[1]] by a sample that was demographically homogeneous, making it impossible to know whether results reflected something specific to the population studied or a more general human tendency.",
+      "options": [
+        "circumscribed",
+        "limited",
+        "expanded",
+        "generalized",
+        "replicated",
+        "confirmed"
+      ],
+      "answer": [
+        "circumscribed",
+        "limited"
+      ],
+      "explanation": "Homogeneous sample = restricted applicability. Circumscribed and limited both describe constricted scope of inference."
+    },
+    {
+      "id": "v08-q10",
+      "type": "sentence_equivalence",
+      "prompt": "Her career has been defined by a [[1]] willingness to take on politically charged subjects that more cautious scholars have avoided, often at significant professional cost.",
+      "options": [
+        "conspicuous",
+        "remarkable",
+        "unremarkable",
+        "routine",
+        "obligatory",
+        "conventional"
+      ],
+      "answer": [
+        "conspicuous",
+        "remarkable"
+      ],
+      "explanation": "Willingness at significant professional cost that defines a career = notable and attention-drawing. Conspicuous (clearly visible) and remarkable (worthy of notice) both capture this standout quality."
+    },
+    {
+      "id": "v08-q11",
+      "type": "reading_comprehension",
+      "passage": "The concept of 'structural adjustment' emerged from the international financial institutions' attempts to address balance-of-payments crises in developing countries during the 1980s. Conditionality — the attachment of policy requirements to loan disbursements — was justified on two grounds: that fiscal imbalances were the proximate cause of crises and required correction, and that recipient governments' incentives were systematically biased toward short-term spending that would merely defer adjustment.\n\nThe political economy critique of structural adjustment has focused less on the technical merits of the adjustment prescriptions than on the asymmetry of the adjustment burden. Conditions for debtors — currency devaluation, public expenditure reduction, trade liberalization — imposed concentrated costs on domestic populations while leaving creditor institutions' lending practices substantially unchanged. Critics argued that this asymmetry was not a technical necessity but a political outcome, reflecting the governance structure of the institutions and the interests of their major shareholders.",
+      "prompt": "The political economy critique described in the passage differs from a technical critique of structural adjustment in that it",
+      "options": [
+        "accepts the technical prescriptions while questioning their distribution of costs",
+        "argues that fiscal imbalances were not the proximate cause of the crises being addressed",
+        "claims that conditionality was ineffective in achieving macroeconomic stabilization",
+        "contends that currency devaluation and trade liberalization are inherently harmful policies",
+        "questions whether balance-of-payments crises require any adjustment at all"
+      ],
+      "answer": "accepts the technical prescriptions while questioning their distribution of costs",
+      "explanation": "The passage says the political economy critique focused 'less on the technical merits... than on the asymmetry of the adjustment burden.' It questions who bore costs, not whether adjustment was technically correct."
+    },
+    {
+      "id": "v08-q12",
+      "type": "reading_comprehension",
+      "passage": "The concept of 'structural adjustment' emerged from the international financial institutions' attempts to address balance-of-payments crises in developing countries during the 1980s. Conditionality — the attachment of policy requirements to loan disbursements — was justified on two grounds: that fiscal imbalances were the proximate cause of crises and required correction, and that recipient governments' incentives were systematically biased toward short-term spending that would merely defer adjustment.\n\nThe political economy critique of structural adjustment has focused less on the technical merits of the adjustment prescriptions than on the asymmetry of the adjustment burden. Conditions for debtors — currency devaluation, public expenditure reduction, trade liberalization — imposed concentrated costs on domestic populations while leaving creditor institutions' lending practices substantially unchanged. Critics argued that this asymmetry was not a technical necessity but a political outcome, reflecting the governance structure of the institutions and the interests of their major shareholders.",
+      "prompt": "According to the passage, conditionality was justified on the ground that, without it, recipient governments would",
+      "options": [
+        "resist currency devaluation and trade liberalization for ideological reasons",
+        "adopt adjustment policies that imposed excessive costs on domestic populations",
+        "prioritize immediate spending in ways that postponed necessary adjustment",
+        "pursue fiscal policies aligned with creditor institutions' interests rather than their own",
+        "default on loan repayments before adjustment could take effect"
+      ],
+      "answer": "prioritize immediate spending in ways that postponed necessary adjustment",
+      "explanation": "'Recipient governments' incentives were systematically biased toward short-term spending that would merely defer adjustment' — that is the second justification for conditionality."
+    },
+    {
+      "id": "v08-q13",
+      "type": "reading_comprehension",
+      "passage": "The concept of 'structural adjustment' emerged from the international financial institutions' attempts to address balance-of-payments crises in developing countries during the 1980s. Conditionality — the attachment of policy requirements to loan disbursements — was justified on two grounds: that fiscal imbalances were the proximate cause of crises and required correction, and that recipient governments' incentives were systematically biased toward short-term spending that would merely defer adjustment.\n\nThe political economy critique of structural adjustment has focused less on the technical merits of the adjustment prescriptions than on the asymmetry of the adjustment burden. Conditions for debtors — currency devaluation, public expenditure reduction, trade liberalization — imposed concentrated costs on domestic populations while leaving creditor institutions' lending practices substantially unchanged. Critics argued that this asymmetry was not a technical necessity but a political outcome, reflecting the governance structure of the institutions and the interests of their major shareholders.",
+      "prompt": "The critics described in the passage would most likely agree with which of the following?",
+      "options": [
+        "Conditionality was technically ineffective in stabilizing the macroeconomic position of debtor countries",
+        "The governance structure of creditor institutions contributed to the uneven distribution of adjustment costs",
+        "Currency devaluation and trade liberalization are always harmful to developing economies",
+        "Creditor institutions' lending practices were the proximate cause of the balance-of-payments crises",
+        "Structural adjustment programs should have been replaced by debt cancellation"
+      ],
+      "answer": "The governance structure of creditor institutions contributed to the uneven distribution of adjustment costs",
+      "explanation": "Critics explicitly argued the asymmetry 'was not a technical necessity but a political outcome, reflecting the governance structure of the institutions and the interests of their major shareholders.'"
+    },
+    {
+      "id": "v08-q14",
+      "type": "reading_comprehension",
+      "passage": "The philosopher Charles Taylor argues that modern identity is shaped by what he calls 'moral frameworks' — background understandings of what is important, what is worth pursuing, and what constitutes a good life. These frameworks are not ordinarily objects of explicit reflection; they operate as the largely inarticulate horizon within which questions about values and purposes become intelligible. Taylor's claim is not merely sociological — that people have such frameworks — but normative: a life lived without any such framework would be one in which nothing could have significance, where no sense of orientation or direction would be possible.\n\nCritics have questioned whether Taylor's argument rests on a hidden equivocation. When he claims that frameworks are necessary for identity, he may mean either that some framework or other is necessary (a relatively modest claim) or that frameworks of the rich, substantive kind he describes are necessary (a much stronger claim). If the first reading is correct, then minimally organized lives — those oriented around a thin set of commitments — might satisfy the requirement. If the second, Taylor's account risks presupposing the specific conception of the good life he purports to be deriving.",
+      "prompt": "The critics' objection amounts to the claim that Taylor's argument",
+      "options": [
+        "fails to explain why moral frameworks are necessary for identity rather than merely common",
+        "relies on an ambiguity between two significantly different versions of his central claim",
+        "cannot account for cultures in which moral frameworks are explicit objects of reflection",
+        "overstates the degree to which modern individuals lack reflective awareness of their frameworks",
+        "confuses a sociological description of identity with a normative account of the good life"
+      ],
+      "answer": "relies on an ambiguity between two significantly different versions of his central claim",
+      "explanation": "The critics identify an equivocation between 'some framework is necessary' (modest) and 'substantive frameworks of Taylor's kind are necessary' (strong). That is ambiguity between two versions of the same claim."
+    },
+    {
+      "id": "v08-q15",
+      "type": "reading_comprehension",
+      "passage": "The philosopher Charles Taylor argues that modern identity is shaped by what he calls 'moral frameworks' — background understandings of what is important, what is worth pursuing, and what constitutes a good life. These frameworks are not ordinarily objects of explicit reflection; they operate as the largely inarticulate horizon within which questions about values and purposes become intelligible. Taylor's claim is not merely sociological — that people have such frameworks — but normative: a life lived without any such framework would be one in which nothing could have significance, where no sense of orientation or direction would be possible.\n\nCritics have questioned whether Taylor's argument rests on a hidden equivocation. When he claims that frameworks are necessary for identity, he may mean either that some framework or other is necessary (a relatively modest claim) or that frameworks of the rich, substantive kind he describes are necessary (a much stronger claim). If the first reading is correct, then minimally organized lives — those oriented around a thin set of commitments — might satisfy the requirement. If the second, Taylor's account risks presupposing the specific conception of the good life he purports to be deriving.",
+      "prompt": "If the stronger reading of Taylor's claim is correct, critics suggest that his argument",
+      "options": [
+        "provides an adequate account of how thin commitments can constitute a moral framework",
+        "shows that minimally organized lives cannot have significance or direction",
+        "assumes from the outset what it purports to establish",
+        "demonstrates that modern identity is impossible without rich substantive commitments",
+        "successfully derives the necessity of moral frameworks from the structure of identity"
+      ],
+      "answer": "assumes from the outset what it purports to establish",
+      "explanation": "'Taylor's account risks presupposing the specific conception of the good life he purports to be deriving' = the conclusion (rich frameworks are needed) is assumed in the premise. That's a circular or question-begging structure."
+    }
+  ]
+}

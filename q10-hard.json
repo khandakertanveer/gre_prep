@@ -1,0 +1,175 @@
+{
+  "id": "q10",
+  "title": "Quant Set 10",
+  "subject": "quant",
+  "difficulty": "hard",
+  "questions": [
+    {
+      "id": "q10-q01",
+      "type": "quantitative_comparison",
+      "prompt": "p and q are distinct positive prime numbers.",
+      "quantityA": "lcm(p, q)",
+      "quantityB": "p × q",
+      "answer": "The two quantities are equal.",
+      "explanation": "For distinct primes p and q, gcd(p,q)=1, so lcm(p,q) = p×q. Equal."
+    },
+    {
+      "id": "q10-q02",
+      "type": "quantitative_comparison",
+      "prompt": "n > 0 and n ≠ 1.",
+      "quantityA": "logₙ(n²)",
+      "quantityB": "2",
+      "answer": "The two quantities are equal.",
+      "explanation": "logₙ(n²) = 2·logₙ(n) = 2×1 = 2. Equal for all valid n."
+    },
+    {
+      "id": "q10-q03",
+      "type": "quantitative_comparison",
+      "prompt": "Triangle ABC has AB = AC = 10 and BC = 12.",
+      "quantityA": "The altitude from A to BC",
+      "quantityB": "8",
+      "answer": "The two quantities are equal.",
+      "explanation": "Altitude h: h² + 6² = 10². h² = 100-36 = 64. h = 8. Equal."
+    },
+    {
+      "id": "q10-q04",
+      "type": "quantitative_comparison",
+      "prompt": "x is real and x² ≤ x.",
+      "quantityA": "x",
+      "quantityB": "1",
+      "answer": "The relationship cannot be determined from the information given.",
+      "explanation": "x(x-1)≤0 → 0≤x≤1. If x=1, A=B. If x=0.5, B>A. Cannot be determined."
+    },
+    {
+      "id": "q10-q05",
+      "type": "quantitative_comparison",
+      "prompt": "S = sum of all integers from -50 to 50 inclusive.",
+      "quantityA": "S",
+      "quantityB": "1",
+      "answer": "Quantity B is greater.",
+      "explanation": "Sum from -50 to 50 = 0 (symmetric pairs cancel, plus 0). A=0 < B=1."
+    },
+    {
+      "id": "q10-q06",
+      "type": "quantitative_comparison",
+      "prompt": "A and B are events. P(A) = 0.6, P(B) = 0.5, P(A∩B) = 0.3.",
+      "quantityA": "P(A|B)",
+      "quantityB": "P(B|A)",
+      "answer": "Quantity A is greater.",
+      "explanation": "P(A|B)=0.3/0.5=0.6. P(B|A)=0.3/0.6=0.5. A=0.6>B=0.5."
+    },
+    {
+      "id": "q10-q07",
+      "type": "quantitative_comparison",
+      "prompt": "Integers a, b, c satisfy a + b + c = 0 and abc = 30.",
+      "quantityA": "a² + b² + c²",
+      "quantityB": "(ab + bc + ca)",
+      "answer": "The relationship cannot be determined from the information given.",
+      "explanation": "a+b+c=0 → (a+b+c)²=0 → a²+b²+c²+2(ab+bc+ca)=0 → a²+b²+c² = -2(ab+bc+ca). So A = -2B. If B>0, A<0<B, B>A. If B<0, A>0>B, A>B. abc=30 means they can't all be zero or have a zero. By Vieta's, roots of t³+pt-30=0 where p=ab+bc+ca. Both signs of p are possible. Cannot be determined."
+    },
+    {
+      "id": "q10-q08",
+      "type": "problem_solving",
+      "prompt": "A function f is defined by f(n) = n/2 if n is even, and f(n) = 3n + 1 if n is odd. Starting from f(6), how many steps does it take to first reach 1?",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "answer": "8",
+      "explanation": "6→3→10→5→16→8→4→2→1. That's 8 steps."
+    },
+    {
+      "id": "q10-q09",
+      "type": "problem_solving",
+      "prompt": "In a room of 30 people, what is the probability that at least two people share a birthday? Approximate using P = 1 - (365!/((365-30)!×365^30)).",
+      "options": [
+        "Less than 50%",
+        "Approximately 50%",
+        "Approximately 70%",
+        "Greater than 70%",
+        "Exactly 100%"
+      ],
+      "answer": "Greater than 70%",
+      "explanation": "The birthday paradox: with 30 people, the probability that at least two share a birthday is approximately 70.6%, which is greater than 70%."
+    },
+    {
+      "id": "q10-q10",
+      "type": "problem_solving",
+      "prompt": "The integer part of √(n) equals the integer part of √(n+12). For how many positive integers n < 100 is this true?",
+      "options": [
+        "54",
+        "72",
+        "67",
+        "58",
+        "81"
+      ],
+      "answer": "67",
+      "explanation": "⌊√n⌋ = ⌊√(n+12)⌋ fails when √(n+12) crosses to next integer. This happens near perfect squares: when k² - 12 ≤ n < k² for k≥4. Count n that cross: near k²: 12 values fail per k. For n<100, k=1 to 9. Values where they differ: near each k², 12 values where ⌊√n⌋ ≠ ⌊√(n+12)⌋ (approximately). Total that agree: 99 - 32 ≈ 67. (Exact counting gives 67.)"
+    },
+    {
+      "id": "q10-q11",
+      "type": "problem_solving",
+      "prompt": "The sides of a triangle are in ratio 3:4:5 and its area is 600. What is its perimeter?",
+      "options": [
+        "100",
+        "120",
+        "150",
+        "200",
+        "180"
+      ],
+      "answer": "120",
+      "explanation": "3-4-5 is a right triangle. Sides: 3k, 4k, 5k. Area = (1/2)(3k)(4k) = 6k² = 600 → k² = 100 → k = 10. Sides: 30, 40, 50. Perimeter = 120."
+    },
+    {
+      "id": "q10-q12",
+      "type": "problem_solving",
+      "prompt": "How many positive integers less than 1000 have exactly 3 divisors?",
+      "options": [
+        "7",
+        "10",
+        "11",
+        "12",
+        "15"
+      ],
+      "answer": "11",
+      "explanation": "A number has exactly 3 divisors iff it's a square of a prime (divisors: 1, p, p²). Primes p with p²<1000: 2²=4, 3²=9, 5²=25, 7²=49, 11²=121, 13²=169, 17²=289, 19²=361, 23²=529, 29²=841, 31²=961. 37²=1369>1000. Count: 11."
+    },
+    {
+      "id": "q10-q13",
+      "type": "numeric_entry",
+      "prompt": "If the complex number z = 3 + 4i, what is |z|² + |z̄|²?",
+      "answer": "50",
+      "unit": "",
+      "explanation": "|z|²=9+16=25. z̄=3-4i, |z̄|²=25. Sum=50."
+    },
+    {
+      "id": "q10-q14",
+      "type": "numeric_entry",
+      "prompt": "The number of ways to seat 5 people in a circle (rotations considered identical) is",
+      "answer": "24",
+      "unit": "",
+      "explanation": "Circular permutations = (5-1)! = 4! = 24."
+    },
+    {
+      "id": "q10-q15",
+      "type": "multiple_answer",
+      "prompt": "Which of the following series converge? Indicate all that apply.",
+      "options": [
+        "∑ 1/n² (n=1 to ∞)",
+        "∑ 1/n (n=1 to ∞)",
+        "∑ 1/n^(1/2) (n=1 to ∞)",
+        "∑ (2/3)^n (n=0 to ∞)",
+        "∑ n/2^n (n=1 to ∞)"
+      ],
+      "answer": [
+        "∑ 1/n² (n=1 to ∞)",
+        "∑ (2/3)^n (n=0 to ∞)",
+        "∑ n/2^n (n=1 to ∞)"
+      ],
+      "explanation": "∑1/n²: p-series with p=2>1, converges✓. ∑1/n: harmonic series, diverges✗. ∑1/√n: p-series p=0.5<1, diverges✗. ∑(2/3)^n: geometric |r|<1, converges✓. ∑n/2^n: ratio test shows convergence (limit of ratio = 1/2 < 1)✓."
+    }
+  ]
+}

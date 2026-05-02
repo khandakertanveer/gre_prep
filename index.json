@@ -1,0 +1,30 @@
+{
+  "verbal": [
+    {"id":"v01","title":"Verbal Set 1","subject":"verbal","difficulty":"hard","questionCount":15,"path":"v01-hard.json"},
+    {"id":"v02","title":"Verbal Set 2","subject":"verbal","difficulty":"hard","questionCount":15,"path":"v02-hard.json"},
+    {"id":"v03","title":"Verbal Set 3","subject":"verbal","difficulty":"hard","questionCount":15,"path":"v03-hard.json"},
+    {"id":"v04","title":"Verbal Set 4","subject":"verbal","difficulty":"hard","questionCount":15,"path":"v04-hard.json"},
+    {"id":"v05","title":"Verbal Set 5","subject":"verbal","difficulty":"hard","questionCount":15,"path":"v05-hard.json"},
+    {"id":"v06","title":"Verbal Set 6","subject":"verbal","difficulty":"hard","questionCount":15,"path":"v06-hard.json"},
+    {"id":"v07","title":"Verbal Set 7","subject":"verbal","difficulty":"hard","questionCount":15,"path":"v07-hard.json"},
+    {"id":"v08","title":"Verbal Set 8","subject":"verbal","difficulty":"hard","questionCount":15,"path":"v08-hard.json"},
+    {"id":"v09","title":"Verbal Set 9","subject":"verbal","difficulty":"hard","questionCount":15,"path":"v09-hard.json"},
+    {"id":"v10","title":"Verbal Set 10","subject":"verbal","difficulty":"hard","questionCount":15,"path":"v10-hard.json"}
+  ],
+  "quant": [
+    {"id":"q01","title":"Quant Set 1","subject":"quant","difficulty":"hard","questionCount":15,"path":"q01-hard.json"},
+    {"id":"q02","title":"Quant Set 2","subject":"quant","difficulty":"hard","questionCount":15,"path":"q02-hard.json"},
+    {"id":"q03","title":"Quant Set 3","subject":"quant","difficulty":"hard","questionCount":15,"path":"q03-hard.json"},
+    {"id":"q04","title":"Quant Set 4","subject":"quant","difficulty":"hard","questionCount":15,"path":"q04-hard.json"},
+    {"id":"q05","title":"Quant Set 5","subject":"quant","difficulty":"hard","questionCount":15,"path":"q05-hard.json"},
+    {"id":"q06","title":"Quant Set 6","subject":"quant","difficulty":"hard","questionCount":15,"path":"q06-hard.json"},
+    {"id":"q07","title":"Quant Set 7","subject":"quant","difficulty":"hard","questionCount":15,"path":"q07-hard.json"},
+    {"id":"q08","title":"Quant Set 8","subject":"quant","difficulty":"hard","questionCount":15,"path":"q08-hard.json"},
+    {"id":"q09","title":"Quant Set 9","subject":"quant","difficulty":"hard","questionCount":15,"path":"q09-hard.json"},
+    {"id":"q10","title":"Quant Set 10","subject":"quant","difficulty":"hard","questionCount":15,"path":"q10-hard.json"}
+  ],
+  "awa": [
+    {"id":"awa01","title":"AWA Prompt 1","subject":"awa","path":"awa01.json"},
+    {"id":"awa02","title":"AWA Prompt 2","subject":"awa","path":"awa02.json"}
+  ]
+}

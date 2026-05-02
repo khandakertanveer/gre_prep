@@ -1,0 +1,296 @@
+{
+  "id": "v07",
+  "title": "Verbal Set 7",
+  "subject": "verbal",
+  "difficulty": "hard",
+  "questions": [
+    {
+      "id": "v07-q01",
+      "type": "text_completion",
+      "blanks": 3,
+      "prompt": "The historian's [[1]] treatment of documentary silences — reading absence as ideological suppression rather than archival accident — has been criticized for [[2]] a methodological assumption into a conclusion and for failing to account for the [[3]] destruction of records by fire, flood, and administrative negligence.",
+      "options": [
+        [
+          "uncritical",
+          "nuanced",
+          "sophisticated"
+        ],
+        [
+          "converting",
+          "distinguishing",
+          "incorporating"
+        ],
+        [
+          "documented",
+          "alleged",
+          "systematic"
+        ]
+      ],
+      "answer": [
+        "uncritical",
+        "converting",
+        "documented"
+      ],
+      "explanation": "Uncritical treatment = not questioning the methodology. Converting assumption into conclusion = begging the question (conflating premise and conclusion). Documented destruction (fire, flood) is a factual alternative the historian ignores."
+    },
+    {
+      "id": "v07-q02",
+      "type": "text_completion",
+      "blanks": 2,
+      "prompt": "The committee's deliberations were [[1]] by the intervention of outside counsel, who introduced legal considerations that were technically relevant but [[2]] to the underlying policy question the members were attempting to resolve.",
+      "options": [
+        [
+          "clarified",
+          "complicated",
+          "expedited"
+        ],
+        [
+          "peripheral",
+          "central",
+          "responsive"
+        ]
+      ],
+      "answer": [
+        "complicated",
+        "peripheral"
+      ],
+      "explanation": "Outside counsel's intervention complicated (made more difficult) the deliberations. The legal considerations were peripheral (marginal, not central) to the actual policy question."
+    },
+    {
+      "id": "v07-q03",
+      "type": "text_completion",
+      "blanks": 1,
+      "prompt": "The conference proceedings contain a [[1]] account of the field's development: because each contributor was permitted to describe their own work without editorial coordination, the volume reads as a collection of competing genealogies rather than a coherent intellectual history.",
+      "options": [
+        [
+          "tendentious",
+          "kaleidoscopic",
+          "synthetic",
+          "authoritative",
+          "selective"
+        ]
+      ],
+      "answer": [
+        "kaleidoscopic"
+      ],
+      "explanation": "Multiple competing genealogies without editorial coordination = many-sided, fragmented, shifting. Kaleidoscopic captures this diversity-without-synthesis. Tendentious would mean biased, which the lack of editorial control doesn't imply."
+    },
+    {
+      "id": "v07-q04",
+      "type": "text_completion",
+      "blanks": 3,
+      "prompt": "The economist's model is elegant but [[1]]: it achieves predictive precision by assuming away the very features — institutional friction, bounded rationality, distributional conflict — that make the [[2]] problem it purports to solve [[3]] in the first place.",
+      "options": [
+        [
+          "sterile",
+          "powerful",
+          "comprehensive"
+        ],
+        [
+          "theoretical",
+          "practical",
+          "empirical"
+        ],
+        [
+          "interesting",
+          "tractable",
+          "uncontroversial"
+        ]
+      ],
+      "answer": [
+        "sterile",
+        "practical",
+        "interesting"
+      ],
+      "explanation": "Elegant but sterile = looks good but produces nothing useful. The practical problem is what real-world policy is about. Assuming away friction, bounded rationality, and conflict is exactly what makes the practical problem interesting — they're its substance."
+    },
+    {
+      "id": "v07-q05",
+      "type": "text_completion",
+      "blanks": 2,
+      "prompt": "The playwright's genius lay in her ability to make the [[1]] appear inevitable: what seemed at first a random collision of circumstances was revealed, by the final scene, to have been moving toward its conclusion with a [[2]] that made any other ending unthinkable.",
+      "options": [
+        [
+          "contingent",
+          "inevitable",
+          "tragic"
+        ],
+        [
+          "necessity",
+          "randomness",
+          "ambiguity"
+        ]
+      ],
+      "answer": [
+        "contingent",
+        "necessity"
+      ],
+      "explanation": "Making the contingent (accidental, could-have-been-otherwise) appear inevitable = creating a sense of necessity. The final scene retrospectively imposes necessity on what seemed random."
+    },
+    {
+      "id": "v07-q06",
+      "type": "sentence_equivalence",
+      "prompt": "The prosecution's case rested on circumstantial evidence that, while [[1]], was insufficient to establish guilt beyond a reasonable doubt without corroboration the investigators had failed to obtain.",
+      "options": [
+        "suggestive",
+        "indicative",
+        "exculpatory",
+        "exonerating",
+        "conclusive",
+        "definitive"
+      ],
+      "answer": [
+        "suggestive",
+        "indicative"
+      ],
+      "explanation": "Evidence insufficient for conviction but pointing toward guilt = suggestive and indicative — it points in a direction without establishing it conclusively."
+    },
+    {
+      "id": "v07-q07",
+      "type": "sentence_equivalence",
+      "prompt": "The novelist's refusal to resolve the central ambiguity of her protagonist's motives was [[1]] — an aesthetic choice that divided critics between those who found it honest and those who found it evasive.",
+      "options": [
+        "deliberate",
+        "intentional",
+        "accidental",
+        "inadvertent",
+        "arbitrary",
+        "random"
+      ],
+      "answer": [
+        "deliberate",
+        "intentional"
+      ],
+      "explanation": "A choice that divided critics = a choice (not an accident). Deliberate and intentional both confirm the refusal was purposeful."
+    },
+    {
+      "id": "v07-q08",
+      "type": "sentence_equivalence",
+      "prompt": "The ambassador's remarks were sufficiently [[1]] that both sides could interpret them as endorsing their respective positions without doing obvious violence to the text.",
+      "options": [
+        "elliptical",
+        "oblique",
+        "direct",
+        "explicit",
+        "categorical",
+        "unambiguous"
+      ],
+      "answer": [
+        "elliptical",
+        "oblique"
+      ],
+      "explanation": "Both sides reading endorsement into the same text = indirect, not stating things outright. Elliptical (using few words, leaving things unsaid) and oblique (indirect) both capture this deliberate indirectness."
+    },
+    {
+      "id": "v07-q09",
+      "type": "sentence_equivalence",
+      "prompt": "Her philosophical position has remained [[1]] for thirty years, immune to the various counterexamples and alternative frameworks that have reshaped every other area of the discipline.",
+      "options": [
+        "immutable",
+        "invariant",
+        "evolving",
+        "dynamic",
+        "responsive",
+        "flexible"
+      ],
+      "answer": [
+        "immutable",
+        "invariant"
+      ],
+      "explanation": "Unchanged for thirty years despite counterexamples and alternative frameworks = not changing. Immutable and invariant both mean unchanging."
+    },
+    {
+      "id": "v07-q10",
+      "type": "sentence_equivalence",
+      "prompt": "The think tank's report, whatever its analytical weaknesses, served its primary purpose: it provided [[1]] language that policymakers could use to justify decisions they had already reached on other grounds.",
+      "options": [
+        "legitimating",
+        "sanctifying",
+        "undermining",
+        "complicating",
+        "challenging",
+        "interrogating"
+      ],
+      "answer": [
+        "legitimating",
+        "sanctifying"
+      ],
+      "explanation": "Language used to justify predetermined decisions = language that confers legitimacy or a kind of approval/sanction. Legitimating and sanctifying both mean conferring approval/validity on something."
+    },
+    {
+      "id": "v07-q11",
+      "type": "reading_comprehension",
+      "passage": "The relationship between memory and identity is less straightforward than everyday experience suggests. We take it as obvious that memory binds the self across time — that what makes the person who wakes up tomorrow me is partly that tomorrow's person will remember being me today. But philosophical analysis of this view quickly generates puzzles. Memory can be false: I can seem to remember doing something I did not do. Memory can be gappy: I cannot remember most of my early childhood, yet I am presumably the same person who lived it. And memory can branch: thought experiments involving fission — a person's brain divided and transplanted into two bodies — suggest that strict identity cannot be preserved through all the cases in which we would ordinarily say that memory is continuous.\n\nDerek Parfit's response to these puzzles was to suggest that personal identity, as ordinarily conceived, is not what matters in survival. What matters is psychological continuity and connectedness — the holding of appropriate psychological relations between one's present and future selves — even if those relations do not satisfy the strict logical conditions for numerical identity. The implication is that identity is not what we should care about when thinking about our future; what should concern us is the nature and degree of the psychological connection.",
+      "prompt": "The fission thought experiment is introduced primarily to show that",
+      "options": [
+        "memory is a more reliable guide to personal identity than previously believed",
+        "the concept of personal identity can break down in ways ordinary language cannot accommodate",
+        "psychological continuity is a sufficient condition for personal identity",
+        "early childhood amnesia undermines the memory theory of personal identity",
+        "personal identity is not what matters in survival"
+      ],
+      "answer": "the concept of personal identity can break down in ways ordinary language cannot accommodate",
+      "explanation": "Fission generates a case where we'd say memory is continuous but strict identity cannot be preserved. It shows that identity, as ordinarily conceived, can fail in such cases — the concept breaks down."
+    },
+    {
+      "id": "v07-q12",
+      "type": "reading_comprehension",
+      "passage": "The relationship between memory and identity is less straightforward than everyday experience suggests. We take it as obvious that memory binds the self across time — that what makes the person who wakes up tomorrow me is partly that tomorrow's person will remember being me today. But philosophical analysis of this view quickly generates puzzles. Memory can be false: I can seem to remember doing something I did not do. Memory can be gappy: I cannot remember most of my early childhood, yet I am presumably the same person who lived it. And memory can branch: thought experiments involving fission — a person's brain divided and transplanted into two bodies — suggest that strict identity cannot be preserved through all the cases in which we would ordinarily say that memory is continuous.\n\nDerek Parfit's response to these puzzles was to suggest that personal identity, as ordinarily conceived, is not what matters in survival. What matters is psychological continuity and connectedness — the holding of appropriate psychological relations between one's present and future selves — even if those relations do not satisfy the strict logical conditions for numerical identity. The implication is that identity is not what we should care about when thinking about our future; what should concern us is the nature and degree of the psychological connection.",
+      "prompt": "Parfit's view, as described in the passage, implies that",
+      "options": [
+        "personal identity is a sufficient condition for what matters in survival",
+        "concerns about death should focus on whether strict numerical identity is preserved",
+        "the right question about the future is not 'will it be me?' but 'how psychologically connected will I be?'",
+        "psychological continuity and strict numerical identity always coincide in practice",
+        "early childhood amnesia shows that persons do not survive into adulthood"
+      ],
+      "answer": "the right question about the future is not 'will it be me?' but 'how psychologically connected will I be?'",
+      "explanation": "Parfit's implication: 'identity is not what we should care about... what should concern us is the nature and degree of the psychological connection.' That reframes the question from identity to degree of connection."
+    },
+    {
+      "id": "v07-q13",
+      "type": "reading_comprehension",
+      "passage": "The relationship between memory and identity is less straightforward than everyday experience suggests. We take it as obvious that memory binds the self across time — that what makes the person who wakes up tomorrow me is partly that tomorrow's person will remember being me today. But philosophical analysis of this view quickly generates puzzles. Memory can be false: I can seem to remember doing something I did not do. Memory can be gappy: I cannot remember most of my early childhood, yet I am presumably the same person who lived it. And memory can branch: thought experiments involving fission — a person's brain divided and transplanted into two bodies — suggest that strict identity cannot be preserved through all the cases in which we would ordinarily say that memory is continuous.\n\nDerek Parfit's response to these puzzles was to suggest that personal identity, as ordinarily conceived, is not what matters in survival. What matters is psychological continuity and connectedness — the holding of appropriate psychological relations between one's present and future selves — even if those relations do not satisfy the strict logical conditions for numerical identity. The implication is that identity is not what we should care about when thinking about our future; what should concern us is the nature and degree of the psychological connection.",
+      "prompt": "The three puzzles the author raises about memory — falsity, gaps, and branching — are structured to",
+      "options": [
+        "show that memory is an entirely unreliable guide to past events",
+        "progressively intensify the challenge to the memory theory of personal identity",
+        "demonstrate that personal identity is impossible to establish philosophically",
+        "argue that the memory theory must be abandoned in favor of biological continuity",
+        "suggest that early amnesia is the most serious challenge to the memory theory"
+      ],
+      "answer": "progressively intensify the challenge to the memory theory of personal identity",
+      "explanation": "False memory (minor: individual failures), gappy memory (medium: structural gaps), fission (severe: identity cannot be preserved). The three cases escalate in philosophical severity."
+    },
+    {
+      "id": "v07-q14",
+      "type": "reading_comprehension",
+      "passage": "The literature on state formation has long been divided between those who emphasize the role of warfare in producing strong central states — the coercive extraction of resources to fund armies that in turn demanded administrative capacity — and those who foreground the role of markets, property rights, and commercial interests in generating demands for predictable legal frameworks and impartial enforcement. Neither tradition has been fully successful in accounting for variation: war-centered accounts struggle to explain why some war-prone regions produced weak states while others produced strong ones; commercial accounts struggle to explain why commercial development in some contexts preceded, rather than followed, state consolidation.\n\nA synthesis that has gained traction argues that the critical variable is not war or commerce per se but the configuration of social coalitions that form in response to both. Strong states emerge when rulers and economically powerful groups find it mutually beneficial to cooperate in building institutional capacity — a conjunction that is neither inevitable nor common. Where rural elites can externalize extraction costs onto peasants without state intermediation, or where commercial elites can enforce contracts through private mechanisms, the coalition that would support state-building fails to form.",
+      "prompt": "The synthesis described in the second paragraph attempts to account for variation by",
+      "options": [
+        "showing that war is a more important driver of state formation than commerce in most historical cases",
+        "arguing that state formation is determined by geographic factors that shape both war and commerce",
+        "identifying a conditional relationship that explains why the same factors produce different outcomes in different contexts",
+        "proposing that institutional capacity is the cause rather than the product of state formation",
+        "suggesting that state formation is a fundamentally unpredictable process driven by contingent factors"
+      ],
+      "answer": "identifying a conditional relationship that explains why the same factors produce different outcomes in different contexts",
+      "explanation": "The synthesis argues the critical variable is the coalition configuration — a conditional factor that explains why war and commerce produce strong states sometimes but not others. That's a conditional relationship."
+    },
+    {
+      "id": "v07-q15",
+      "type": "reading_comprehension",
+      "passage": "The literature on state formation has long been divided between those who emphasize the role of warfare in producing strong central states — the coercive extraction of resources to fund armies that in turn demanded administrative capacity — and those who foreground the role of markets, property rights, and commercial interests in generating demands for predictable legal frameworks and impartial enforcement. Neither tradition has been fully successful in accounting for variation: war-centered accounts struggle to explain why some war-prone regions produced weak states while others produced strong ones; commercial accounts struggle to explain why commercial development in some contexts preceded, rather than followed, state consolidation.\n\nA synthesis that has gained traction argues that the critical variable is not war or commerce per se but the configuration of social coalitions that form in response to both. Strong states emerge when rulers and economically powerful groups find it mutually beneficial to cooperate in building institutional capacity — a conjunction that is neither inevitable nor common. Where rural elites can externalize extraction costs onto peasants without state intermediation, or where commercial elites can enforce contracts through private mechanisms, the coalition that would support state-building fails to form.",
+      "prompt": "According to the passage, commercial accounts of state formation are challenged by evidence that",
+      "options": [
+        "commercial development sometimes followed rather than preceded state consolidation",
+        "warfare consistently produced stronger states than commerce in early modern Europe",
+        "rural elites were more important than commercial elites in state-building coalitions",
+        "private contract enforcement mechanisms undermined demands for state legal capacity",
+        "the demands of commerce for legal frameworks were insufficient to produce institutional capacity"
+      ],
+      "answer": "commercial development sometimes followed rather than preceded state consolidation",
+      "explanation": "'Commercial accounts struggle to explain why commercial development in some contexts preceded, rather than followed, state consolidation' — wait, re-reading: commercial development preceded state in some contexts (undermining the commercial-demand argument that commerce drives state-building)? Actually the passage says commercial accounts struggle to explain why commercial development preceded rather than followed. This means commercial accounts predicted development should come after (following) state-building, but in reality development sometimes came before. Answer: commercial development sometimes followed rather than preceded state consolidation."
+    }
+  ]
+}

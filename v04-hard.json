@@ -8,174 +8,175 @@
       "id": "v04-q01",
       "type": "text_completion",
       "blanks": 3,
-      "prompt": "What is most [[1]] in the politician's rhetoric is not its substantive claims — many of which are unobjectionable — but its [[2]] insistence on framing every disagreement as a [[3]] motivated by personal animus.",
+      "prompt": "The report's [[1]] conclusions — careful to acknowledge every qualification — stand in stark contrast to the [[2]] assertions of the summary document, which appears designed for an audience [[3]] of engaging with the underlying complexity.",
       "options": [
-        ["troubling", "characteristic", "innocuous"],
-        ["principled", "reflexive", "ironic"],
-        ["mistake", "vendetta", "policy"]
+        ["tentative", "assertive", "sweeping"],
+        ["nuanced", "categorical", "hedged"],
+        ["capable", "incapable", "desirous"]
       ],
-      "answer": ["troubling", "reflexive", "vendetta"],
-      "explanation": "The structure says the issue is the framing pattern, not the content. Troubling captures concern; reflexive (automatic, without thought) describes the framing pattern; vendetta (personal grudge) matches 'motivated by personal animus.'"
+      "answer": ["tentative", "categorical", "incapable"],
+      "explanation": "Report is careful and qualified = tentative. Summary is the opposite = categorical. Audience for the simplified summary must be incapable of engaging with complexity — hence the simplification."
     },
     {
       "id": "v04-q02",
       "type": "text_completion",
       "blanks": 2,
-      "prompt": "The novelist resists the [[1]] that often attends literary celebrity, declining interviews and refusing to authorize biographies; this reticence has been variously interpreted as integrity, false modesty, and a particularly [[2]] form of self-promotion.",
+      "prompt": "The architect's reputation for [[1]] was not entirely deserved; many of her allegedly improvised solutions were in fact [[2]] in private notebooks years before the client's brief ever arrived.",
       "options": [
-        ["scrutiny", "obscurity", "lassitude"],
-        ["earnest", "sophisticated", "transparent"]
+        ["spontaneity", "rigor", "traditionalism"],
+        ["sketched", "rejected", "plagiarized"]
       ],
-      "answer": ["scrutiny", "sophisticated"],
-      "explanation": "She resists what attends celebrity — scrutiny (unwanted public attention). The paradox: reticence as self-promotion requires a sophisticated (indirect, savvy) form, not a transparent one."
+      "answer": ["spontaneity", "sketched"],
+      "explanation": "Reputation for spontaneity = improvising on the spot. But solutions were actually sketched years earlier — premeditated, not improvised."
     },
     {
       "id": "v04-q03",
       "type": "text_completion",
-      "blanks": 2,
-      "prompt": "Although the treaty was widely hailed as a [[1]] of decades of patient negotiation, subsequent commentators have pointed out that its central provisions were [[2]] enough to permit signatories to claim victory regardless of their actual policy commitments.",
-      "options": [
-        ["repudiation", "culmination", "rehearsal"],
-        ["exacting", "ambiguous", "innovative"]
-      ],
-      "answer": ["culmination", "ambiguous"],
-      "explanation": "'Hailed as ___ of decades of negotiation' calls for a positive endpoint — culmination. Provisions that allow all signatories to claim victory must be vague — ambiguous."
+      "blanks": 1,
+      "prompt": "The minister's resignation statement, widely praised for its [[1]], was in fact a masterpiece of strategic vagueness: it admitted nothing, promised nothing, and committed its author to no particular course of action.",
+      "options": [["candor", "evasion", "gravity", "brevity", "concision"]],
+      "answer": ["candor"],
+      "explanation": "Praised for candor (openness/honesty) — but ironically it was actually evasive. The gap between reputation and reality is the passage's point."
     },
     {
       "id": "v04-q04",
       "type": "text_completion",
-      "blanks": 1,
-      "prompt": "The committee's recommendations, far from offering the bold reform many had anticipated, amounted to little more than a [[1]] of existing practice.",
-      "options": [["repudiation", "ratification", "circumvention", "transformation", "subversion"]],
-      "answer": ["ratification"],
-      "explanation": "'Far from bold reform' = no real change. The recommendations endorsed what already existed. Ratification (formal approval) fits."
+      "blanks": 3,
+      "prompt": "That the author chose to [[1]] the most damaging testimony in a footnote rather than address it in the main text suggests a [[2]] that undermines the very [[3]] of objectivity his preface so conspicuously claims.",
+      "options": [
+        ["engage", "bury", "summarize"],
+        ["partiality", "thoroughness", "carefulness"],
+        ["pose", "practice", "reputation"]
+      ],
+      "answer": ["bury", "partiality", "pose"],
+      "explanation": "Hiding damaging testimony in a footnote = burying it. This reveals partiality (bias). It undermines the pose (pretense) of objectivity — the preface only claims objectivity, it doesn't enact it."
     },
     {
       "id": "v04-q05",
       "type": "text_completion",
       "blanks": 2,
-      "prompt": "Critics of the journalist's exposé argued not that her facts were [[1]], but that her selection and arrangement of them constituted a kind of [[2]] more dangerous than outright fabrication, because harder to refute.",
+      "prompt": "The committee's decision to release the report without [[1]] was [[2]]; in the absence of contextual framing, readers drew precisely the alarming conclusions that the organization had spent years trying to prevent.",
       "options": [
-        ["fabricated", "verified", "controversial"],
-        ["distortion", "rigor", "ineptitude"]
+        ["commentary", "revision", "delay"],
+        ["astute", "counterproductive", "inevitable"]
       ],
-      "answer": ["fabricated", "distortion"],
-      "explanation": "'Not that facts were ___ but that selection... constituted ___' — critics concede the facts aren't fabricated; the issue is something subtler. Selection and arrangement that's harder to refute than fabrication is a form of distortion."
+      "answer": ["commentary", "counterproductive"],
+      "explanation": "No commentary = no framing. The result — alarming conclusions — was the opposite of the organization's intent = counterproductive."
     },
     {
       "id": "v04-q06",
       "type": "sentence_equivalence",
-      "prompt": "The director's vision was so [[1]] that even minor scenes were rehearsed dozens of times until every gesture matched her precise mental image.",
-      "options": ["exacting", "fastidious", "perfunctory", "cursory", "permissive", "lenient"],
-      "answer": ["exacting", "fastidious"],
-      "explanation": "Rehearsing minor scenes dozens of times for precision = extremely demanding. Exacting and fastidious both convey demanding precision."
+      "prompt": "The essayist's prose is celebrated for its [[1]] — the ability to compress a complex argument into a phrase so precisely calibrated that expansion would only dilute it.",
+      "options": ["concision", "economy", "verbosity", "prolixity", "ornament", "circumlocution"],
+      "answer": ["concision", "economy"],
+      "explanation": "Compressing complex arguments into precisely calibrated phrases = extreme brevity and efficiency. Concision and economy both name this quality."
     },
     {
       "id": "v04-q07",
       "type": "sentence_equivalence",
-      "prompt": "His apologies were too [[1]] to be convincing — delivered with such ostentatious self-flagellation that they seemed designed less to repair the wrong than to absolve him of the obligation to address it seriously.",
-      "options": ["histrionic", "theatrical", "muted", "restrained", "formal", "ceremonial"],
-      "answer": ["histrionic", "theatrical"],
-      "explanation": "'Ostentatious self-flagellation' = overdramatic. Histrionic and theatrical both name overdone, performed emotion."
+      "prompt": "The union's [[1]] position — refusing to negotiate any clause touching on automation regardless of the economic context — made agreement impossible even when management offered substantial concessions.",
+      "options": ["intransigent", "obdurate", "flexible", "pragmatic", "moderate", "accommodating"],
+      "answer": ["intransigent", "obdurate"],
+      "explanation": "Refusing to negotiate regardless of context or concessions = completely inflexible. Intransigent and obdurate both mean stubbornly refusing to yield."
     },
     {
       "id": "v04-q08",
       "type": "sentence_equivalence",
-      "prompt": "The candidate's positions were so [[1]] across the campaign that voters could only conclude she had no fixed convictions whatsoever.",
-      "options": ["protean", "mutable", "entrenched", "immutable", "doctrinaire", "categorical"],
-      "answer": ["protean", "mutable"],
-      "explanation": "'No fixed convictions whatsoever' = constantly changing positions. Protean and mutable both mean readily changing."
+      "prompt": "Her assessment was [[1]], arriving at exactly the conclusion the evidence supported and no further, without the embellishments of certainty that more ambitious analysts typically add.",
+      "options": ["measured", "circumspect", "incautious", "hyperbolic", "sweeping", "audacious"],
+      "answer": ["measured", "circumspect"],
+      "explanation": "Arriving at exactly what evidence supports, no further = restrained and careful. Measured and circumspect both describe this calibrated, non-overreaching stance."
     },
     {
       "id": "v04-q09",
       "type": "sentence_equivalence",
-      "prompt": "Although the painter died young, the [[1]] output of her brief career — over three hundred canvases — challenges the romantic image of the struggling artist starved of productive time.",
-      "options": ["prodigious", "prolific", "scant", "meager", "uneven", "patchy"],
-      "answer": ["prodigious", "prolific"],
-      "explanation": "Over three hundred canvases in a brief career = enormous output. Prodigious and prolific both mean massively productive."
+      "prompt": "The introduction of competitive markets into sectors long dominated by state monopoly produced results that were, at best, [[1]]: some inefficiencies were reduced while others merely changed form.",
+      "options": ["ambivalent", "equivocal", "decisive", "unambiguous", "salutary", "transformative"],
+      "answer": ["ambivalent", "equivocal"],
+      "explanation": "Results that reduced some inefficiencies while changing the form of others = mixed, inconclusive. Ambivalent and equivocal both capture this hard-to-evaluate quality."
     },
     {
       "id": "v04-q10",
       "type": "sentence_equivalence",
-      "prompt": "The senator's [[1]] turn against her former allies surprised even her longest-serving aides, who had grown accustomed to ideological flexibility but not to betrayal of personal loyalties.",
-      "options": ["abrupt", "precipitous", "deliberated", "considered", "reluctant", "tentative"],
-      "answer": ["abrupt", "precipitous"],
-      "explanation": "'Surprised even her longest-serving aides' = sudden, unexpected. Abrupt and precipitous both mean sudden."
+      "prompt": "In writing the emperor's biography from the perspective of household servants, the historian produced an account that is [[1]] without being disrespectful — revealing without descending into gossip.",
+      "options": ["intimate", "candid", "reverential", "hagiographic", "distant", "impersonal"],
+      "answer": ["intimate", "candid"],
+      "explanation": "'Without being disrespectful' and 'revealing without gossip' defines a careful middle ground. Intimate and candid both describe the closeness and honesty that stop short of sensationalism."
     },
     {
       "id": "v04-q11",
       "type": "reading_comprehension",
-      "passage": "The discipline of behavioral economics, having spent its first generation establishing systematic departures from the rational-actor model, now confronts a question its founders rarely posed: what, if anything, do these departures collectively imply for the design of public policy? An influential strain of thinking — sometimes labeled libertarian paternalism — answers that policymakers should structure choice architectures to harness predictable cognitive shortcuts in service of outcomes that individuals would, on reflection, endorse. The classic illustration is automatic enrollment in retirement savings programs, which leverages status-quo bias to raise participation rates without restricting opt-out.\n\nCritics of this approach, including some sympathetic to the empirical findings on which it draws, have raised two related objections. The first is that 'what individuals would endorse on reflection' is itself a contested normative claim that policymakers are poorly positioned to adjudicate. The second is that the very heuristics that nudges exploit may be artifacts of context — adaptive in some environments, exploitable in others — rather than stable expressions of underlying preferences. If so, designing policy around them risks entrenching responses that are themselves products of the policy environment, generating a kind of feedback loop that the rational-actor framework, for all its limitations, did not invite.",
-      "prompt": "The primary purpose of the passage is to",
+      "passage": "The field of behavioral genetics has established, with reasonable consistency, that most psychological traits have substantial heritability — meaning that a significant proportion of variation in a given trait among individuals in a population can be attributed to genetic differences. This finding is widely misunderstood in two directions: by those who take it to imply that genes determine traits absolutely, and by those who take it to imply nothing at all because environments are known to matter.\n\nHeritability is a population statistic, not a claim about individual development. The same trait can have high heritability in one population and low heritability in another, depending on how much environmental variation is present. If all individuals share a highly uniform environment, the remaining variation will be almost entirely genetic in origin, yielding high heritability — even if an individual raised in a very different environment would develop the trait differently. Policy implications that follow from heritability estimates are therefore highly sensitive to assumptions about the environmental context in which those estimates were obtained.",
+      "prompt": "The passage suggests that high heritability for a trait in a population",
       "options": [
-        "argue that libertarian paternalism cannot be reconciled with behavioral economics",
-        "present a problem internal to a research program and the principal objections to one proposed solution",
-        "defend the rational-actor model against its behavioral economics critics",
-        "demonstrate that automatic enrollment programs have unintended consequences",
-        "chronicle the historical development of behavioral economics"
+        "implies that the trait cannot be altered by environmental intervention",
+        "means that genes are more important than environments in determining the trait",
+        "may reflect the uniformity of the environment in which the estimate was obtained",
+        "is a necessary condition for the trait to be classified as psychological",
+        "implies that the same estimate would be obtained in any population studied"
       ],
-      "answer": "present a problem internal to a research program and the principal objections to one proposed solution",
-      "explanation": "First paragraph poses the policy question and presents libertarian paternalism as one answer; second paragraph lays out two objections. That structure is choice B."
+      "answer": "may reflect the uniformity of the environment in which the estimate was obtained",
+      "explanation": "The passage states directly: if environment is uniform, remaining variation is genetic, yielding high heritability — 'even if' a different environment would produce different development."
     },
     {
       "id": "v04-q12",
       "type": "reading_comprehension",
-      "passage": "The discipline of behavioral economics, having spent its first generation establishing systematic departures from the rational-actor model, now confronts a question its founders rarely posed: what, if anything, do these departures collectively imply for the design of public policy? An influential strain of thinking — sometimes labeled libertarian paternalism — answers that policymakers should structure choice architectures to harness predictable cognitive shortcuts in service of outcomes that individuals would, on reflection, endorse. The classic illustration is automatic enrollment in retirement savings programs, which leverages status-quo bias to raise participation rates without restricting opt-out.\n\nCritics of this approach, including some sympathetic to the empirical findings on which it draws, have raised two related objections. The first is that 'what individuals would endorse on reflection' is itself a contested normative claim that policymakers are poorly positioned to adjudicate. The second is that the very heuristics that nudges exploit may be artifacts of context — adaptive in some environments, exploitable in others — rather than stable expressions of underlying preferences. If so, designing policy around them risks entrenching responses that are themselves products of the policy environment, generating a kind of feedback loop that the rational-actor framework, for all its limitations, did not invite.",
-      "prompt": "According to the passage, the second objection to libertarian paternalism is best understood as",
+      "passage": "The field of behavioral genetics has established, with reasonable consistency, that most psychological traits have substantial heritability — meaning that a significant proportion of variation in a given trait among individuals in a population can be attributed to genetic differences. This finding is widely misunderstood in two directions: by those who take it to imply that genes determine traits absolutely, and by those who take it to imply nothing at all because environments are known to matter.\n\nHeritability is a population statistic, not a claim about individual development. The same trait can have high heritability in one population and low heritability in another, depending on how much environmental variation is present. If all individuals share a highly uniform environment, the remaining variation will be almost entirely genetic in origin, yielding high heritability — even if an individual raised in a very different environment would develop the trait differently. Policy implications that follow from heritability estimates are therefore highly sensitive to assumptions about the environmental context in which those estimates were obtained.",
+      "prompt": "The primary purpose of the passage is to",
       "options": [
-        "a normative concern about which preferences policymakers should privilege",
-        "a methodological complaint about the empirical evidence underlying nudges",
-        "a worry that policy interventions may shape the very heuristics they purport to address",
-        "a defense of the rational-actor model on epistemic grounds",
-        "a claim that automatic enrollment violates individual autonomy"
+        "argue that heritability estimates should not be used to inform policy decisions",
+        "defend behavioral genetics against critics who deny any role for genes",
+        "clarify a commonly misunderstood statistical concept and identify its implications",
+        "demonstrate that environmental variation is the primary driver of psychological traits",
+        "survey methodological debates within behavioral genetics research"
       ],
-      "answer": "a worry that policy interventions may shape the very heuristics they purport to address",
-      "explanation": "The second objection says heuristics may be context-dependent and that policy designed around them creates a 'feedback loop' — i.e., policy shapes the very heuristics it's responding to. That's choice C."
+      "answer": "clarify a commonly misunderstood statistical concept and identify its implications",
+      "explanation": "First paragraph identifies two misunderstandings; second paragraph explains what heritability actually means and closes with policy implications."
     },
     {
       "id": "v04-q13",
       "type": "reading_comprehension",
-      "passage": "The discipline of behavioral economics, having spent its first generation establishing systematic departures from the rational-actor model, now confronts a question its founders rarely posed: what, if anything, do these departures collectively imply for the design of public policy? An influential strain of thinking — sometimes labeled libertarian paternalism — answers that policymakers should structure choice architectures to harness predictable cognitive shortcuts in service of outcomes that individuals would, on reflection, endorse. The classic illustration is automatic enrollment in retirement savings programs, which leverages status-quo bias to raise participation rates without restricting opt-out.\n\nCritics of this approach, including some sympathetic to the empirical findings on which it draws, have raised two related objections. The first is that 'what individuals would endorse on reflection' is itself a contested normative claim that policymakers are poorly positioned to adjudicate. The second is that the very heuristics that nudges exploit may be artifacts of context — adaptive in some environments, exploitable in others — rather than stable expressions of underlying preferences. If so, designing policy around them risks entrenching responses that are themselves products of the policy environment, generating a kind of feedback loop that the rational-actor framework, for all its limitations, did not invite.",
-      "prompt": "The author's attitude toward libertarian paternalism is best described as",
+      "passage": "The field of behavioral genetics has established, with reasonable consistency, that most psychological traits have substantial heritability — meaning that a significant proportion of variation in a given trait among individuals in a population can be attributed to genetic differences. This finding is widely misunderstood in two directions: by those who take it to imply that genes determine traits absolutely, and by those who take it to imply nothing at all because environments are known to matter.\n\nHeritability is a population statistic, not a claim about individual development. The same trait can have high heritability in one population and low heritability in another, depending on how much environmental variation is present. If all individuals share a highly uniform environment, the remaining variation will be almost entirely genetic in origin, yielding high heritability — even if an individual raised in a very different environment would develop the trait differently. Policy implications that follow from heritability estimates are therefore highly sensitive to assumptions about the environmental context in which those estimates were obtained.",
+      "prompt": "The author describes misunderstandings as occurring 'in two directions' primarily to suggest that",
       "options": [
-        "enthusiastic endorsement",
-        "detached cataloging of objections without explicit endorsement of either side",
-        "thoroughgoing rejection on normative grounds",
-        "reluctant acceptance despite substantial misgivings",
-        "impatience with critics who fail to grasp empirical findings"
+        "genetic and environmental determinism are equally dangerous misconceptions",
+        "only trained scientists can correctly interpret heritability findings",
+        "both over- and underinterpretation of heritability findings produce errors",
+        "the correct view lies precisely halfway between the two extremes",
+        "heritability findings are inherently prone to political misuse"
       ],
-      "answer": "detached cataloging of objections without explicit endorsement of either side",
-      "explanation": "The author lays out the position and the objections without taking a side. Note 'for all its limitations' is even-handed about the rational-actor model, signalling neutrality."
+      "answer": "both over- and underinterpretation of heritability findings produce errors",
+      "explanation": "The two directions are: overclaiming (genes determine everything) and underclaiming (heritability implies nothing). Both are wrong — the author's point is that misunderstanding runs both ways."
     },
     {
       "id": "v04-q14",
       "type": "reading_comprehension",
-      "passage": "Among the more counterintuitive findings of recent neuroscience is that the human brain's processing of music recruits regions traditionally associated with motor planning, even when the listener is sitting still. Functional imaging consistently reveals activation in premotor cortex during pure listening tasks, and lesions in these regions impair not only musical performance but also the perception of rhythmic structure. This convergence has prompted theorists to propose that musical experience is fundamentally embodied: that we hear rhythm, in some neurologically meaningful sense, by simulating the actions that would produce it.\n\nThe proposal remains contested. Skeptics note that premotor activation during music perception may reflect general predictive processing rather than anything specifically simulative, and that lesion data, while suggestive, often involve damage to multiple regions whose contributions cannot be cleanly separated. What is no longer in dispute is that the older view — of music perception as essentially auditory, with motor regions engaged only during overt performance — is too simple to accommodate available evidence.",
-      "prompt": "According to the passage, recent neuroscience has called into question",
+      "passage": "The emergence of print capitalism transformed not merely the speed at which information traveled but the social conditions under which communities could imagine themselves as communities. Benedict Anderson's argument that nations are 'imagined communities' — bound together by shared consumption of print media rather than face-to-face interaction — depends on the observation that newspapers and novels created a sense of simultaneity: readers in distant cities could feel that they inhabited a common moment, experiencing the same events.\n\nCritics have noted that the theory struggles to account for pre-print forms of collective identity — tribal, religious, and dynastic loyalties that generated intense group feeling without mass literacy. Some propose that Anderson's theory should be understood as describing not the origin of collective identity as such, but the specific form it takes under conditions of mass literacy — a more modest claim that preserves the theory's insight while limiting its scope.",
+      "prompt": "The critics mentioned in the second paragraph would most likely agree that Anderson's theory",
       "options": [
-        "the proposition that motor regions activate during musical performance",
-        "the methodological reliability of functional imaging studies",
-        "a strict separation between auditory perception and motor processing",
-        "the value of lesion data in understanding music perception",
-        "claims that musical experience is fundamentally embodied"
+        "accurately describes the origins of all significant forms of collective identity",
+        "should be abandoned in favor of accounts centered on face-to-face interaction",
+        "is more useful as a description of modern national identity than of identity in general",
+        "fails to explain why print capitalism produced different national forms in different regions",
+        "overestimates the role of simultaneity in creating solidarity among dispersed readers"
       ],
-      "answer": "a strict separation between auditory perception and motor processing",
-      "explanation": "The 'older view' that music perception is 'essentially auditory, with motor regions engaged only during overt performance' is what's been complicated — i.e., the strict auditory/motor separation."
+      "answer": "is more useful as a description of modern national identity than of identity in general",
+      "explanation": "The critics' proposed revision — Anderson describes identity 'under conditions of mass literacy' rather than identity 'as such' — restricts his theory to print-era national identity, not all collective identity."
     },
     {
       "id": "v04-q15",
       "type": "reading_comprehension",
-      "passage": "Among the more counterintuitive findings of recent neuroscience is that the human brain's processing of music recruits regions traditionally associated with motor planning, even when the listener is sitting still. Functional imaging consistently reveals activation in premotor cortex during pure listening tasks, and lesions in these regions impair not only musical performance but also the perception of rhythmic structure. This convergence has prompted theorists to propose that musical experience is fundamentally embodied: that we hear rhythm, in some neurologically meaningful sense, by simulating the actions that would produce it.\n\nThe proposal remains contested. Skeptics note that premotor activation during music perception may reflect general predictive processing rather than anything specifically simulative, and that lesion data, while suggestive, often involve damage to multiple regions whose contributions cannot be cleanly separated. What is no longer in dispute is that the older view — of music perception as essentially auditory, with motor regions engaged only during overt performance — is too simple to accommodate available evidence.",
-      "prompt": "The skeptics mentioned in the second paragraph would most likely object to which of the following claims?",
+      "passage": "The emergence of print capitalism transformed not merely the speed at which information traveled but the social conditions under which communities could imagine themselves as communities. Benedict Anderson's argument that nations are 'imagined communities' — bound together by shared consumption of print media rather than face-to-face interaction — depends on the observation that newspapers and novels created a sense of simultaneity: readers in distant cities could feel that they inhabited a common moment, experiencing the same events.\n\nCritics have noted that the theory struggles to account for pre-print forms of collective identity — tribal, religious, and dynastic loyalties that generated intense group feeling without mass literacy. Some propose that Anderson's theory should be understood as describing not the origin of collective identity as such, but the specific form it takes under conditions of mass literacy — a more modest claim that preserves the theory's insight while limiting its scope.",
+      "prompt": "In the passage, 'simultaneity' refers to",
       "options": [
-        "premotor activation occurs during pure listening tasks",
-        "lesion data should be excluded from neuroscientific analysis",
-        "music perception necessarily involves the simulation of producing actions",
-        "functional imaging is an unreliable methodology",
-        "the older view of music perception is no longer tenable"
+        "the speed at which print technology distributed information across large territories",
+        "the shared sense among geographically dispersed readers of inhabiting a common present",
+        "the simultaneous development of print industries in different European nations",
+        "the feeling that newspapers accurately reflected current events as they unfolded",
+        "the synchronization of calendar and clock time made possible by printed almanacs"
       ],
-      "answer": "music perception necessarily involves the simulation of producing actions",
-      "explanation": "Skeptics question whether premotor activation reflects 'anything specifically simulative.' They accept the activation but doubt the simulation interpretation."
+      "answer": "the shared sense among geographically dispersed readers of inhabiting a common present",
+      "explanation": "'Readers in distant cities could feel that they inhabited a common moment, experiencing the same events' — that is the simultaneity Anderson identifies as the foundation of national community."
     }
   ]
 }

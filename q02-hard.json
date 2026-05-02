@@ -1,0 +1,175 @@
+{
+  "id": "q02",
+  "title": "Quant Set 2",
+  "subject": "quant",
+  "difficulty": "hard",
+  "questions": [
+    {
+      "id": "q02-q01",
+      "type": "quantitative_comparison",
+      "prompt": "a, b, c are sides of a triangle with perimeter 18 and a = 4.",
+      "quantityA": "b + c",
+      "quantityB": "14",
+      "answer": "The two quantities are equal.",
+      "explanation": "Perimeter = a + b + c = 18. So b + c = 18 - 4 = 14. Equal."
+    },
+    {
+      "id": "q02-q02",
+      "type": "quantitative_comparison",
+      "prompt": "x and y are non-zero real numbers with xy < 0.",
+      "quantityA": "x² + y²",
+      "quantityB": "x² - y²",
+      "answer": "Quantity A is greater.",
+      "explanation": "A - B = (x²+y²) - (x²-y²) = 2y² > 0 since y ≠ 0. So A > B always."
+    },
+    {
+      "id": "q02-q03",
+      "type": "quantitative_comparison",
+      "prompt": "A fair six-sided die is rolled twice.",
+      "quantityA": "P(both rolls show even numbers)",
+      "quantityB": "P(sum equals 7)",
+      "answer": "Quantity A is greater.",
+      "explanation": "P(both even) = (3/6)² = 9/36 = 1/4. P(sum=7) = 6/36 = 1/6. Since 1/4 > 1/6, A > B."
+    },
+    {
+      "id": "q02-q04",
+      "type": "quantitative_comparison",
+      "prompt": "The function f(x) = x³ - 12x has a local maximum at x = -2.",
+      "quantityA": "f(-2)",
+      "quantityB": "f(2)",
+      "answer": "Quantity A is greater.",
+      "explanation": "f(-2) = -8+24 = 16. f(2) = 8-24 = -16. So A = 16 > B = -16."
+    },
+    {
+      "id": "q02-q05",
+      "type": "quantitative_comparison",
+      "prompt": "n is an integer and |n - 5| < 3.",
+      "quantityA": "n",
+      "quantityB": "8",
+      "answer": "Quantity B is greater.",
+      "explanation": "|n-5| < 3 means 2 < n < 8, so n ∈ {3,4,5,6,7}. In all cases n < 8. So B > A."
+    },
+    {
+      "id": "q02-q06",
+      "type": "quantitative_comparison",
+      "prompt": "The sum of n consecutive integers starting from 1 is S.",
+      "quantityA": "S when n = 10",
+      "quantityB": "60",
+      "answer": "Quantity B is greater.",
+      "explanation": "S = 10×11/2 = 55 < 60. B > A."
+    },
+    {
+      "id": "q02-q07",
+      "type": "quantitative_comparison",
+      "prompt": "In a right triangle, the two legs have lengths 9 and 40.",
+      "quantityA": "The hypotenuse",
+      "quantityB": "41",
+      "answer": "The two quantities are equal.",
+      "explanation": "Hypotenuse = √(81+1600) = √1681 = 41. Equal."
+    },
+    {
+      "id": "q02-q08",
+      "type": "problem_solving",
+      "prompt": "If 2^(2x+1) = 8^(x-1), what is x?",
+      "options": [
+        "-4",
+        "-3",
+        "3",
+        "4",
+        "5"
+      ],
+      "answer": "4",
+      "explanation": "8^(x-1) = 2^(3(x-1)). So 2x+1 = 3x-3, giving x = 4."
+    },
+    {
+      "id": "q02-q09",
+      "type": "problem_solving",
+      "prompt": "A 30-60-90 triangle has its shortest side equal to 6. What is its area?",
+      "options": [
+        "18√3",
+        "36",
+        "36√3",
+        "54",
+        "18"
+      ],
+      "answer": "18√3",
+      "explanation": "Shortest side = 6 (opposite 30°). Other leg (opposite 60°) = 6√3. Area = (1/2)(6)(6√3) = 18√3."
+    },
+    {
+      "id": "q02-q10",
+      "type": "problem_solving",
+      "prompt": "A store marks up a cost price by 40%, then offers a 20% discount. The final price is what percentage of the original cost?",
+      "options": [
+        "100%",
+        "108%",
+        "112%",
+        "120%",
+        "122%"
+      ],
+      "answer": "112%",
+      "explanation": "Cost = C. After markup: 1.4C. After 20% discount: 1.4C × 0.8 = 1.12C = 112% of cost."
+    },
+    {
+      "id": "q02-q11",
+      "type": "problem_solving",
+      "prompt": "In how many ways can 4 people be selected from a group of 9 to form a committee, if 2 specific people (A and B) cannot both be on the committee?",
+      "options": [
+        "91",
+        "96",
+        "105",
+        "114",
+        "126"
+      ],
+      "answer": "105",
+      "explanation": "Total C(9,4)=126. Subtract cases where both A and B are selected: C(7,2)=21. Answer: 126-21=105."
+    },
+    {
+      "id": "q02-q12",
+      "type": "problem_solving",
+      "prompt": "What is the remainder when 7^100 is divided by 8?",
+      "options": [
+        "1",
+        "3",
+        "5",
+        "6",
+        "7"
+      ],
+      "answer": "1",
+      "explanation": "7 ≡ -1 (mod 8). So 7^100 ≡ (-1)^100 = 1 (mod 8)."
+    },
+    {
+      "id": "q02-q13",
+      "type": "numeric_entry",
+      "prompt": "The arithmetic mean of 5 numbers is 14. When one number is removed, the mean of the remaining 4 is 13. What is the removed number?",
+      "answer": "18",
+      "unit": "",
+      "explanation": "Sum of 5 = 70. Sum of remaining 4 = 52. Removed = 70-52 = 18."
+    },
+    {
+      "id": "q02-q14",
+      "type": "numeric_entry",
+      "prompt": "Line ℓ passes through (1, 2) and is perpendicular to the line y = (3/4)x + 1. At what x-value does ℓ intersect the x-axis?",
+      "answer": "5/2",
+      "unit": "",
+      "explanation": "Slope of perpendicular = -4/3. Through (1,2): y-2 = -4/3(x-1). Set y=0: -2 = -4/3(x-1), so x-1 = 3/2, x = 5/2."
+    },
+    {
+      "id": "q02-q15",
+      "type": "multiple_answer",
+      "prompt": "Which of the following numbers are prime? Indicate all that apply.",
+      "options": [
+        "91",
+        "97",
+        "101",
+        "111",
+        "127"
+      ],
+      "answer": [
+        "97",
+        "101",
+        "127"
+      ],
+      "explanation": "91 = 7×13 (not prime). 97: no factors up to √97≈9.8: not divisible by 2,3,5,7 → prime. 101: not divisible by 2,3,5,7 → prime. 111 = 3×37 (not prime). 127: not divisible by 2,3,5,7,11 → prime. Correct: 97, 101, 127."
+    }
+  ]
+}
